@@ -12,11 +12,11 @@ The dataset is divided into **training** and **test** sets to support model trai
 
 | Statistic                          | Value |
 |------------------------------------|-------|
-| Number of paragraphs       | 689   |
-| Total number of annotations | 2139  |
-| Annotations for persons    | 1096  |
+| Number of paragraphs       | 688   |
+| Total number of annotations | 2135  |
+| Annotations for persons    | 1093  |
 | Annotations for locations  | 407   |
-| Annotations for works      | 636   |
+| Annotations for works      | 635   |
 | NIL annotations            | 156   |
 
 ### Test Set
