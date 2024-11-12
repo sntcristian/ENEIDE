@@ -91,7 +91,7 @@ for filepath in glob.glob(os.path.join(directory, '*.html')):
         output.extend(annotations)
         max_date = get_date(soup)
         mention_counts[file_name] = len(annotations)
-        all_paragraphs.append({"doc_id":file_name, "text":full_text, "max_date":max_date})
+        all_paragraphs.append({"doc_id":file_name, "text":full_text, "publication_date":max_date})
         length_counts[file_name]=len(re.split("\W", full_text))
 
 
