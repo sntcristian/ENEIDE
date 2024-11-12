@@ -1,4 +1,4 @@
-# AMD Entity Linking Dataset
+# Aldo Moro Digitale (AMD) Entity Linking Dataset
 
 ## Description
 This dataset has been built using the digital edition of *Aldo Moro Digitale*, which contains texts produced between 1936 and 1978. The texts include manual annotations that highlight references to people, places, and organizations linked to entities on Wikidata, thus providing a valuable resource for *entity linking* tasks.
