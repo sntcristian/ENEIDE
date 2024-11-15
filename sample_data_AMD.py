@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup
 import csv
 import statistics
 import re
+import pandas as pd
+from sklearn.model_selection import train_test_split
 
 output = []
 all_paragraphs = []
@@ -137,19 +139,6 @@ print(f"Valore massimo dei conteggi: {max_mentions}")
 all_paragraphs = [par for par in all_paragraphs if par["doc_id"] in documents_not_outliers]
 output = [annotation for annotation in output if annotation["doc_id"] in documents_not_outliers]
 
-keys = output[0].keys()
-with open("./AMD/annotations.csv", "w", encoding="utf-8") as f:
-    dict_writer = csv.DictWriter(f, keys)
-    dict_writer.writeheader()
-    dict_writer.writerows(output)
-f.close()
-
-keys = all_paragraphs[0].keys()
-with open("./AMD/paragraphs.csv", "w", encoding="utf-8") as f:
-    dict_writer = csv.DictWriter(f, keys)
-    dict_writer.writeheader()
-    dict_writer.writerows(all_paragraphs)
-f.close()
 
 print(len(all_paragraphs))
 print(len(output))
@@ -163,6 +152,41 @@ print(f"Number of annotations for persons: {len(per_annotations)}")
 print(f"Number of annotations for locations: {len(loc_annotations)}")
 print(f"Number of annotations for organizations: {len(org_annotations)}")
 print(f"NIL annotations: {len(nil_annotations)}")
+
+paragraphs_df = pd.DataFrame(all_paragraphs)
+
+# Rimuoviamo le righe con valori NaN in 'publication_date' per il campionamento stratificato
+paragraphs_df = paragraphs_df.dropna(subset=['publication_date'])
+
+# Divisione in training e testing con stratificazione su 'publication_date'
+train_df, test_df = train_test_split(
+    paragraphs_df,
+    test_size=0.25,
+    stratify=paragraphs_df['publication_date'],
+    random_state=42
+)
+
+
+
+
+# Salvataggio dei dati su file
+train_df.to_csv("./AMD/paragraphs_train.csv", index=False, encoding="utf-8")
+test_df.to_csv("./AMD/paragraphs_test.csv", index=False, encoding="utf-8")
+
+
+train_annotations = [ann for ann in output if ann["doc_id"] in train_df["doc_id"].values]
+test_annotations = [ann for ann in output if ann["doc_id"] in test_df["doc_id"].values]
+
+keys = output[0].keys()
+with open("./AMD/annotations_train.csv", "w", encoding="utf-8") as f:
+    dict_writer = csv.DictWriter(f, keys)
+    dict_writer.writeheader()
+    dict_writer.writerows(train_annotations)
+
+with open("./AMD/annotations_test.csv", "w", encoding="utf-8") as f:
+    dict_writer = csv.DictWriter(f, keys)
+    dict_writer.writeheader()
+    dict_writer.writerows(test_annotations)
 
 
 
