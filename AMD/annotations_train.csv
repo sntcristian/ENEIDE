@@ -33,7 +33,7 @@ document_110016.html,Chiesa,713,719,ORG,Q34651
 document_110017.html,Fuci,679,683,ORG,Q3091708
 document_110018.html,Roma,130,134,LOC,Q220
 document_110018.html,Fuci,159,163,ORG,Q3091708
-document_110018.html,Chiesa,1394,1400,ORG,Q34651
+document_110018.html,Chiesa,1393,1399,ORG,Q34651
 document_110020.html,Associazioni,130,142,ORG,Q3091708
 document_110020.html,Fuci,409,413,ORG,Q3091708
 document_110023.html,Associazioni,56,68,ORG,Q3091708
@@ -100,21 +100,21 @@ document_110061.html,Associazioni,990,1002,ORG,Q3091708
 document_110061.html,Fuci,1192,1196,ORG,Q3091708
 document_110063.html,Università Cattolica del Sacro Cuore,84,120,ORG,Q229022
 document_110064.html,Padre,39,44,PER,Q2604
-document_110064.html,Associazioni,98,110,ORG,Q3091708
-document_110064.html,A. C.,128,133,ORG,Q3318304
-document_110064.html,Roma,147,151,LOC,Q220
-document_110064.html,Laureati di Azione Cattolica,189,217,ORG,Q3866579
-document_110064.html,Fuci,250,254,ORG,Q3091708
-document_110064.html,Pio XII,277,284,PER,Q2604
-document_110064.html,Universitari,337,349,ORG,Q3091708
-document_110064.html,A. C.,353,358,ORG,Q3318304
-document_110064.html,Padre,366,371,PER,Q2604
-document_110064.html,Sommo Pontefice,514,529,PER,Q2604
-document_110064.html,Associazioni,561,573,ORG,Q3091708
-document_110064.html,Lui,732,735,PER,Q2604
-document_110064.html,Associazioni,1048,1060,ORG,Q3091708
-document_110064.html,Padre,1067,1072,PER,Q2604
-document_110064.html,Associazioni,1342,1354,ORG,Q3091708
+document_110064.html,Associazioni,97,109,ORG,Q3091708
+document_110064.html,A. C.,127,132,ORG,Q3318304
+document_110064.html,Roma,146,150,LOC,Q220
+document_110064.html,Laureati di Azione Cattolica,188,216,ORG,Q3866579
+document_110064.html,Fuci,249,253,ORG,Q3091708
+document_110064.html,Pio XII,276,283,PER,Q2604
+document_110064.html,Universitari,336,348,ORG,Q3091708
+document_110064.html,A. C.,352,357,ORG,Q3318304
+document_110064.html,Padre,365,370,PER,Q2604
+document_110064.html,Sommo Pontefice,512,527,PER,Q2604
+document_110064.html,Associazioni,559,571,ORG,Q3091708
+document_110064.html,Lui,730,733,PER,Q2604
+document_110064.html,Associazioni,1046,1058,ORG,Q3091708
+document_110064.html,Padre,1065,1070,PER,Q2604
+document_110064.html,Associazioni,1339,1351,ORG,Q3091708
 document_110065.html,Italia,110,116,LOC,Q38
 document_110065.html,Associazioni Universitarie,124,150,ORG,Q3091708
 document_110065.html,Azione Cattolica,154,170,ORG,Q3318304
@@ -215,15 +215,15 @@ document_110123.html,Austria,210,217,LOC,Q40
 document_110123.html,Italia,256,262,LOC,Q38
 document_110123.html,Germania,300,308,LOC,Q183
 document_110123.html,Alto Adige,390,400,LOC,Q15124
-document_110123.html,Isonzo,431,437,LOC,Q202760
-document_110123.html,Trieste,439,446,LOC,Q546
-document_110123.html,Italia,484,490,LOC,Q38
-document_110123.html,Ministro inglese degli Esteri,505,534,PER,Q128995
-document_110123.html,Italia,604,610,LOC,Q38
-document_110123.html,Inghilterra,718,729,LOC,Q21
-document_110123.html,America,737,744,LOC,Q30
-document_110123.html,paese,772,777,LOC,Q38
-document_110123.html,Giappone,815,823,LOC,Q17
+document_110123.html,Isonzo,430,436,LOC,Q202760
+document_110123.html,Trieste,438,445,LOC,Q546
+document_110123.html,Italia,483,489,LOC,Q38
+document_110123.html,Ministro inglese degli Esteri,504,533,PER,Q128995
+document_110123.html,Italia,603,609,LOC,Q38
+document_110123.html,Inghilterra,717,728,LOC,Q21
+document_110123.html,America,736,743,LOC,Q30
+document_110123.html,paese,771,776,LOC,Q38
+document_110123.html,Giappone,814,822,LOC,Q17
 document_110124.html,Italia,112,118,LOC,Q38
 document_110124.html,partiti,233,240,ORG,Q7278
 document_110125.html,Italia,124,130,LOC,Q38
@@ -347,7 +347,7 @@ document_121078.html,Democrazia Cristiana,355,375,ORG,Q815348
 document_121080.html,Tristan Tzara,106,119,PER,Q16409
 document_121082.html,Togliatti,225,234,PER,Q310158
 document_121084.html,commissione dei 75,151,169,ORG,Q3684787
-document_121084.html,costituente,175,186,ORG,Q1053185
+document_121084.html,costituente,174,185,ORG,Q1053185
 document_121086.html,Commissione,174,185,ORG,Q3684787
 document_121087.html,Cevolotto,194,203,PER,Q3848440
 document_121087.html,Togliatti,255,264,PER,Q310158
@@ -473,10 +473,10 @@ document_121238.html,Maria Montessori,240,256,PER,Q131117
 document_121238.html,Italia,352,358,LOC,Q38
 document_121240.html,Presidente,71,81,PER,Q1241
 document_121240.html,Costituente,267,278,ORG,Q1053185
-document_121240.html,Maria Montessori,325,341,PER,Q131117
-document_121240.html,Maria Jervolino,520,535,PER,Q3847238
-document_121240.html,Costituente,672,683,ORG,Q1053185
-document_121240.html,Costituente,808,819,ORG,Q1053185
+document_121240.html,Maria Montessori,324,340,PER,Q131117
+document_121240.html,Maria Jervolino,519,534,PER,Q3847238
+document_121240.html,Costituente,671,682,ORG,Q1053185
+document_121240.html,Costituente,806,817,ORG,Q1053185
 document_121241.html,Maria Montessori,592,608,PER,Q131117
 document_121241.html,Italia,657,663,LOC,Q38
 document_121241.html,Italia,768,774,LOC,Q38
@@ -920,7 +920,7 @@ document_132093.html,Coni,1603,1607,ORG,Q1114833
 document_132094.html,Signora Wilson,129,143,PER,Q75319784
 document_132096.html,organizzazione,527,541,ORG,Q3682549
 document_132097.html,Morlino,296,303,PER,Q674952
-document_132097.html,Rumor,386,391,PER,Q316288
+document_132097.html,Rumor,385,390,PER,Q316288
 document_132098.html,Bologna,147,154,LOC,Q1891
 document_132098.html,Bologna,390,397,LOC,Q1891
 document_132098.html,Bologna,558,565,LOC,Q1891
@@ -1675,208 +1675,208 @@ document_141317.html,partito,721,728,ORG,Q815348
 document_141320.html,Bari,70,74,LOC,Q3519
 document_141320.html,D.C.,151,155,ORG,Q815348
 document_142007.html,Nixon,264,269,PER,Q9588
-document_142007.html,Europa,284,290,LOC,Q46
+document_142007.html,Europa,279,285,LOC,Q46
 document_142008.html,Europa,93,99,LOC,Q46
-document_142008.html,unione europea,156,170,ORG,Q458
+document_142008.html,unione europea,151,165,ORG,Q458
 document_142009.html,Fiera,254,259,LOC,NIL
 document_142013.html,Signor ministro,58,73,PER,Q315568
 document_142014.html,Communauté,277,287,ORG,Q458
 document_142015.html,Europa,207,213,LOC,Q46
-document_142015.html,America,222,229,LOC,Q828
-document_142015.html,Europa,711,717,LOC,Q46
-document_142015.html,Europa,983,989,LOC,Q46
-document_142015.html,America Latina,1040,1054,LOC,Q12585
+document_142015.html,America,217,224,LOC,Q828
+document_142015.html,Europa,701,707,LOC,Q46
+document_142015.html,Europa,968,974,LOC,Q46
+document_142015.html,America Latina,1020,1034,LOC,Q12585
 document_142016.html,Presidente,41,51,PER,Q180195
 document_142017.html,Luxembourg,154,164,LOC,Q32
 document_142019.html,Italia,104,110,LOC,Q38
-document_142019.html,Comunità europea,137,153,ORG,Q52847
-document_142019.html,Europa,219,225,LOC,Q46
-document_142019.html,America Latina,248,262,LOC,Q12585
-document_142019.html,Comunità,417,425,ORG,Q52847
-document_142019.html,Bruxelles,515,524,LOC,Q239
+document_142019.html,Comunità europea,132,148,ORG,Q52847
+document_142019.html,Europa,209,215,LOC,Q46
+document_142019.html,America Latina,233,247,LOC,Q12585
+document_142019.html,Comunità,397,405,ORG,Q52847
+document_142019.html,Bruxelles,490,499,LOC,Q239
 document_142020.html,Europa,602,608,LOC,Q46
-document_142020.html,Ginevra,810,817,LOC,Q71
-document_142020.html,Vienna,834,840,LOC,Q1741
+document_142020.html,Ginevra,805,812,LOC,Q71
+document_142020.html,Vienna,824,830,LOC,Q1741
 document_142021.html,Democrazia Cristiana,282,302,ORG,Q815348
-document_142021.html,Italia,527,533,LOC,Q38
+document_142021.html,Italia,522,528,LOC,Q38
 document_142022.html,Presidente,70,80,PER,Q180195
 document_142023.html,Tunisia,132,139,LOC,Q948
-document_142023.html,Mediterraneo,256,268,LOC,Q4918
-document_142023.html,Bourghiba,298,307,PER,NIL
+document_142023.html,Mediterraneo,251,263,LOC,Q4918
+document_142023.html,Bourghiba,288,297,PER,NIL
 document_142024.html,Europa,209,215,LOC,Q46
-document_142024.html,Medio Oriente,270,283,LOC,Q7204
-document_142024.html,Italia,373,379,LOC,Q38
-document_142024.html,Africa,625,631,LOC,Q15
+document_142024.html,Medio Oriente,265,278,LOC,Q7204
+document_142024.html,Italia,363,369,LOC,Q38
+document_142024.html,Africa,610,616,LOC,Q15
 document_142026.html,Parigi,66,72,LOC,Q90
-document_142026.html,Cile,359,363,LOC,Q298
-document_142026.html,Grecia,381,387,LOC,Q41
-document_142026.html,URSS,466,470,LOC,Q15180
-document_142026.html,Oriente,497,504,LOC,NIL
+document_142026.html,Cile,358,362,LOC,Q298
+document_142026.html,Grecia,379,385,LOC,Q41
+document_142026.html,URSS,463,467,LOC,Q15180
+document_142026.html,Oriente,494,501,LOC,NIL
 document_142027.html,Medio Oriente,157,170,LOC,Q7204
-document_142027.html,collega egiziano,338,354,PER,Q6084719
+document_142027.html,collega egiziano,333,349,PER,Q6084719
 document_142029.html,Arabia Saudita,40,54,LOC,Q851
-document_142029.html,Arabia Saudita,261,275,LOC,Q851
-document_142029.html,CEE,984,987,ORG,Q52847
+document_142029.html,Arabia Saudita,256,270,LOC,Q851
+document_142029.html,CEE,974,977,ORG,Q52847
 document_142030.html,Italia,513,519,LOC,Q38
-document_142030.html,Italia,952,958,LOC,Q38
+document_142030.html,Italia,947,953,LOC,Q38
 document_142032.html,Nixon,146,151,PER,Q9588
 document_142036.html,Italia,353,359,LOC,Q38
-document_142036.html,Gran Bretagna,435,448,LOC,Q145
-document_142036.html,Comunità,472,480,ORG,Q52847
-document_142036.html,Gran Bretagna,528,541,LOC,Q145
-document_142036.html,Comunità,601,609,ORG,Q52847
+document_142036.html,Gran Bretagna,430,443,LOC,Q145
+document_142036.html,Comunità,462,470,ORG,Q52847
+document_142036.html,Gran Bretagna,513,526,LOC,Q145
+document_142036.html,Comunità,581,589,ORG,Q52847
 document_142038.html,Consiglio d’Europa,125,143,ORG,Q8908
 document_142040.html,Franz Jonas,113,124,PER,Q13014
-document_142040.html,Austria,174,181,LOC,Q40
-document_142040.html,Franz Jonas,457,468,PER,Q13014
-document_142040.html,Franz Jonas,533,544,PER,Q13014
-document_142040.html,Vienna,593,599,LOC,Q1741
-document_142040.html,Vienna,893,899,LOC,Q1741
+document_142040.html,Austria,169,176,LOC,Q40
+document_142040.html,Franz Jonas,447,458,PER,Q13014
+document_142040.html,Franz Jonas,518,529,PER,Q13014
+document_142040.html,Vienna,573,579,LOC,Q1741
+document_142040.html,Vienna,868,874,LOC,Q1741
 document_142041.html,Santiago del Cile,152,169,LOC,Q2887
 document_142043.html,Democrazia Cristiana,34,54,ORG,Q815348
-document_142043.html,Segretario politico,219,238,PER,Q273228
+document_142043.html,Segretario politico,214,233,PER,Q273228
 document_142044.html,collega ungherese,86,103,PER,Q1241512
-document_142044.html,Ungheria,183,191,LOC,Q28
+document_142044.html,Ungheria,178,186,LOC,Q28
 document_142045.html,Italia,93,99,LOC,Q38
-document_142045.html,Europa,183,189,LOC,Q46
-document_142045.html,Ginevra,339,346,LOC,Q71
-document_142045.html,Italia,698,704,LOC,Q38
-document_142045.html,Europa,843,849,LOC,Q46
-document_142045.html,Italia,896,902,LOC,Q38
-document_142045.html,Vienna,1090,1096,LOC,Q1741
-document_142045.html,Europa,1145,1151,LOC,Q46
-document_142045.html,Comunità europea,1266,1282,ORG,Q458
-document_142045.html,Europa,1415,1421,LOC,Q46
+document_142045.html,Europa,178,184,LOC,Q46
+document_142045.html,Ginevra,329,336,LOC,Q71
+document_142045.html,Italia,683,689,LOC,Q38
+document_142045.html,Europa,823,829,LOC,Q46
+document_142045.html,Italia,871,877,LOC,Q38
+document_142045.html,Vienna,1060,1066,LOC,Q1741
+document_142045.html,Europa,1110,1116,LOC,Q46
+document_142045.html,Comunità europea,1226,1242,ORG,Q458
+document_142045.html,Europa,1370,1376,LOC,Q46
 document_142051.html,Malta,201,206,LOC,Q233
 document_142052.html,Europa,98,104,LOC,Q46
-document_142052.html,Ginevra,182,189,LOC,Q71
-document_142052.html,Europa,341,347,LOC,Q46
-document_142052.html,Italia,730,736,LOC,Q38
+document_142052.html,Ginevra,177,184,LOC,Q71
+document_142052.html,Europa,331,337,LOC,Q46
+document_142052.html,Italia,715,721,LOC,Q38
 document_142053.html,Varsavia,86,94,LOC,Q270
-document_142053.html,Bruxelles,128,137,LOC,Q239
-document_142053.html,Europa,251,257,LOC,Q46
-document_142053.html,Usa,436,439,LOC,Q30
-document_142053.html,Urss,447,451,LOC,Q15180
+document_142053.html,Bruxelles,123,132,LOC,Q239
+document_142053.html,Europa,241,247,LOC,Q46
+document_142053.html,Usa,421,424,LOC,Q30
+document_142053.html,Urss,427,431,LOC,Q15180
 document_142054.html,Europa Occidentale,366,384,LOC,Q27496
 document_142055.html,Iraq,199,203,LOC,Q796
-document_142055.html,Italia,518,524,LOC,Q38
-document_142055.html,Iraq,542,546,LOC,Q796
+document_142055.html,Italia,513,519,LOC,Q38
+document_142055.html,Iraq,532,536,LOC,Q796
 document_142056.html,Roma,77,81,LOC,Q220
-document_142056.html,Democrazia Cristiana,122,142,ORG,Q815348
-document_142056.html,partito socialista italiano,479,506,ORG,Q590750
-document_142056.html,Roma,596,600,LOC,Q220
-document_142056.html,Palazzo Giustiniani,680,699,LOC,Q3890240
-document_142056.html,Fanfani,842,849,PER,Q273228
-document_142056.html,Fanfani,1320,1327,PER,Q273228
+document_142056.html,Democrazia Cristiana,117,137,ORG,Q815348
+document_142056.html,partito socialista italiano,469,496,ORG,Q590750
+document_142056.html,Roma,581,585,LOC,Q220
+document_142056.html,Palazzo Giustiniani,660,679,LOC,Q3890240
+document_142056.html,Fanfani,817,824,PER,Q273228
+document_142056.html,Fanfani,1290,1297,PER,Q273228
 document_142057.html,Unione Sovietica,124,140,LOC,Q15180
-document_142057.html,Italia,151,157,LOC,Q38
+document_142057.html,Italia,146,152,LOC,Q38
 document_142058.html,Unione sovietica,285,301,LOC,Q15180
-document_142058.html,Italia,493,499,LOC,Q38
-document_142058.html,Mediterraneo,537,549,LOC,Q4918
-document_142058.html,Europa,591,597,LOC,Q46
+document_142058.html,Italia,488,494,LOC,Q38
+document_142058.html,Mediterraneo,527,539,LOC,Q4918
+document_142058.html,Europa,576,582,LOC,Q46
 document_142060.html,Ella,60,64,PER,Q956516
-document_142060.html,Italia,83,89,LOC,Q38
-document_142060.html,America Latina,204,218,LOC,Q12585
-document_142060.html,Comunità europea,345,361,ORG,Q52847
-document_142060.html,Comunità economica europea,859,885,ORG,Q52847
-document_142060.html,paesi latinoamericani,896,917,LOC,NIL
+document_142060.html,Italia,78,84,LOC,Q38
+document_142060.html,America Latina,194,208,LOC,Q12585
+document_142060.html,Comunità europea,330,346,ORG,Q52847
+document_142060.html,Comunità economica europea,839,865,ORG,Q52847
+document_142060.html,paesi latinoamericani,871,892,LOC,NIL
 document_142061.html,Togliatti,70,79,PER,Q310158
-document_142061.html,Togliatti,468,477,PER,Q310158
-document_142061.html,Togliatti,694,703,PER,Q310158
-document_142061.html,DC,745,747,ORG,Q815348
+document_142061.html,Togliatti,463,472,PER,Q310158
+document_142061.html,Togliatti,684,693,PER,Q310158
+document_142061.html,DC,730,732,ORG,Q815348
 document_142067.html,Cee,79,82,ORG,Q52847
-document_142067.html,Cee,431,434,ORG,Q52847
-document_142067.html,Cee,635,638,ORG,Q52847
+document_142067.html,Cee,426,429,ORG,Q52847
+document_142067.html,Cee,625,628,ORG,Q52847
 document_142069.html,Fanfani,161,168,PER,Q273228
-document_142069.html,Democrazia Cristiana,218,238,ORG,Q815348
-document_142069.html,Fanfani,377,384,PER,Q273228
+document_142069.html,Democrazia Cristiana,213,233,ORG,Q815348
+document_142069.html,Fanfani,367,374,PER,Q273228
 document_142070.html,DC,362,364,ORG,Q815348
-document_142070.html,PRI,376,379,ORG,Q767560
-document_142070.html,PSI,433,436,ORG,Q590750
-document_142070.html,PSDI,448,452,ORG,Q665335
+document_142070.html,PRI,371,374,ORG,Q767560
+document_142070.html,PSI,423,426,ORG,Q590750
+document_142070.html,PSDI,433,437,ORG,Q665335
 document_142071.html,Presidente,74,84,PER,Q1233
 document_142071.html,democrazia cristiana,283,303,ORG,Q815348
-document_142071.html,partito repubblicano italiano,315,344,ORG,Q767560
-document_142071.html,partito socialista,400,418,ORG,Q590750
-document_142071.html,partito socialista,439,457,ORG,Q590750
+document_142071.html,partito repubblicano italiano,310,339,ORG,Q767560
+document_142071.html,partito socialista,390,408,ORG,Q590750
+document_142071.html,partito socialista,424,442,ORG,Q590750
 document_142072.html,Presidente,37,47,PER,Q180195
 document_142073.html,Presidente,36,46,PER,Q1233
-document_142073.html,Rognoni,946,953,PER,Q1748746
-document_142073.html,De Martino,981,991,PER,Q1379919
-document_142073.html,Orlandi,1005,1012,PER,Q3746504
-document_142073.html,Biasini,1026,1033,PER,Q3049593
+document_142073.html,Rognoni,941,948,PER,Q1748746
+document_142073.html,De Martino,971,981,PER,Q1379919
+document_142073.html,Orlandi,990,997,PER,Q3746504
+document_142073.html,Biasini,1006,1013,PER,Q3049593
 document_142079.html,Signor Primo ministro,51,72,PER,Q23333
 document_142083.html,Italia,135,141,LOC,Q38
-document_142083.html,segretario generale,151,170,PER,Q1260
-document_142083.html,Nazioni Unite,182,195,ORG,Q1065
+document_142083.html,segretario generale,146,165,PER,Q1260
+document_142083.html,Nazioni Unite,172,185,ORG,Q1065
 document_142087.html,Primo Ministro,65,79,PER,Q8619
-document_142087.html,Canadà,447,453,LOC,Q16
-document_142087.html,Italia,468,474,LOC,Q38
+document_142087.html,Canadà,442,448,LOC,Q16
+document_142087.html,Italia,458,464,LOC,Q38
 document_142092.html,Democrazia Cristiana,245,265,ORG,Q815348
-document_142092.html,Bari,283,287,LOC,Q3519
+document_142092.html,Bari,278,282,LOC,Q3519
 document_142100.html,dc,306,308,ORG,Q815348
 document_142107.html,Stati Uniti,129,140,LOC,Q30
-document_142107.html,Germania,155,163,LOC,Q713750
+document_142107.html,Germania,150,158,LOC,Q713750
 document_142109.html,Comunità,486,494,ORG,Q52847
 document_142111.html,Ginevra,365,372,LOC,Q71
 document_142115.html,CEE,324,327,ORG,Q52847
-document_142115.html,Karamanlis,418,428,PER,Q156806
-document_142115.html,Italia,492,498,LOC,Q38
-document_142115.html,Grecia,642,648,LOC,Q41
-document_142115.html,Comunità,660,668,ORG,Q52847
-document_142115.html,Comunità,769,777,ORG,Q52847
+document_142115.html,Karamanlis,413,423,PER,Q156806
+document_142115.html,Italia,482,488,LOC,Q38
+document_142115.html,Grecia,627,633,LOC,Q41
+document_142115.html,Comunità,640,648,ORG,Q52847
+document_142115.html,Comunità,744,752,ORG,Q52847
 document_142116.html,Italia,53,59,LOC,Q38
-document_142116.html,Primo Ministro,130,144,PER,Q156806
-document_142116.html,Roma,184,188,LOC,Q220
+document_142116.html,Primo Ministro,125,139,PER,Q156806
+document_142116.html,Roma,174,178,LOC,Q220
 document_142117.html,Presidente,78,88,PER,Q1233
-document_142117.html,Italia,381,387,LOC,Q38
-document_142117.html,Iugoslavia,395,405,LOC,Q83286
+document_142117.html,Italia,376,382,LOC,Q38
+document_142117.html,Iugoslavia,385,395,LOC,Q83286
 document_142118.html,unione europea,217,231,ORG,Q458
-document_142118.html,Europa,242,248,LOC,Q46
-document_142118.html,Italia,440,446,LOC,Q38
-document_142118.html,unione europea,712,726,ORG,Q458
+document_142118.html,Europa,237,243,LOC,Q46
+document_142118.html,Italia,430,436,LOC,Q38
+document_142118.html,unione europea,697,711,ORG,Q458
 document_142120.html,Mezzogiorno,111,122,LOC,Q207989
 document_142123.html,federazione unitaria sindacale,91,121,ORG,Q3740897
 document_142124.html,D.C.,129,133,ORG,Q815348
-document_142124.html,Roma,154,158,LOC,Q220
+document_142124.html,Roma,149,153,LOC,Q220
 document_142126.html,Sindaco,148,155,PER,Q3339912
 document_142128.html,Badioli,299,306,PER,NIL
-document_142128.html,Badioli,521,528,PER,NIL
+document_142128.html,Badioli,516,523,PER,NIL
 document_142129.html,Presidente,54,64,PER,Q598216
 document_142130.html,Rambouillet,69,80,LOC,Q191119
-document_142130.html,Rumor,132,137,PER,Q316288
-document_142130.html,Colombo,179,186,PER,Q312058
+document_142130.html,Rumor,127,132,PER,Q316288
+document_142130.html,Colombo,169,176,PER,Q312058
 document_142132.html,Rambouillet,302,313,LOC,Q191119
 document_142133.html,Rambouillet,159,170,LOC,Q191119
 document_142135.html,Democrazia Cristiana,359,379,ORG,Q815348
-document_142135.html,Zaccagnini,701,711,PER,Q817307
+document_142135.html,Zaccagnini,696,706,PER,Q817307
 document_142136.html,Europa,235,241,LOC,Q46
-document_142136.html,Comunità,360,368,ORG,Q52847
+document_142136.html,Comunità,355,363,ORG,Q52847
 document_142137.html,Livorno,211,218,LOC,Q6761
 document_142142.html,Puglie,97,103,LOC,Q1447
-document_142142.html,Bari,527,531,LOC,Q3519
+document_142142.html,Bari,522,526,LOC,Q3519
 document_142148.html,Presidente,37,47,PER,Q180195
 document_142150.html,Democrazia Cristiana,66,86,ORG,Q815348
-document_142150.html,Italia,193,199,LOC,Q38
+document_142150.html,Italia,188,194,LOC,Q38
 document_142151.html,Comunità,75,83,ORG,Q52847
-document_142151.html,Europa,141,147,LOC,Q46
-document_142151.html,Comunità,369,377,ORG,Q52847
-document_142151.html,CEE,457,460,ORG,Q52847
-document_142151.html,Consiglio europeo,871,888,ORG,Q8886
-document_142151.html,CEE,1145,1148,ORG,Q52847
-document_142151.html,Irlanda,1207,1214,LOC,Q27
-document_142151.html,Gran Bretagna,1222,1235,LOC,Q145
-document_142151.html,Italia,1243,1249,LOC,Q38
-document_142151.html,Francia,1257,1264,LOC,Q142
+document_142151.html,Europa,136,142,LOC,Q46
+document_142151.html,Comunità,359,367,ORG,Q52847
+document_142151.html,CEE,442,445,ORG,Q52847
+document_142151.html,Consiglio europeo,851,868,ORG,Q8886
+document_142151.html,CEE,1120,1123,ORG,Q52847
+document_142151.html,Irlanda,1177,1184,LOC,Q27
+document_142151.html,Gran Bretagna,1187,1200,LOC,Q145
+document_142151.html,Italia,1203,1209,LOC,Q38
+document_142151.html,Francia,1212,1219,LOC,Q142
 document_142152.html,Sadat,151,156,PER,Q42013
-document_142152.html,Presidente egiziano,255,274,PER,Q42013
-document_142152.html,Medio Oriente,340,353,LOC,Q7204
-document_142152.html,Sadat,444,449,PER,Q42013
-document_142152.html,Ginevra,662,669,LOC,Q71
+document_142152.html,Presidente egiziano,250,269,PER,Q42013
+document_142152.html,Medio Oriente,330,343,LOC,Q7204
+document_142152.html,Sadat,429,434,PER,Q42013
+document_142152.html,Ginevra,642,649,LOC,Q71
 document_142155.html,Presidente,69,79,PER,Q1233
 document_142156.html,Italia,233,239,LOC,Q38
 document_142158.html,coltivatori diretti,39,58,ORG,Q3682549
-document_142158.html,Italia,577,583,LOC,Q38
+document_142158.html,Italia,572,578,LOC,Q38
 document_142159.html,Partito socialista,667,685,ORG,Q590750
 document_142159.html,DC,751,753,ORG,Q815348
 document_142159.html,DC,1202,1204,ORG,Q815348
@@ -1886,29 +1886,29 @@ document_142161.html,Partito Socialista,210,228,ORG,Q590750
 document_142161.html,DC,947,949,ORG,Q815348
 document_142161.html,PRI,950,953,ORG,Q767560
 document_142161.html,Mezzogiorno,1137,1148,LOC,Q207989
-document_142161.html,Partito Socialista Italiano,1258,1285,ORG,Q590750
-document_142161.html,Democrazia Cristiana,1401,1421,ORG,Q815348
-document_142161.html,Partito Comunista,1466,1483,ORG,Q461886
+document_142161.html,Partito Socialista Italiano,1257,1284,ORG,Q590750
+document_142161.html,Democrazia Cristiana,1399,1419,ORG,Q815348
+document_142161.html,Partito Comunista,1464,1481,ORG,Q461886
 document_142162.html,Lucca,87,92,LOC,Q13373
-document_142162.html,Savona,95,101,LOC,Q13320
-document_142162.html,Democrazia Cristiana,167,187,ORG,Q815348
-document_142162.html,Democrazia Cristiana,779,799,ORG,Q815348
+document_142162.html,Savona,94,100,LOC,Q13320
+document_142162.html,Democrazia Cristiana,166,186,ORG,Q815348
+document_142162.html,Democrazia Cristiana,778,798,ORG,Q815348
 document_142163.html,Bari,114,118,LOC,Q3519
 document_142163.html,Sezze,206,211,LOC,Q128206
 document_142166.html,DC,490,492,ORG,Q815348
 document_142167.html,Democrazia Cristiana,350,370,ORG,Q815348
 document_142168.html,Colombo,132,139,PER,Q312058
 document_142168.html,Potenza,383,390,LOC,Q3543
-document_142168.html,Colombo,804,811,PER,Q312058
-document_142168.html,Emilio Colombo,1164,1178,PER,Q312058
-document_142168.html,Democrazia Cristiana,1603,1623,ORG,Q815348
-document_142168.html,Colombo,1685,1692,PER,Q312058
+document_142168.html,Colombo,803,810,PER,Q312058
+document_142168.html,Emilio Colombo,1163,1177,PER,Q312058
+document_142168.html,Democrazia Cristiana,1601,1621,ORG,Q815348
+document_142168.html,Colombo,1683,1690,PER,Q312058
 document_142169.html,Genova,118,124,LOC,Q1449
 document_142171.html,Albertini,143,152,PER,Q787832
 document_142171.html,Consiglio Europeo,274,291,ORG,Q8886
 document_142171.html,Palazzo Barberini,311,328,LOC,Q1136614
 document_142179.html,Democrazia cristiana,139,159,ORG,Q815348
-document_142179.html,Dc,234,236,ORG,Q815348
+document_142179.html,Dc,233,235,ORG,Q815348
 document_142190.html,Maccari,140,147,PER,Q3858582
 document_142192.html,Goffredo Parise,51,66,PER,Q1132008
 document_142196.html,Presidente,79,89,PER,Q3839845
@@ -1922,7 +1922,7 @@ document_142204.html,Comunità,591,599,ORG,Q52847
 document_142205.html,Zaccagnini,259,269,PER,Q817307
 document_142206.html,Democrazia Cristiana,573,593,ORG,Q815348
 document_142209.html,Andria,42,48,LOC,Q13486
-document_142209.html,Democrazia cristiana,275,295,ORG,Q815348
+document_142209.html,Democrazia cristiana,274,294,ORG,Q815348
 document_142211.html,Italia,724,730,LOC,Q38
 document_142216.html,Sarti,301,306,PER,Q365166
 document_142216.html,Picchioni,312,321,PER,Q3940277

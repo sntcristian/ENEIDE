@@ -83,7 +83,7 @@ for filepath in glob.glob(os.path.join(directory, '*.html')):
                 "identifier":wiki_id
             })
             full_text += surface
-            counter += len(element.get_text())
+            counter += len(surface)
         else:
             element_text = re.sub(r"\s+", " ", element if isinstance(element, str) else element.get_text())
             counter += len(element_text)
