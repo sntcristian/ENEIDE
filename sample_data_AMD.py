@@ -168,7 +168,6 @@ train_df, test_df = train_test_split(
 
 
 
-
 # Salvataggio dei dati su file
 train_df.to_csv("./AMD/paragraphs_train.csv", index=False, encoding="utf-8")
 test_df.to_csv("./AMD/paragraphs_test.csv", index=False, encoding="utf-8")
