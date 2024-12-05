@@ -1,6 +1,11 @@
 # ENEIDE
 Extracting Named Entities from Italian Digital Editions
 
+# 05/12/2024
+
+1. Results for Entity Disambiguation with mGENRE and BLINK on DZ (BEST: mGENRE with 60% of accuracy)
+2. Refine dataset for Aldo Moro and statistics updated
+
 # 15/11/2024
 
 1. Dataset split for AMD based on 75/25 ratio and stratified sampling

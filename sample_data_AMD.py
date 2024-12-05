@@ -58,9 +58,8 @@ for filepath in glob.glob(os.path.join(directory, '*.html')):
 
 
     full_text = ""
-    title_text = re.sub(r"\s+", " ", soup.find("h1").text)+". "
-    full_text += title_text
-    counter = len(full_text)
+    title_text = re.sub(r"\s+", " ", soup.find("h1").text)
+    counter = 0
     first_paragraph = soup.find('p', id="p-1")
     annotations = []
     for element in first_paragraph.children:
@@ -93,7 +92,7 @@ for filepath in glob.glob(os.path.join(directory, '*.html')):
         output.extend(annotations)
         max_date = get_date(soup)
         mention_counts[file_name] = len(annotations)
-        all_paragraphs.append({"doc_id":file_name, "text":full_text, "publication_date":max_date})
+        all_paragraphs.append({"doc_id":file_name, "title":title_text, "text":full_text, "publication_date":max_date})
         length_counts[file_name]=len(re.split("\W", full_text))
 
 
@@ -114,26 +113,12 @@ outliers = {
 }
 
 
-print(f'Media delle numero di parole: {mean_length}')
-print(f'Deviazione standard del numero di parole: {std_dev_length}')
-
 
 documents_not_outliers = {
     file for file, count in length_counts.items()
     if file not in outliers
 }
 
-mention_counts_values = list([value for key, value in mention_counts.items() if key in documents_not_outliers])
-
-# Calcolo della media e deviazione standard nelle annotazioni
-mean_mentions = statistics.mean(mention_counts_values)
-std_dev_mentions = statistics.stdev(mention_counts_values)
-max_mentions = max(mention_counts_values)
-
-
-print(f'Media dei conteggi: {mean_mentions}')
-print(f'Deviazione standard dei conteggi: {std_dev_mentions}')
-print(f"Valore massimo dei conteggi: {max_mentions}")
 
 
 all_paragraphs = [par for par in all_paragraphs if par["doc_id"] in documents_not_outliers]
@@ -142,16 +127,6 @@ output = [annotation for annotation in output if annotation["doc_id"] in documen
 
 print(len(all_paragraphs))
 print(len(output))
-
-per_annotations = [annotation for annotation in output if annotation["type"]=="PER"]
-loc_annotations = [annotation for annotation in output if annotation["type"]=="LOC"]
-org_annotations = [annotation for annotation in output if annotation["type"]=="ORG"]
-nil_annotations = [annotation for annotation in output if annotation["identifier"]=="NIL"]
-
-print(f"Number of annotations for persons: {len(per_annotations)}")
-print(f"Number of annotations for locations: {len(loc_annotations)}")
-print(f"Number of annotations for organizations: {len(org_annotations)}")
-print(f"NIL annotations: {len(nil_annotations)}")
 
 paragraphs_df = pd.DataFrame(all_paragraphs)
 

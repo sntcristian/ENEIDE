@@ -16,25 +16,25 @@ stratified sampling strategy based on the publication dates of the documents.
 | Statistic                     | Value |
 |-------------------------------|-------|
 | Number of paragraphs          | 774   |
-| Total number of annotations   | 1947  |
-| Annotations for people        | 569   |
-| Annotations for locations     | 766   |
-| Annotations for organizations | 612   |
-| NIL annotations               | 51    |
+| Total number of annotations   | 1959  |
+| Annotations for people        | 562   |
+| Annotations for locations     | 763   |
+| Annotations for organizations | 634   |
+| NIL annotations               | 50    |
 
 ### Test Set
 
 | Statistic                     | Value |
 |-------------------------------|-------|
-| Number of paragraphs          | 259   |
-| Total number of annotations   | 669   |
-| Annotations for people        | 216   |
-| Annotations for locations     | 241   |
-| Annotations for organizations | 212   |
-| NIL annotations               | 15    |
+| Number of paragraphs          | 258   |
+| Total number of annotations   | 667   |
+| Annotations for people        | 223   |
+| Annotations for locations     | 242   |
+| Annotations for organizations | 202   |
+| NIL annotations               | 15  |
 
 ## Creation Date
-November 12, 2024
+December 5, 2024
 
 ---
 
