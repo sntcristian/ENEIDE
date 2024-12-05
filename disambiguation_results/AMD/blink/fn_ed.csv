@@ -1,0 +1,212 @@
+doc_id,surface,start_pos,end_pos,type,identifier
+document_110005.html,Fera,139,143,PER,Q63969741
+document_110021.html,Universitari Italiani di A.C.,77,106,ORG,Q3091708
+document_110032.html,Universitari,66,78,ORG,Q3091708
+document_110032.html,Associazione,151,163,ORG,Q3091708
+document_110032.html,Chiesa,622,628,ORG,Q34651
+document_110043.html,Associazioni,185,197,ORG,Q3091708
+document_110048.html,Universitari Italiani di A. C.,79,109,ORG,Q3091708
+document_110088.html,partiti,233,240,ORG,Q7278
+document_110111.html,Chiesa,99,105,ORG,Q34651
+document_110132.html,Università,49,59,ORG,Q3918
+document_110147.html,Nord,138,142,LOC,Q4345530
+document_110165.html,Nenni,73,78,PER,Q539486
+document_110169.html,Movimento Laureati,21,39,ORG,Q3866579
+document_110170.html,paese,103,108,LOC,Q38
+document_110183.html,Sezione,283,290,ORG,Q3866579
+document_110183.html,Movimento Laureati,688,706,ORG,Q3866579
+document_110183.html,Movimento,778,787,ORG,Q3866579
+document_110183.html,paese,1519,1524,LOC,Q38
+document_110183.html,Movimento Laureati,1668,1686,ORG,Q3866579
+document_110186.html,Autore,90,96,PER,Q168431
+document_110199.html,Movimento,652,661,ORG,Q3866579
+document_110234.html,Laureati Cattolici,118,136,ORG,Q3866579
+document_110234.html,Movimento,186,195,ORG,Q3866579
+document_110234.html,A.C.I.,368,374,ORG,Q3318304
+document_110234.html,Movimento,400,409,ORG,Q3866579
+document_121005.html,Grassi,407,413,PER,Q2544332
+document_121005.html,Basso,418,423,PER,Q3229281
+document_121009.html,conferenza per la pace,124,146,ORG,Q322943
+document_121021.html,Basso,423,428,PER,Q3229281
+document_121032.html,Lucifero,199,207,PER,Q3938910
+document_121032.html,Lucifero,497,505,PER,Q3938910
+document_121034.html,Basso,143,148,PER,Q3229281
+document_121053.html,Presidente,119,129,PER,Q4003498
+document_121060.html,Basso,168,173,PER,Q3229281
+document_121092.html,Nobile,131,137,PER,Q291200
+document_121092.html,Lussu,277,282,PER,Q694799
+document_121093.html,Nobile,232,238,PER,Q291200
+document_121097.html,commissione dei 75,63,81,ORG,Q3684787
+document_121097.html,Chiesa,120,126,ORG,Q34651
+document_121107.html,Assemblea costituente,80,101,ORG,Q1053185
+document_121107.html,commissione dei settantacinque,202,232,ORG,Q3684787
+document_121107.html,Assemblea,1199,1208,ORG,Q1053185
+document_121135.html,Sullo,277,282,PER,Q3745884
+document_121137.html,Costituente,16,27,ORG,Q1900755
+document_121137.html,Chiesa,255,261,ORG,Q34651
+document_121160.html,presidente,80,90,PER,Q4003497
+document_121161.html,Presidente,57,67,PER,Q4003497
+document_121161.html,Lussu,440,445,PER,Q694799
+document_121161.html,Lussu,478,483,PER,Q694799
+document_121161.html,Targetti,689,697,PER,Q3742688
+document_121161.html,Presidente,892,902,PER,Q4003497
+document_121164.html,Presidente,74,84,PER,Q4003497
+document_121164.html,Assemblea,355,364,ORG,Q1053185
+document_121201.html,Cremaschi,1358,1367,PER,Q3659225
+document_121225.html,Comune,54,60,LOC,Q3519
+document_121235.html,Chiesa,197,203,ORG,Q34651
+document_121235.html,Chiesa,664,670,ORG,Q34651
+document_121247.html,Bertola,92,99,PER,Q3731968
+document_122004.html,Marchesi,1588,1596,PER,Q3686190
+document_122028.html,Russo,198,203,PER,Q3659814
+document_122036.html,Ministro,268,276,PER,Q273228
+document_122036.html,Egli,768,772,PER,Q273228
+document_122053.html,Ministro,284,292,PER,Q1240
+document_122071.html,Morelli,91,98,PER,Q32281802
+document_131008.html,D.C.,194,198,ORG,Q815348
+document_131010.html,D.C.,92,96,ORG,Q815348
+document_131019.html,Salizzoni,99,108,PER,Q3617210
+document_131019.html,Laura,355,360,PER,Q16554335
+document_131021.html,Capo provvisorio dello Stato,184,212,PER,Q1245
+document_131025.html,De Rosa,234,241,PER,Q3756578
+document_131025.html,Gallo,279,284,PER,Q47491456
+document_131030.html,Bonomi,82,88,PER,Q3893797
+document_131030.html,Bonomi,405,411,PER,Q3893797
+document_131030.html,Coltivatori Diretti,461,480,ORG,Q3682549
+document_131030.html,D.C.,486,490,ORG,Q815348
+document_131030.html,Coltivatori Diretti,659,678,ORG,Q3682549
+document_131030.html,Bonomi,1039,1045,PER,Q3893797
+document_131055.html,Pastore,525,532,PER,Q3769740
+document_131055.html,Della Porta,742,753,PER,Q3771907
+document_131055.html,D.C.,1127,1131,ORG,Q815348
+document_131055.html,D.C.,1357,1361,ORG,Q815348
+document_131071.html,Partito socialista,529,547,ORG,Q590750
+document_131079.html,Scaglia,243,250,PER,Q3766748
+document_131101.html,Democrazia,93,103,ORG,Q815348
+document_131130.html,Presidente,83,93,PER,Q273228
+document_131161.html,Partito Socialista Italiano,141,168,ORG,Q590750
+document_132014.html,Partito,84,91,ORG,Q815348
+document_132035.html,sindaco,77,84,PER,Q3749537
+document_132035.html,Angelini,427,435,PER,Q3749537
+document_132035.html,Sparapani,492,501,PER,Q110819813
+document_132035.html,Delle Fave,666,676,PER,Q4003375
+document_132076.html,Presidente della Repubblica,151,178,PER,Q1240
+document_132080.html,Coltivatori Diretti,112,131,ORG,Q3682549
+document_132080.html,Coltivatori Diretti,231,250,ORG,Q3682549
+document_132080.html,Bonomi,277,283,PER,Q3893797
+document_132083.html,Almirante,1104,1113,PER,Q1236400
+document_132087.html,Stati Uniti,111,122,LOC,Q30
+document_132089.html,Stati Uniti,132,143,LOC,Q30
+document_132089.html,Stati Uniti,1296,1307,LOC,Q30
+document_132091.html,Presidente,131,141,PER,Q9640
+document_132091.html,Stati Uniti,191,202,LOC,Q30
+document_132092.html,Stati Uniti,176,187,LOC,Q30
+document_132092.html,Stati Uniti,481,492,LOC,Q30
+document_132095.html,Poeta,313,318,PER,Q5679
+document_132099.html,partito,385,392,ORG,Q815348
+document_132124.html,Stambolic,174,183,PER,Q115471
+document_132127.html,Presidente,173,183,PER,Q3558039
+document_132139.html,partito socialista,601,619,ORG,Q590750
+document_132141.html,Presidente della Repubblica,81,108,PER,Q1238
+document_132144.html,Rumor,821,826,PER,Q316288
+document_132144.html,De Martino,828,838,PER,Q1379919
+document_132144.html,La Malfa,849,857,PER,Q1248333
+document_132147.html,Sindaco,127,134,PER,Q98446077
+document_132149.html,Presidente,69,79,PER,Q155928
+document_132170.html,Cancelliere Federale,54,74,PER,Q2496
+document_132174.html,Presidente,278,288,PER,Q596724
+document_132208.html,Origlia,365,372,PER,Q58011054
+document_132214.html,Confederazione dei Coltivatori Diretti,202,240,ORG,Q3682549
+document_132217.html,Presidente del Senato,597,618,PER,Q562209
+document_132217.html,Gava,1038,1042,PER,Q1499564
+document_132217.html,Lami Starnuti,1048,1061,PER,Q3719089
+document_132224.html,vicepresidente,130,144,PER,Q209989
+document_132251.html,Presidente,160,170,PER,Q3558039
+document_141002.html,Stefano Brun,194,206,PER,Q55226044
+document_141002.html,Presidente,370,380,PER,Q105839097
+document_141002.html,Stagni,410,416,PER,Q105839097
+document_141002.html,Stefano Brun,496,508,PER,Q55226044
+document_141031.html,Taviani,38,45,PER,Q1379277
+document_141053.html,Continente,183,193,LOC,Q828
+document_141053.html,Istituto Italo-Latinoamericano,243,273,ORG,Q605682
+document_141058.html,Presidente,62,72,PER,Q273228
+document_141058.html,Giraudo,145,152,PER,Q3767386
+document_141082.html,Joseph Sisco,190,202,PER,Q521462
+document_141082.html,Stati Uniti,252,263,LOC,Q30
+document_141084.html,Bulgaria,83,91,LOC,Q219
+document_141097.html,Bruxelles,104,113,LOC,Q239
+document_141108.html,Gran Bretagna,276,289,LOC,Q145
+document_141111.html,Ella,114,118,PER,Q6395370
+document_141120.html,Sovrano,215,222,PER,Q128245
+document_141136.html,Imperatore,107,117,PER,Q41178
+document_141142.html,Ella,130,134,PER,Q128976
+document_141163.html,Ministro degli Esteri,365,386,PER,Q456527
+document_141164.html,Ella,114,118,PER,Q452310
+document_141201.html,Rome,50,54,LOC,Q220
+document_141209.html,Segretario Politico,98,117,PER,Q434786
+document_141210.html,Gran Bretagna,167,180,LOC,Q145
+document_141210.html,Geoffrey Rippon,204,219,PER,Q5534874
+document_141210.html,Gran Bretagna,365,378,LOC,Q145
+document_141214.html,Lei,327,330,PER,Q2408989
+document_141214.html,Ella,381,385,PER,Q2408989
+document_141217.html,Comunità,109,117,ORG,Q52847
+document_141218.html,Nunzio Apostolico,97,114,PER,Q592957
+document_141227.html,Vostra Eccellenza,251,268,PER,Q307237
+document_141250.html,Sindaco,88,95,PER,Q3838522
+document_141254.html,Fiera Campionaria,359,376,ORG,Q2524205
+document_141261.html,Capo dello Stato,388,404,PER,Q1235
+document_141267.html,Governatore Generale,61,81,PER,Q356756
+document_141267.html,Primo Ministro,94,108,PER,Q167307
+document_141270.html,Repubblica Federale Tedesca,98,125,LOC,Q713750
+document_141275.html,Presidente del Consiglio,241,265,PER,Q50005
+document_141279.html,Segretario Generale,273,292,PER,Q1260
+document_141279.html,organizzazione,301,315,ORG,Q1065
+document_141286.html,Partito Socialista,365,383,ORG,Q590750
+document_141321.html,Verde,131,136,PER,Q3659944
+document_141321.html,Verde,1016,1021,PER,Q3659944
+document_141321.html,Amendola,1249,1257,PER,Q939831
+document_141321.html,Firpo,1329,1334,PER,Q169708
+document_142002.html,Presidente del Consiglio,1172,1196,PER,Q50005
+document_142002.html,Segretario del Partito,1258,1280,PER,Q434786
+document_142005.html,Bruxelles,1010,1019,LOC,Q239
+document_142011.html,Presidente,151,161,PER,Q3938911
+document_142011.html,re Gustavo,236,246,PER,Q52878
+document_142028.html,ministro degli esteri,194,215,PER,Q57555
+document_142031.html,Fondo monetario internazionale,705,735,ORG,Q7804
+document_142031.html,Ocse,741,745,ORG,Q41550
+document_142031.html,Onu,814,817,ORG,Q1065
+document_142035.html,Ella,161,165,PER,Q12960
+document_142035.html,lei,324,327,PER,Q12960
+document_142035.html,Francia,533,540,LOC,Q142
+document_142035.html,Italia,543,549,LOC,Q38
+document_142047.html,OUA,804,807,ORG,Q356928
+document_142064.html,Presidente della Repubblica,83,110,PER,Q1235
+document_142066.html,Comunità Europea,192,208,ORG,Q458
+document_142066.html,Ella,308,312,PER,Q66107
+document_142080.html,Primo Ministro di Australia,133,160,PER,Q23333
+document_142080.html,Capo del Governo,380,396,PER,Q23333
+document_142091.html,re Feisal,79,88,PER,Q217167
+document_142091.html,vostra eccellenza,827,844,PER,Q208301
+document_142097.html,Segretario politico,99,118,PER,Q273228
+document_142097.html,Segretario politico,425,444,PER,Q273228
+document_142131.html,dell’Ovest,100,110,LOC,Q27496
+document_142131.html,Europa dell’Est,114,129,LOC,Q27468
+document_142131.html,Europa Occidentale,233,251,LOC,Q27496
+document_142131.html,Europa Orientale,350,366,LOC,Q27468
+document_142131.html,Occidente,632,641,LOC,Q160381
+document_142145.html,Piccioni,416,424,PER,Q343323
+document_142145.html,Cingolani,449,458,PER,Q3848450
+document_142145.html,Tupini,482,488,PER,Q4003498
+document_142145.html,Colombo,613,620,PER,Q312058
+document_142145.html,Marcora,810,817,PER,Q3767639
+document_142145.html,Morlino,827,834,PER,Q674952
+document_142145.html,Cossiga,844,851,PER,Q1230
+document_142146.html,Presidente,55,65,PER,Q180195
+document_142147.html,Presidente,49,59,PER,Q1233
+document_142154.html,Presidente,47,57,PER,Q1233
+document_142186.html,Stati Uniti,66,77,LOC,Q30
+document_142191.html,Roma,723,727,LOC,Q220
+document_142203.html,presidente del consiglio,154,178,PER,Q50005
+document_142203.html,governatore della Banca d’Italia,223,255,PER,Q1056557
+document_142219.html,De Gasperi,93,103,PER,Q153832
+document_142250.html,Amendola,123,131,PER,Q939831

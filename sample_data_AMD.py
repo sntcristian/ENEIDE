@@ -166,11 +166,13 @@ train_df, test_df = train_test_split(
     random_state=42
 )
 
-
+train_df = train_df.sort_values(by='doc_id', ascending=True)
+test_df = test_df.sort_values(by='doc_id', ascending=True)
 
 # Salvataggio dei dati su file
 train_df.to_csv("./AMD/paragraphs_train.csv", index=False, encoding="utf-8")
 test_df.to_csv("./AMD/paragraphs_test.csv", index=False, encoding="utf-8")
+
 
 
 train_annotations = [ann for ann in output if ann["doc_id"] in train_df["doc_id"].values]
