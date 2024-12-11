@@ -55,5 +55,5 @@ def eval_ed(path_data, path_results):
     fn_file.close()
 
 
-eval_ed(path_data="./AMD", path_results="./disambiguation_results/AMD/mgenre")
+eval_ed(path_data="./AMD", path_results="./disambiguation_results/AMD/blink")
 

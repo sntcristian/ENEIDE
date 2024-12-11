@@ -1,212 +1,214 @@
 doc_id,surface,start_pos,end_pos,identifier,type,alias,score
-document_110005.html,Fera,139,143,Q3751194,PER,Franco Cappa,143.271240234375
-document_110021.html,Universitari Italiani di A.C.,77,106,Q131262,ORG,Università di Bologna,212.68028259277344
-document_110032.html,Universitari,66,78,Q131262,ORG,Università di Bologna,129.93063354492188
-document_110032.html,Associazione,151,163,Q3318304,ORG,Azione Cattolica,135.44082641601562
-document_110032.html,Chiesa,622,628,Q170174,ORG,Stato Pontificio,117.33397674560547
-document_110043.html,Associazioni,185,197,Q48204,ORG,Associazione (diritto),129.44366455078125
-document_110048.html,Universitari Italiani di A. C.,79,109,Q131262,ORG,Università di Bologna,216.78472900390625
-document_110088.html,partiti,233,240,Q2704736,ORG,Partito Radicale (Italia),122.67909240722656
-document_110111.html,Chiesa,99,105,Q170174,ORG,Stato Pontificio,117.15800476074219
-document_110132.html,Università,49,59,Q499911,ORG,Università degli Studi di Torino,117.60203552246094
-document_110147.html,Nord,138,142,Q47750,LOC,Lega Nord,119.93855285644531
-document_110165.html,Nenni,73,78,Q103081,PER,Chianni,150.6462860107422
-document_110169.html,Movimento Laureati,21,39,Q727837,ORG,Movimento dei focolari,167.76873779296875
-document_110170.html,paese,103,108,Q7275,LOC,Stato,115.01222229003906
-document_110183.html,Sezione,283,290,Q153660,ORG,Repubblica Sociale Italiana,131.58216857910156
-document_110183.html,Movimento Laureati,688,706,Q55832384,ORG,Università a Milano,160.87794494628906
-document_110183.html,Movimento,778,787,Q1126102,ORG,Movimento Sociale Italiano - Destra Nazionale,122.91560363769531
-document_110183.html,paese,1519,1524,Q7275,LOC,Stato,113.86964416503906
-document_110183.html,Movimento Laureati,1668,1686,Q3866583,ORG,Movimento Gen,151.68060302734375
-document_110186.html,Autore,90,96,Q165534,PER,Carlo Goldoni,115.65709686279297
-document_110199.html,Movimento,652,661,Q706633,ORG,Resistenza italiana,122.14808654785156
-document_110234.html,Laureati Cattolici,118,136,Q662862,ORG,Ordine sacro,163.4268798828125
-document_110234.html,Movimento,186,195,Q727837,ORG,Movimento dei focolari,123.422607421875
-document_110234.html,A.C.I.,368,374,Q3091708,ORG,Federazione universitaria cattolica italiana,171.9738311767578
-document_110234.html,Movimento,400,409,Q727837,ORG,Movimento dei focolari,126.28807067871094
-document_121005.html,Grassi,407,413,Q47583,PER,Gianfranco Fini,140.6451873779297
-document_121005.html,Basso,418,423,Q3619753,PER,Antonio Leopoldo Basso,146.03684997558594
-document_121009.html,conferenza per la pace,124,146,Q2314717,ORG,Trattato di Parigi fra l'Italia e le potenze alleate,152.68653869628906
-document_121021.html,Basso,423,428,Q3619753,PER,Antonio Leopoldo Basso,141.71412658691406
-document_121032.html,Lucifero,199,207,Q171834,PER,Aldo Moro,143.15594482421875
-document_121032.html,Lucifero,497,505,Q42544,PER,Tommaso Moro,146.5506591796875
-document_121034.html,Basso,143,148,Q3619753,PER,Antonio Leopoldo Basso,138.771728515625
-document_121053.html,Presidente,119,129,Q9696,PER,John Fitzgerald Kennedy,116.98971557617188
-document_121060.html,Basso,168,173,Q3619753,PER,Antonio Leopoldo Basso,141.03103637695312
-document_121092.html,Nobile,131,137,Q3733956,PER,Ettore Lombardo Pellegrino,175.71884155273438
-document_121092.html,Lussu,277,282,Q1179963,PER,Joyce Lussu,138.39447021484375
-document_121093.html,Nobile,232,238,Q123432,PER,Aristocrazia,120.8782958984375
-document_121097.html,commissione dei 75,63,81,Q21403297,ORG,Commissione Moro,183.37579345703125
-document_121097.html,Chiesa,120,126,Q170174,ORG,Stato Pontificio,123.70992279052734
-document_121107.html,Assemblea costituente,80,101,Q47423,ORG,Assemblea generale delle Nazioni Unite,138.50128173828125
-document_121107.html,commissione dei settantacinque,202,232,Q21403297,ORG,Commissione Moro,219.6951904296875
-document_121107.html,Assemblea,1199,1208,Q47423,ORG,Assemblea generale delle Nazioni Unite,120.14993286132812
-document_121135.html,Sullo,277,282,Q3454848,PER,Referendum costituzionale in Italia del 2006,164.67288208007812
-document_121137.html,Costituente,16,27,Q3826351,ORG,Referente,145.89236450195312
-document_121137.html,Chiesa,255,261,Q159583,ORG,Santa Sede,115.68917083740234
-document_121160.html,presidente,80,90,Q11696,PER,Presidente degli Stati Uniti d'America,118.91636657714844
-document_121161.html,Presidente,57,67,Q11696,PER,Presidente degli Stati Uniti d'America,112.79617309570312
-document_121161.html,Lussu,440,445,Q1179963,PER,Joyce Lussu,146.15150451660156
-document_121161.html,Lussu,478,483,Q1179963,PER,Joyce Lussu,142.78514099121094
-document_121161.html,Targetti,689,697,Q3929607,PER,Raimondo Targetti,166.38087463378906
-document_121161.html,Presidente,892,902,Q152474,PER,Rafael Leónidas Trujillo,122.87594604492188
-document_121164.html,Presidente,74,84,Q256036,PER,Capi di Stato della Jugoslavia,120.40382385253906
-document_121164.html,Assemblea,355,364,Q47423,ORG,Assemblea generale delle Nazioni Unite,126.51234436035156
-document_121201.html,Cremaschi,1358,1367,Q3765391,PER,Giorgio Cremaschi,143.59146118164062
-document_121225.html,Comune,54,60,Q747074,LOC,Comune (Italia),125.65967559814453
-document_121235.html,Chiesa,197,203,Q170174,ORG,Stato Pontificio,112.20240783691406
-document_121235.html,Chiesa,664,670,Q170174,ORG,Stato Pontificio,116.09209442138672
-document_121247.html,Bertola,92,99,Q775717,PER,Aurelio de' Giorgi Bertola,153.02752685546875
-document_122004.html,Marchesi,1588,1596,Q3778140,PER,Gualtiero Marchesi,134.21002197265625
-document_122028.html,Russo,198,203,Q3761935,PER,Giacinto Russo,129.39146423339844
-document_122036.html,Ministro,268,276,Q47583,PER,Gianfranco Fini,120.86053466796875
-document_122036.html,Egli,768,772,Q47583,PER,Gianfranco Fini,129.51773071289062
-document_122053.html,Ministro,284,292,Q78802,PER,Giovanni Amadeo Francesco di Paola Thugut,121.86717987060547
-document_122071.html,Morelli,91,98,Q25100,PER,Nanni Moretti,152.22271728515625
-document_131008.html,D.C.,194,198,Q47750,ORG,Lega Nord,163.6385498046875
-document_131010.html,D.C.,92,96,Q213614,ORG,Savinien Cyrano de Bergerac,161.1356201171875
-document_131019.html,Salizzoni,99,108,Q60840856,PER,Mauro Salizzoni,157.42333984375
-document_131019.html,Laura,355,360,Q3827801,PER,Laura Lombardo Radice,133.51988220214844
-document_131021.html,Capo provvisorio dello Stato,184,212,Q3657214,PER,Capo provvisorio dello Stato,128.34005737304688
-document_131025.html,De Rosa,234,241,Q1441283,PER,Francesco de Vico,144.26829528808594
-document_131025.html,Gallo,279,284,Q493925,PER,Andrea Gallo,131.8343505859375
-document_131030.html,Bonomi,82,88,Q313717,PER,Ivanoe Bonomi,133.82037353515625
-document_131030.html,Bonomi,405,411,Q313717,PER,Ivanoe Bonomi,130.52947998046875
-document_131030.html,Coltivatori Diretti,461,480,Q3683769,ORG,Coltivatore diretto,141.366455078125
-document_131030.html,D.C.,486,490,Q625356,ORG,Congregazione per la dottrina della fede,143.58509826660156
-document_131030.html,Coltivatori Diretti,659,678,Q3683769,ORG,Coltivatore diretto,136.4238739013672
-document_131030.html,Bonomi,1039,1045,Q313717,PER,Ivanoe Bonomi,131.97885131835938
-document_131055.html,Pastore,525,532,Q3771219,PER,Giuseppe Picedi Benettini,129.7469024658203
-document_131055.html,Della Porta,742,753,Q334154,PER,Giovanni Battista Della Porta,140.49053955078125
-document_131055.html,D.C.,1127,1131,Q625356,ORG,Congregazione per la dottrina della fede,146.5683135986328
-document_131055.html,D.C.,1357,1361,Q625356,ORG,Congregazione per la dottrina della fede,142.4514617919922
-document_131071.html,Partito socialista,529,547,Q665335,ORG,Partito Socialista Democratico Italiano,128.6297607421875
-document_131079.html,Scaglia,243,250,Q1376130,PER,Meta Heusser-Schweizer,129.79971313476562
-document_131101.html,Democrazia,93,103,Q7174,ORG,Democrazia,118.68036651611328
-document_131130.html,Presidente,83,93,Q11696,PER,Presidente degli Stati Uniti d'America,118.45293426513672
-document_131161.html,Partito Socialista Italiano,141,168,Q665335,ORG,Partito Socialista Democratico Italiano,155.21766662597656
-document_132014.html,Partito,84,91,Q1053668,ORG,Partito Giustizialista,126.04141235351562
-document_132035.html,sindaco,77,84,Q3722223,PER,Sindaci di Ancona,119.16104125976562
-document_132035.html,Angelini,427,435,Q19621250,PER,Piero Angelini,152.18255615234375
-document_132035.html,Sparapani,492,501,Q605266,PER,Antonio Stoppani,141.6739501953125
-document_132035.html,Delle Fave,666,676,Q3558113,PER,Veglio della Montagna,151.8099365234375
-document_132076.html,Presidente della Repubblica,151,178,Q878169,PER,Presidenti del Benin,131.2236785888672
-document_132080.html,Coltivatori Diretti,112,131,Q3683769,ORG,Coltivatore diretto,147.92247009277344
-document_132080.html,Coltivatori Diretti,231,250,Q3683769,ORG,Coltivatore diretto,143.8075714111328
-document_132080.html,Bonomi,277,283,Q313717,PER,Ivanoe Bonomi,143.7104949951172
-document_132083.html,Almirante,1104,1113,Q47583,PER,Gianfranco Fini,152.27073669433594
-document_132087.html,Stati Uniti,111,122,Q49,LOC,America del Nord,124.46406555175781
-document_132089.html,Stati Uniti,132,143,Q49,LOC,America del Nord,124.91963195800781
-document_132089.html,Stati Uniti,1296,1307,Q49,LOC,America del Nord,120.88032531738281
-document_132091.html,Presidente,131,141,Q11696,PER,Presidente degli Stati Uniti d'America,104.89767456054688
-document_132091.html,Stati Uniti,191,202,Q49,LOC,America del Nord,123.3550033569336
-document_132092.html,Stati Uniti,176,187,Q49,LOC,America del Nord,123.01153564453125
-document_132092.html,Stati Uniti,481,492,Q49,LOC,America del Nord,121.35356903076172
-document_132095.html,Poeta,313,318,Q172599,PER,Giacomo Leopardi,118.54000854492188
-document_132099.html,partito,385,392,Q461886,ORG,Partito Comunista Italiano,124.22616577148438
-document_132124.html,Stambolic,174,183,Q456898,PER,Ivan Stambolić,150.50204467773438
-document_132127.html,Presidente,173,183,Q248577,PER,Presidente della Repubblica,119.3994140625
-document_132139.html,partito socialista,601,619,Q665335,ORG,Partito Socialista Democratico Italiano,130.234619140625
-document_132141.html,Presidente della Repubblica,81,108,Q11696,PER,Presidente degli Stati Uniti d'America,130.2639923095703
-document_132144.html,Rumor,821,826,Q47583,PER,Gianfranco Fini,137.44949340820312
-document_132144.html,De Martino,828,838,Q3659250,PER,Carlo De Martino,158.59901428222656
-document_132144.html,La Malfa,849,857,Q2460954,PER,Giorgio La Malfa,159.94940185546875
-document_132147.html,Sindaco,127,134,Q3961481,PER,Sindaci di Brescia,119.13479614257812
-document_132149.html,Presidente,69,79,Q878169,PER,Presidenti del Benin,122.71415710449219
-document_132170.html,Cancelliere Federale,54,74,Q4970706,PER,Cancelliere federale della Germania,160.84115600585938
-document_132174.html,Presidente,278,288,Q11696,PER,Presidente degli Stati Uniti d'America,118.75794982910156
-document_132208.html,Origlia,365,372,Q3707941,PER,Dino Origlia,137.72320556640625
-document_132214.html,Confederazione dei Coltivatori Diretti,202,240,Q3683769,ORG,Coltivatore diretto,175.82568359375
-document_132217.html,Presidente del Senato,597,618,Q7477985,PER,Presidente del Senato della Repubblica,122.44502258300781
-document_132217.html,Gava,1038,1042,Q105945302,PER,Carlo Alberto Cova,164.46405029296875
-document_132217.html,Lami Starnuti,1048,1061,Q58115,PER,Uri Rosenthal,194.2955322265625
-document_132224.html,vicepresidente,130,144,Q11699,PER,Vicepresidente degli Stati Uniti d'America,124.256103515625
-document_132251.html,Presidente,160,170,Q248577,PER,Presidente della Repubblica,122.33604431152344
-document_141002.html,Stefano Brun,194,206,Q3972691,PER,Stefano Romeo,189.71139526367188
-document_141002.html,Presidente,370,380,Q11696,PER,Presidente degli Stati Uniti d'America,119.22709655761719
-document_141002.html,Stagni,410,416,Q3840177,PER,Luigi Stabilini,150.69390869140625
-document_141002.html,Stefano Brun,496,508,Q3972691,PER,Stefano Romeo,193.2924346923828
-document_141031.html,Taviani,38,45,Q847323,PER,Rinjani,174.96267700195312
-document_141053.html,Continente,183,193,Q46,LOC,Europa,111.7177963256836
-document_141053.html,Istituto Italo-Latinoamericano,243,273,Q3036435,ORG,Afro-latinoamericano,184.1406707763672
-document_141058.html,Presidente,62,72,Q11696,PER,Presidente degli Stati Uniti d'America,111.07331848144531
-document_141058.html,Giraudo,145,152,Q879116,PER,Alfredo Enrique Peralta Azurdia,163.30294799804688
-document_141082.html,Joseph Sisco,190,202,Q336324,PER,Joseph Cao,222.67721557617188
-document_141082.html,Stati Uniti,252,263,Q49,LOC,America del Nord,122.33779907226562
-document_141084.html,Bulgaria,83,91,Q147909,LOC,Regno di Bulgaria,109.29867553710938
-document_141097.html,Bruxelles,104,113,Q9005,LOC,Bruxelles,116.69927978515625
-document_141108.html,Gran Bretagna,276,289,Q23666,LOC,Gran Bretagna,107.89837646484375
-document_141111.html,Ella,114,118,Q150782,PER,Elisabetta di Baviera,136.54978942871094
-document_141120.html,Sovrano,215,222,Q116,PER,Monarca,121.22004699707031
-document_141136.html,Imperatore,107,117,Q842606,PER,Imperatore romano,120.29023742675781
-document_141142.html,Ella,130,134,Q3890710,PER,Mary Ludwig Hays McCauley,140.22140502929688
-document_141163.html,Ministro degli Esteri,365,386,Q789842,PER,Ministero degli affari esteri e della cooperazione internazionale,119.71002197265625
-document_141164.html,Ella,114,118,Q435324,PER,Cristina di Orange-Nassau,144.3583984375
-document_141201.html,Rome,50,54,Q19660,LOC,Bucarest,119.79660034179688
-document_141209.html,Segretario Politico,98,117,Q665335,PER,Partito Socialista Democratico Italiano,147.03384399414062
-document_141210.html,Gran Bretagna,167,180,Q23666,LOC,Gran Bretagna,110.23302459716797
-document_141210.html,Geoffrey Rippon,204,219,Q7041317,PER,Geoffrey,221.08517456054688
-document_141210.html,Gran Bretagna,365,378,Q23666,LOC,Gran Bretagna,107.58749389648438
-document_141214.html,Lei,327,330,Q255261,PER,Anna Maria van Schurman,126.76800537109375
-document_141214.html,Ella,381,385,Q255261,PER,Anna Maria van Schurman,133.62698364257812
-document_141217.html,Comunità,109,117,Q177634,ORG,Comunità,123.22245788574219
-document_141218.html,Nunzio Apostolico,97,114,Q23873,PER,Papa Giovanni XXIII,135.5677490234375
-document_141227.html,Vostra Eccellenza,251,268,Q162543,PER,Mehmet VI,132.2533416748047
-document_141250.html,Sindaco,88,95,Q682757,PER,José María Gil-Robles,129.5934600830078
-document_141254.html,Fiera Campionaria,359,376,Q1756274,ORG,Fiera di Bolzano,163.87368774414062
-document_141261.html,Capo dello Stato,388,404,Q11696,PER,Presidente degli Stati Uniti d'America,125.27070617675781
-document_141267.html,Governatore Generale,61,81,Q1768425,PER,Governatori generali del Gambia,147.79969787597656
-document_141267.html,Primo Ministro,94,108,Q14212,PER,Primo ministro,132.01341247558594
-document_141270.html,Repubblica Federale Tedesca,98,125,Q41304,LOC,Repubblica di Weimar,139.22071838378906
-document_141275.html,Presidente del Consiglio,241,265,Q155824,PER,Juscelino Kubitschek de Oliveira,130.24127197265625
-document_141279.html,Segretario Generale,273,292,Q11696,PER,Presidente degli Stati Uniti d'America,147.872314453125
-document_141279.html,organizzazione,301,315,Q123759,ORG,Organizzazione degli Stati americani,132.48692321777344
-document_141286.html,Partito Socialista,365,383,Q665335,ORG,Partito Socialista Democratico Italiano,125.76658630371094
-document_141321.html,Verde,131,136,Q3849220,PER,Mario Verde,125.95059204101562
-document_141321.html,Verde,1016,1021,Q3849220,PER,Mario Verde,123.71791076660156
-document_141321.html,Amendola,1249,1257,Q1345358,PER,Giovanni Amendola,117.8428955078125
-document_141321.html,Firpo,1329,1334,Q428694,PER,Boezio di Dacia,128.20562744140625
-document_142002.html,Presidente del Consiglio,1172,1196,Q155824,PER,Juscelino Kubitschek de Oliveira,124.73731994628906
-document_142002.html,Segretario del Partito,1258,1280,Q764490,PER,Partito Democratico Italiano di Unità Monarchica,130.53451538085938
-document_142005.html,Bruxelles,1010,1019,Q9005,LOC,Bruxelles,113.31172943115234
-document_142011.html,Presidente,151,161,Q11696,PER,Presidente degli Stati Uniti d'America,119.75860595703125
-document_142011.html,re Gustavo,236,246,Q45068,PER,Carlo XVI Gustavo di Svezia,133.77716064453125
-document_142028.html,ministro degli esteri,194,215,Q789842,PER,Ministero degli affari esteri e della cooperazione internazionale,123.94038391113281
-document_142031.html,Fondo monetario internazionale,705,735,Q8007,ORG,Franklin Delano Roosevelt,161.20428466796875
-document_142031.html,Ocse,741,745,Q8007,ORG,Franklin Delano Roosevelt,175.56787109375
-document_142031.html,Onu,814,817,Q171834,ORG,Aldo Moro,174.93716430664062
-document_142035.html,Ella,161,165,Q269780,PER,Maria Eugenia Milleret de Brou,126.58155822753906
-document_142035.html,lei,324,327,Q2639335,PER,Eugenia Elisabetta Ravasio,121.23158264160156
-document_142035.html,Francia,533,540,Q659488,LOC,Maria Teresa Carlotta di Borbone-Francia,129.8948974609375
-document_142035.html,Italia,543,549,Q3724469,LOC,Emilio Morosini,129.53501892089844
-document_142047.html,OUA,804,807,Q36600,ORG,L'Aia,160.2189483642578
-document_142064.html,Presidente della Repubblica,83,110,Q11696,PER,Presidente degli Stati Uniti d'America,131.82241821289062
-document_142066.html,Comunità Europea,192,208,Q52847,ORG,Comunità economica europea,113.59114074707031
-document_142066.html,Ella,308,312,Q171834,PER,Aldo Moro,144.82818603515625
-document_142080.html,Primo Ministro di Australia,133,160,Q1549251,PER,Primi ministri dell'Australia,139.21517944335938
-document_142080.html,Capo del Governo,380,396,Q2285706,PER,Capo del governo,129.45516967773438
-document_142091.html,re Feisal,79,88,Q2999351,PER,Mihrişah Valide Sultan,159.08740234375
-document_142091.html,vostra eccellenza,827,844,Q235674,PER,Maria Antonia di Borbone-Due Sicilie,131.08966064453125
-document_142097.html,Segretario politico,99,118,Q665335,PER,Partito Socialista Democratico Italiano,149.6458282470703
-document_142097.html,Segretario politico,425,444,Q665335,PER,Partito Socialista Democratico Italiano,156.2870635986328
-document_142131.html,dell’Ovest,100,110,Q46,LOC,Europa,136.00418090820312
-document_142131.html,Europa dell’Est,114,129,Q46,LOC,Europa,186.59222412109375
-document_142131.html,Europa Occidentale,233,251,Q46,LOC,Europa,130.96742248535156
-document_142131.html,Europa Orientale,350,366,Q684,LOC,Est,144.0618133544922
-document_142131.html,Occidente,632,641,Q679,LOC,Ovest,118.26092529296875
-document_142145.html,Piccioni,416,424,Q1665575,PER,Piero Piccioni,134.4116973876953
-document_142145.html,Cingolani,449,458,Q318105,PER,Corneliu Zelea Codreanu,142.0611114501953
-document_142145.html,Tupini,482,488,Q3741871,PER,Federico Rampini,134.38327026367188
-document_142145.html,Colombo,613,620,Q47583,PER,Gianfranco Fini,123.1541748046875
-document_142145.html,Marcora,810,817,Q47651,PER,Marco Pannella,138.53721618652344
-document_142145.html,Morlino,827,834,Q3619102,PER,Antonino Pietro Gullotti,149.58619689941406
-document_142145.html,Cossiga,844,851,Q767345,PER,Giuseppe Cossiga,164.20755004882812
-document_142146.html,Presidente,55,65,Q11696,PER,Presidente degli Stati Uniti d'America,116.77334594726562
-document_142147.html,Presidente,49,59,Q11696,PER,Presidente degli Stati Uniti d'America,117.24517822265625
-document_142154.html,Presidente,47,57,Q11696,PER,Presidente degli Stati Uniti d'America,115.42938995361328
-document_142186.html,Stati Uniti,66,77,Q49,LOC,America del Nord,124.74830627441406
-document_142191.html,Roma,723,727,Q167457,LOC,Trattato che istituisce la Comunità economica europea,116.84902954101562
-document_142203.html,presidente del consiglio,154,178,Q11696,PER,Presidente degli Stati Uniti d'America,132.22512817382812
-document_142203.html,governatore della Banca d’Italia,223,255,Q3773751,PER,Governatore della Banca d'Italia,157.27841186523438
-document_142219.html,De Gasperi,93,103,Q72427974,PER,Giorgio De Gaspari,168.8278045654297
-document_142250.html,Amendola,123,131,Q3763030,PER,Gianfranco Amendola,133.2651824951172
+document_110005.html,Università,87,97,Q131262,ORG,Università di Bologna,123.03742218017578
+document_110005.html,Fera,116,120,Q3751194,PER,Franco Cappa,147.04429626464844
+document_110029.html,Associazioni,80,92,Q48204,ORG,Associazione (diritto),132.19284057617188
+document_110029.html,Chiesa,383,389,Q159583,ORG,Santa Sede,119.06998443603516
+document_110029.html,Universitari Cattolici,494,516,Q2120466,ORG,Università pontificie,142.53482055664062
+document_110032.html,Universitari,46,58,Q691851,ORG,Università degli Studi di Napoli Federico II,126.59818267822266
+document_110032.html,Associazione,131,143,Q3318304,ORG,Azione Cattolica,137.90994262695312
+document_110032.html,Chiesa,602,608,Q170174,ORG,Stato Pontificio,119.11817932128906
+document_110041.html,Associazione,180,192,Q790144,ORG,Avanguardia Nazionale,127.24868774414062
+document_110041.html,Associazione,1109,1121,Q48204,ORG,Associazione (diritto),129.32318115234375
+document_110041.html,Associazione,1159,1171,Q48204,ORG,Associazione (diritto),125.09310150146484
+document_110047.html,Associazioni,179,191,Q207320,ORG,Organizzazione paramilitare,133.34103393554688
+document_110057.html,Associazioni,58,70,Q48204,ORG,Associazione (diritto),124.29167175292969
+document_110057.html,Associazioni,508,520,Q48204,ORG,Associazione (diritto),125.74788665771484
+document_110088.html,partiti,202,209,Q2704736,ORG,Partito Radicale (Italia),120.45050048828125
+document_110090.html,Presidente Roos[e]velt,27,49,Q332360,PER,Denis Healey,172.94908142089844
+document_110095.html,Premier,21,28,Q192361,PER,Pascoal Ranieri Mazzilli,125.79293823242188
+document_110095.html,paese,105,110,Q7275,LOC,Stato,117.74044799804688
+document_110095.html,Forze Armate,676,688,Q128781,ORG,Wehrmacht,116.1201171875
+document_110144.html,Padre,38,43,Q190,PER,Dio,124.2651138305664
+document_110156.html,Lorenzo Barbaro,18,33,Q6680661,PER,Lorenzo Cantarello,224.55909729003906
+document_110162.html,partito,194,201,Q606620,ORG,Südtiroler Volkspartei,123.92709350585938
+document_110169.html,Movimento Laureati,3,21,Q338662,ORG,Caduta libera accelerata,173.0275421142578
+document_110183.html,Sezione,254,261,Q5296,ORG,Pagina principale,129.53121948242188
+document_110183.html,Movimento Laureati,659,677,Q55832384,ORG,Università a Milano,160.87794494628906
+document_110183.html,Movimento,749,758,Q1126102,ORG,Movimento Sociale Italiano - Destra Nazionale,122.91560363769531
+document_110183.html,paese,1490,1495,Q7275,LOC,Stato,113.86964416503906
+document_110183.html,Movimento Laureati,1639,1657,Q3866583,ORG,Movimento Gen,151.68060302734375
+document_110192.html,Chiesa,167,173,Q170174,ORG,Stato Pontificio,113.23237609863281
+document_110194.html,paese,37,42,Q7275,LOC,Stato,114.83004760742188
+document_110194.html,paese,86,91,Q7275,LOC,Stato,113.39442443847656
+document_110213.html,Roma,52,56,Q2739,LOC,Associazione Sportiva Roma,121.06256866455078
+document_110213.html,Laureati Cattolici,84,102,Q475007,ORG,Pontificia Università Lateranense,159.38192749023438
+document_110222.html,Università,17,27,Q499911,ORG,Università degli Studi di Torino,121.61944580078125
+document_110223.html,Movimento,110,119,Q49773,ORG,Movimento (sociologia),129.8401641845703
+document_110223.html,Movimento Laureati,402,420,Q382037,ORG,Teoria della grande unificazione,157.63272094726562
+document_110226.html,Movimento,280,289,Q706633,ORG,Resistenza italiana,125.48992919921875
+document_121005.html,Grassi,351,357,Q47583,PER,Gianfranco Fini,137.56793212890625
+document_121005.html,Basso,362,367,Q3619753,PER,Antonio Leopoldo Basso,147.7952880859375
+document_121009.html,conferenza per la pace,84,106,Q757644,ORG,Atomi per la pace,145.22254943847656
+document_121021.html,Basso,363,368,Q3619753,PER,Antonio Leopoldo Basso,142.32846069335938
+document_121032.html,Lucifero,102,110,Q715214,PER,Lucifero di Cagliari,141.5906982421875
+document_121032.html,Lucifero,400,408,Q3838763,PER,Lucifero Martini,147.7060546875
+document_121034.html,Basso,71,76,Q525989,PER,Alberto Basso,144.05145263671875
+document_121053.html,Presidente,89,99,Q8007,PER,Franklin Delano Roosevelt,117.33019256591797
+document_121060.html,Basso,70,75,Q3619753,PER,Antonio Leopoldo Basso,141.13804626464844
+document_121092.html,Nobile,102,108,Q3733956,PER,Ettore Lombardo Pellegrino,173.72601318359375
+document_121092.html,Lussu,248,253,Q1179963,PER,Joyce Lussu,135.62022399902344
+document_121093.html,Nobile,208,214,Q123432,PER,Aristocrazia,122.64196014404297
+document_121107.html,Assemblea costituente,39,60,Q876424,ORG,Assemblea nazionale costituente,139.00921630859375
+document_121107.html,commissione dei settantacinque,161,191,Q21403297,ORG,Commissione Moro,217.38560485839844
+document_121107.html,Assemblea,1158,1167,Q47423,ORG,Assemblea generale delle Nazioni Unite,120.30015563964844
+document_121124.html,presidente della sottocommissione,154,187,Q6360077,PER,Presidente della Camera dei deputati (Italia),165.91033935546875
+document_121135.html,Sullo,244,249,Q3454848,PER,Referendum costituzionale in Italia del 2006,164.72705078125
+document_121153.html,Röpke,4,9,Q221602,PER,Allmänna Idrottsklubben Fotboll,157.13482666015625
+document_121160.html,presidente,30,40,Q11696,PER,Presidente degli Stati Uniti d'America,117.1469497680664
+document_121164.html,Presidente,24,34,Q11696,PER,Presidente degli Stati Uniti d'America,108.23639678955078
+document_121164.html,Assemblea,305,314,Q47423,ORG,Assemblea generale delle Nazioni Unite,122.76689910888672
+document_121210.html,relatore,25,33,Q3955184,PER,Senato Subalpino,140.565185546875
+document_121241.html,Olanda,880,886,Q170072,LOC,Repubblica delle Sette Province Unite,114.60517883300781
+document_121242.html,Lupis,89,94,Q3559289,PER,Banda di Tambov,150.06729125976562
+document_121247.html,Bertola,34,41,Q775717,PER,Aurelio de' Giorgi Bertola,150.94070434570312
+document_122004.html,Marchesi,1454,1462,Q3778140,PER,Gualtiero Marchesi,134.21002197265625
+document_122028.html,Russo,125,130,Q3764852,PER,Gioacchino Russo,123.57966613769531
+document_122036.html,Ministro,208,216,Q47583,PER,Gianfranco Fini,120.5810317993164
+document_122036.html,Egli,708,712,Q47583,PER,Gianfranco Fini,127.35770416259766
+document_122053.html,Ministro,229,237,Q78802,PER,Giovanni Amadeo Francesco di Paola Thugut,123.22906494140625
+document_122071.html,Morelli,49,56,Q4000320,PER,Tullio Gaetano Minelli,150.40328979492188
+document_131010.html,D.C.,49,53,Q213614,ORG,Savinien Cyrano de Bergerac,148.20712280273438
+document_131021.html,Capo provvisorio dello Stato,137,165,Q3657214,PER,Capo provvisorio dello Stato,129.67063903808594
+document_131025.html,Gallo,253,258,Q493925,PER,Andrea Gallo,133.84378051757812
+document_131030.html,Bonomi,34,40,Q313717,PER,Ivanoe Bonomi,136.33563232421875
+document_131030.html,Bonomi,357,363,Q313717,PER,Ivanoe Bonomi,130.42037963867188
+document_131030.html,Coltivatori Diretti,413,432,Q3683769,ORG,Coltivatore diretto,136.44894409179688
+document_131030.html,D.C.,438,442,Q625356,ORG,Congregazione per la dottrina della fede,141.51516723632812
+document_131030.html,Coltivatori Diretti,611,630,Q3683769,ORG,Coltivatore diretto,137.69525146484375
+document_131030.html,Bonomi,991,997,Q313717,PER,Ivanoe Bonomi,127.89865112304688
+document_131055.html,Pastore,435,442,Q3771219,PER,Giuseppe Picedi Benettini,133.26239013671875
+document_131055.html,Della Porta,652,663,Q334154,PER,Giovanni Battista Della Porta,140.49053955078125
+document_131055.html,D.C.,1037,1041,Q625356,ORG,Congregazione per la dottrina della fede,146.5683135986328
+document_131055.html,D.C.,1267,1271,Q4448,ORG,Papa Benedetto XV,139.7359161376953
+document_131059.html,Partito comunista,136,153,Q17427,ORG,Partito Comunista Cinese,126.66796875
+document_131071.html,Partito socialista,492,510,Q665335,ORG,Partito Socialista Democratico Italiano,129.11798095703125
+document_131079.html,Scaglia,197,204,Q1376130,PER,Meta Heusser-Schweizer,134.3922119140625
+document_131101.html,Democrazia,61,71,Q7174,ORG,Democrazia,120.03898620605469
+document_131130.html,Presidente,25,35,Q11696,PER,Presidente degli Stati Uniti d'America,113.27855682373047
+document_132014.html,Partito,52,59,Q232595,ORG,Partito Liberal Democratico (Giappone),125.3829345703125
+document_132035.html,sindaco,24,31,Q30185,PER,Sindaco,120.17450714111328
+document_132035.html,Angelini,374,382,Q19621250,PER,Piero Angelini,153.69033813476562
+document_132035.html,Sparapani,439,448,Q605266,PER,Antonio Stoppani,142.6480712890625
+document_132035.html,Delle Fave,613,623,Q3558113,PER,Veglio della Montagna,151.8099365234375
+document_132076.html,Presidente della Repubblica,62,89,Q191954,PER,Presidente della Repubblica francese,135.5565185546875
+document_132080.html,Coltivatori Diretti,37,56,Q3683769,ORG,Coltivatore diretto,138.49114990234375
+document_132080.html,Coltivatori Diretti,156,175,Q3683769,ORG,Coltivatore diretto,142.53094482421875
+document_132080.html,Bonomi,202,208,Q313717,PER,Ivanoe Bonomi,140.7769317626953
+document_132083.html,Almirante,1019,1028,Q47583,PER,Gianfranco Fini,152.27073669433594
+document_132087.html,Stati Uniti,47,58,Q11220,LOC,United States Navy,124.44963073730469
+document_132089.html,Stati Uniti,27,38,Q11220,LOC,United States Navy,125.01560974121094
+document_132089.html,Stati Uniti,1191,1202,Q49,LOC,America del Nord,120.88032531738281
+document_132091.html,Presidente,7,17,Q11696,PER,Presidente degli Stati Uniti d'America,110.38658905029297
+document_132091.html,Stati Uniti,67,78,Q11220,LOC,United States Navy,123.53726196289062
+document_132092.html,Stati Uniti,113,124,Q49,LOC,America del Nord,124.01435852050781
+document_132092.html,Stati Uniti,418,429,Q49,LOC,America del Nord,123.23527526855469
+document_132095.html,Poeta,237,242,Q172599,PER,Giacomo Leopardi,110.58541870117188
+document_132099.html,partito,354,361,Q461886,ORG,Partito Comunista Italiano,122.85691833496094
+document_132124.html,Stambolic,114,123,Q456898,PER,Ivan Stambolić,153.10443115234375
+document_132127.html,Presidente,111,121,Q11696,PER,Presidente degli Stati Uniti d'America,120.58595275878906
+document_132139.html,partito socialista,531,549,Q665335,ORG,Partito Socialista Democratico Italiano,126.56641387939453
+document_132141.html,Presidente della Repubblica,3,30,Q11696,PER,Presidente degli Stati Uniti d'America,133.9407958984375
+document_132144.html,Rumor,753,758,Q47583,PER,Gianfranco Fini,137.44949340820312
+document_132144.html,De Martino,760,770,Q3659250,PER,Carlo De Martino,158.59901428222656
+document_132144.html,La Malfa,781,789,Q2460954,PER,Giorgio La Malfa,159.94940185546875
+document_132147.html,Sindaco,85,92,Q171834,PER,Aldo Moro,120.40239715576172
+document_132149.html,Presidente,5,15,Q11696,PER,Presidente degli Stati Uniti d'America,120.64590454101562
+document_132170.html,Cancelliere Federale,7,27,Q687810,PER,Cancelliere federale della Svizzera,165.91513061523438
+document_132174.html,Presidente,178,188,Q11696,PER,Presidente degli Stati Uniti d'America,119.31465911865234
+document_132208.html,Origlia,221,228,Q3072013,PER,Fillia,135.9591522216797
+document_132214.html,Confederazione dei Coltivatori Diretti,94,132,Q3683769,ORG,Coltivatore diretto,179.00450134277344
+document_132217.html,Presidente del Senato,548,569,Q7477985,PER,Presidente del Senato della Repubblica,124.1609878540039
+document_132217.html,Gava,989,993,Q105945302,PER,Carlo Alberto Cova,164.46405029296875
+document_132217.html,Lami Starnuti,999,1012,Q58115,PER,Uri Rosenthal,194.2955322265625
+document_132224.html,vicepresidente,46,60,Q11699,PER,Vicepresidente degli Stati Uniti d'America,125.22850799560547
+document_132251.html,Presidente,99,109,Q11696,PER,Presidente degli Stati Uniti d'America,117.08995056152344
+document_141002.html,Stefano Brun,103,115,Q3972691,PER,Stefano Romeo,203.72145080566406
+document_141002.html,Presidente,279,289,Q11696,PER,Presidente degli Stati Uniti d'America,121.35699462890625
+document_141002.html,Stagni,319,325,Q3840177,PER,Luigi Stabilini,149.50144958496094
+document_141002.html,Stefano Brun,405,417,Q3972691,PER,Stefano Romeo,199.97410583496094
+document_141031.html,Taviani,19,26,Q3768339,PER,Giovanni Verardo Zeviani,160.59390258789062
+document_141053.html,Continente,105,115,Q46,LOC,Europa,110.62626647949219
+document_141053.html,Istituto Italo-Latinoamericano,165,195,Q3036435,ORG,Afro-latinoamericano,200.04513549804688
+document_141058.html,Presidente,7,17,Q11696,PER,Presidente degli Stati Uniti d'America,112.22395324707031
+document_141058.html,Giraudo,90,97,Q326042,PER,Raoul Giraudo,156.87625122070312
+document_141064.html,alleanza,177,185,Q878249,ORG,Alleanza,126.80799102783203
+document_141082.html,Joseph Sisco,143,155,Q336324,PER,Joseph Cao,232.9150848388672
+document_141082.html,Stati Uniti,205,216,Q49,LOC,America del Nord,121.9901351928711
+document_141097.html,Bruxelles,54,63,Q9005,LOC,Bruxelles,122.59939575195312
+document_141108.html,Gran Bretagna,201,214,Q23666,LOC,Gran Bretagna,107.93202209472656
+document_141111.html,Ella,73,77,Q255261,PER,Anna Maria van Schurman,129.11572265625
+document_141120.html,Sovrano,167,174,Q116,PER,Monarca,120.39351654052734
+document_141136.html,Imperatore,34,44,Q105105,PER,Teodorico il Grande,120.7964859008789
+document_141142.html,Ella,61,65,Q255261,PER,Anna Maria van Schurman,131.77003479003906
+document_141163.html,Ministro degli Esteri,303,324,Q789842,PER,Ministero degli affari esteri e della cooperazione internazionale,122.51559448242188
+document_141164.html,Ella,48,52,Q255261,PER,Anna Maria van Schurman,133.33338928222656
+document_141201.html,Rome,12,16,Q19660,LOC,Bucarest,117.06018829345703
+document_141209.html,Segretario Politico,3,22,Q23035484,PER,Partito Politico Futurista,144.14845275878906
+document_141210.html,Gran Bretagna,83,96,Q23666,LOC,Gran Bretagna,113.86148071289062
+document_141210.html,Geoffrey Rippon,120,135,Q562257,PER,Geoffrey Lewis,225.42344665527344
+document_141210.html,Gran Bretagna,281,294,Q23666,LOC,Gran Bretagna,108.1202392578125
+document_141214.html,Lei,254,257,Q1330596,PER,Elisabetta Querini,120.54170227050781
+document_141214.html,Ella,308,312,Q466851,PER,Elena Lucrezia Corner,129.90797424316406
+document_141217.html,Comunità,18,26,Q177634,ORG,Comunità,124.32585144042969
+document_141218.html,Nunzio Apostolico,54,71,Q23873,PER,Papa Giovanni XXIII,132.44223022460938
+document_141227.html,Vostra Eccellenza,175,192,Q2528572,PER,Vitaliano VI Borromeo,128.69351196289062
+document_141249.html,partito,1524,1531,Q2704736,ORG,Partito Radicale (Italia),120.7257080078125
+document_141250.html,Sindaco,25,32,Q30185,PER,Sindaco,116.32171630859375
+document_141254.html,Fiera Campionaria,303,320,Q1756274,ORG,Fiera di Bolzano,157.68624877929688
+document_141261.html,Capo dello Stato,312,328,Q11696,PER,Presidente degli Stati Uniti d'America,119.61491394042969
+document_141267.html,Governatore Generale,7,27,Q641589,PER,Governatore generale dell'India,136.39944458007812
+document_141267.html,Primo Ministro,40,54,Q14212,PER,Primo ministro,127.00912475585938
+document_141270.html,Repubblica Federale Tedesca,47,74,Q41304,LOC,Repubblica di Weimar,134.2119140625
+document_141275.html,Presidente del Consiglio,210,234,Q155824,PER,Juscelino Kubitschek de Oliveira,128.13633728027344
+document_141279.html,Segretario Generale,231,250,Q11696,PER,Presidente degli Stati Uniti d'America,142.76370239257812
+document_141286.html,Partito Socialista,331,349,Q665335,ORG,Partito Socialista Democratico Italiano,123.53099060058594
+document_141321.html,Verde,73,78,Q3849220,PER,Mario Verde,125.89482116699219
+document_141321.html,Verde,958,963,Q3849220,PER,Mario Verde,122.69721984863281
+document_141321.html,Amendola,1191,1199,Q1345358,PER,Giovanni Amendola,117.8428955078125
+document_141321.html,Firpo,1271,1276,Q428694,PER,Boezio di Dacia,128.20562744140625
+document_142002.html,Presidente del Consiglio,1130,1154,Q155824,PER,Juscelino Kubitschek de Oliveira,122.91690063476562
+document_142002.html,Segretario del Partito,1216,1238,Q764490,PER,Partito Democratico Italiano di Unità Monarchica,127.6938247680664
+document_142005.html,Bruxelles,928,937,Q9005,LOC,Bruxelles,113.55207824707031
+document_142011.html,Presidente,95,105,Q155824,PER,Juscelino Kubitschek de Oliveira,118.54779052734375
+document_142011.html,re Gustavo,180,190,Q45068,PER,Carlo XVI Gustavo di Svezia,131.89083862304688
+document_142028.html,ministro degli esteri,168,189,Q789842,PER,Ministero degli affari esteri e della cooperazione internazionale,124.12295532226562
+document_142031.html,Fondo monetario internazionale,650,680,Q8007,ORG,Franklin Delano Roosevelt,162.609619140625
+document_142031.html,Ocse,686,690,Q8007,ORG,Franklin Delano Roosevelt,172.82568359375
+document_142031.html,Onu,759,762,Q2917181,ORG,Cina e Nazioni Unite,170.71617126464844
+document_142035.html,Ella,120,124,Q255261,PER,Anna Maria van Schurman,130.8721923828125
+document_142035.html,lei,283,286,Q235377,PER,Maria di Cleofa,122.97176361083984
+document_142035.html,Francia,492,499,Q659488,LOC,Maria Teresa Carlotta di Borbone-Francia,130.9481964111328
+document_142035.html,Italia,502,508,Q171834,LOC,Aldo Moro,132.03884887695312
+document_142047.html,OUA,769,772,Q36600,ORG,L'Aia,155.85171508789062
+document_142064.html,Presidente della Repubblica,40,67,Q11696,PER,Presidente degli Stati Uniti d'America,127.62326049804688
+document_142066.html,Comunità Europea,128,144,Q52847,ORG,Comunità economica europea,116.35926818847656
+document_142066.html,Ella,244,248,Q171834,PER,Aldo Moro,138.50347900390625
+document_142080.html,Primo Ministro di Australia,91,118,Q319145,PER,Primo ministro dell'Australia,134.50460815429688
+document_142080.html,Capo del Governo,338,354,Q2285706,PER,Capo del governo,126.96327209472656
+document_142091.html,re Feisal,47,56,Q2713766,PER,Fabrizio I Colonna,143.8807373046875
+document_142091.html,vostra eccellenza,795,812,Q235674,PER,Maria Antonia di Borbone-Due Sicilie,130.7999725341797
+document_142097.html,Segretario politico,60,79,Q712123,PER,Paul Kennedy,143.46986389160156
+document_142097.html,Segretario politico,386,405,Q665335,PER,Partito Socialista Democratico Italiano,148.14804077148438
+document_142131.html,dell’Ovest,47,57,Q46,LOC,Europa,134.87332153320312
+document_142131.html,Europa dell’Est,61,76,Q46,LOC,Europa,169.5032958984375
+document_142131.html,Europa Occidentale,180,198,Q46,LOC,Europa,135.08847045898438
+document_142131.html,Europa Orientale,297,313,Q684,LOC,Est,147.87998962402344
+document_142131.html,Occidente,579,588,Q679,LOC,Ovest,120.23947143554688
+document_142145.html,Piccioni,386,394,Q1665575,PER,Piero Piccioni,131.8448486328125
+document_142145.html,Cingolani,419,428,Q318105,PER,Corneliu Zelea Codreanu,138.91372680664062
+document_142145.html,Merlin,437,443,Q3680782,PER,Umberto Merlin,129.45643615722656
+document_142145.html,Colombo,583,590,Q47583,PER,Gianfranco Fini,124.68378448486328
+document_142145.html,Marcora,780,787,Q47651,PER,Marco Pannella,138.34756469726562
+document_142145.html,Morlino,797,804,Q3619102,PER,Antonino Pietro Gullotti,143.3162078857422
+document_142145.html,Cossiga,814,821,Q3111985,PER,Governo Cossiga I,161.11834716796875
+document_142146.html,Presidente,11,21,Q11696,PER,Presidente degli Stati Uniti d'America,131.54896545410156
+document_142147.html,Presidente,8,18,Q11696,PER,Presidente degli Stati Uniti d'America,118.41499328613281
+document_142154.html,Presidente,8,18,Q11696,PER,Presidente degli Stati Uniti d'America,118.41499328613281
+document_142186.html,Stati Uniti,56,67,Q11220,LOC,United States Navy,125.30136108398438
+document_142191.html,Roma,683,687,Q167457,LOC,Trattato che istituisce la Comunità economica europea,116.62152099609375
+document_142203.html,presidente del consiglio,103,127,Q11696,PER,Presidente degli Stati Uniti d'America,134.56964111328125
+document_142203.html,governatore della Banca d’Italia,172,204,Q3773751,PER,Governatore della Banca d'Italia,156.45416259765625
+document_142219.html,Scoppola,30,38,Q364857,PER,Constantine Samuel Rafinesque-Schmaltz,139.53750610351562
+document_142219.html,De Gasperi,45,55,Q72427974,PER,Giorgio De Gaspari,159.68106079101562
+document_142250.html,Amendola,70,78,Q3763030,PER,Gianfranco Amendola,132.97158813476562
+document_142250.html,Amendola,632,640,Q1345358,PER,Giovanni Amendola,128.14666748046875

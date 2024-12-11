@@ -46,6 +46,7 @@ for filepath in glob.glob(os.path.join(directory, '*.html')):
     # Apre e legge il contenuto del file
     with open(filepath, 'r', encoding='utf-8') as file:
         content = file.read()
+    file.close()
 
     # Usa BeautifulSoup per il parsing del contenuto HTML
     soup = BeautifulSoup(content, 'html.parser')
@@ -103,8 +104,8 @@ length_counts_values = list(length_counts.values())
 mean_length = statistics.mean(length_counts_values)
 std_dev_length = statistics.stdev(length_counts_values)
 
-# Impostiamo un limite di 1.5 deviazioni standard per identificare gli outlier
-threshold = 1.5
+# Impostiamo un limite di 2 deviazioni standard per identificare gli outlier
+threshold = 2
 
 # Trova i documenti che esulano dalla distribuzione normale
 outliers = {
@@ -136,34 +137,50 @@ paragraphs_df = paragraphs_df.dropna(subset=['publication_date'])
 # Divisione in training e testing con stratificazione su 'publication_date'
 train_df, test_df = train_test_split(
     paragraphs_df,
-    test_size=0.25,
+    test_size=0.3,
     stratify=paragraphs_df['publication_date'],
     random_state=42
 )
 
+dev_df, test_df = train_test_split(
+    test_df,
+    test_size=0.5,
+    random_state=42
+)
+
 train_df = train_df.sort_values(by='doc_id', ascending=True)
+dev_df = dev_df.sort_values(by="doc_id", ascending=True)
 test_df = test_df.sort_values(by='doc_id', ascending=True)
 
 # Salvataggio dei dati su file
-train_df.to_csv("./AMD/paragraphs_train.csv", index=False, encoding="utf-8")
-test_df.to_csv("./AMD/paragraphs_test.csv", index=False, encoding="utf-8")
+train_df.to_csv("./AMD/v0.2/paragraphs_train.csv", index=False, encoding="utf-8")
+dev_df.to_csv("./AMD/v0.2/paragraphs_dev.csv", index=False, encoding="utf-8")
+test_df.to_csv("./AMD/v0.2/paragraphs_test.csv", index=False, encoding="utf-8")
 
 
 
 train_annotations = [ann for ann in output if ann["doc_id"] in train_df["doc_id"].values]
+dev_annotations = [ann for ann in output if ann["doc_id"] in dev_df["doc_id"].values]
 test_annotations = [ann for ann in output if ann["doc_id"] in test_df["doc_id"].values]
 
 keys = output[0].keys()
-with open("./AMD/annotations_train.csv", "w", encoding="utf-8") as f:
+with open("./AMD/v0.2/annotations_train.csv", "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, keys)
     dict_writer.writeheader()
     dict_writer.writerows(train_annotations)
+f.close()
 
-with open("./AMD/annotations_test.csv", "w", encoding="utf-8") as f:
+with open("./AMD/v0.2/annotations_dev.csv", "w", encoding="utf-8") as f:
+    dict_writer = csv.DictWriter(f, keys)
+    dict_writer.writeheader()
+    dict_writer.writerows(dev_annotations)
+f.close()
+
+with open("./AMD/v0.2/annotations_test.csv", "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, keys)
     dict_writer.writeheader()
     dict_writer.writerows(test_annotations)
-
+f.close()
 
 
 
