@@ -23,7 +23,7 @@ length_counts = dict()
 filtered_paragraphs = []
 filtered_annotations = []
 for row in all_paragraphs:
-    par_annotations = [anno for anno in all_annotations if anno["doc_id"]==row["doc_id"]]
+    par_annotations = [anno for anno in all_annotations if anno["doc_id"]==row["doc_id"] and len(anno["surface"])>1]
     if par_annotations:
         text = row["text"]
         doc_id = row["doc_id"]
@@ -109,9 +109,9 @@ dev_df = dev_df.sort_values(by="doc_id", ascending=True)
 test_df = test_df.sort_values(by='doc_id', ascending=True)
 
 
-train_df.to_csv("./DZ/v0.2/paragraphs_train.csv", index=False, encoding="utf-8")
-dev_df.to_csv("./DZ/v0.2/paragraphs_dev.csv", index=False, encoding="utf-8")
-test_df.to_csv("./DZ/v0.2/paragraphs_test.csv", index=False, encoding="utf-8")
+train_df.to_csv("./DZ/v0.1/paragraphs_train.csv", index=False, encoding="utf-8")
+dev_df.to_csv("./DZ/v0.1/paragraphs_dev.csv", index=False, encoding="utf-8")
+test_df.to_csv("./DZ/v0.1/paragraphs_test.csv", index=False, encoding="utf-8")
 
 
 
@@ -120,19 +120,19 @@ dev_annotations = [ann for ann in filtered_annotations if ann["doc_id"] in dev_d
 test_annotations = [ann for ann in filtered_annotations if ann["doc_id"] in test_df["doc_id"].values]
 
 keys = filtered_annotations[0].keys()
-with open("./DZ/v0.2/annotations_train.csv", "w", encoding="utf-8") as f:
+with open("./DZ/v0.1/annotations_train.csv", "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, keys)
     dict_writer.writeheader()
     dict_writer.writerows(train_annotations)
 f.close()
 
-with open("./DZ/v0.2/annotations_dev.csv", "w", encoding="utf-8") as f:
+with open("./DZ/v0.1/annotations_dev.csv", "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, keys)
     dict_writer.writeheader()
     dict_writer.writerows(dev_annotations)
 f.close()
 
-with open("./DZ/v0.2/annotations_test.csv", "w", encoding="utf-8") as f:
+with open("./DZ/v0.1/annotations_test.csv", "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, keys)
     dict_writer.writeheader()
     dict_writer.writerows(test_annotations)
