@@ -5,6 +5,8 @@ Extracting Named Entities from Italian Digital Editions
 ### NEW
 * train/dev/test split for both Aldo Moro Digitale (AMD) and DigitalZibaldone (DZ)
 * first version of AMD and DZ with statistics in README:  [file1](AMD/README.md), [file2](DZ/README.md)
+* every document as a creation date which is automatically extracted
+    *  relevant feature for training domain-specific model
 
 ### Current limitations
 * in Aldo Moro Digitale, it is possible to find named entities which are not annotated
