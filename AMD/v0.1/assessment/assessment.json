@@ -1,0 +1,3322 @@
+[
+    {
+        "id": "document_121001.html",
+        "text": "Gli avvenimenti che si sono svolti e si vanno svolgendo in Italia con ritmo incalzante[1] esigono una compiuta e viva presenza di tutti i cittadini nella nuova storia del nostro paese. ",
+        "annotations": [
+            {
+                "doc_id": "document_121001.html",
+                "surface": "Italia",
+                "start_pos": "59",
+                "end_pos": "65",
+                "type": "LOC",
+                "identifier": "Q38"
+            }
+        ],
+        "publication_date": "1951",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_131014.html",
+        "text": "Nella polemica che si è accesa intorno al mio discorso ai dirigenti regionali e provinciali della DC[1], si è voluto a torto chiamare in causa il governo Segni[2].",
+        "annotations": [
+            {
+                "doc_id": "document_131014.html",
+                "surface": "DC",
+                "start_pos": "98",
+                "end_pos": "100",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1963",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_142123.html",
+        "text": " A conclusione di laboriose trattative tra il Governo e la federazione unitaria sindacale è stata raggiunta sul modo di affrontare i problemi della pubblica amministrazione una intesa, i cui termini ritengo doveroso portare a conoscenza della Presidenza dei due rami del Parlamento. Come si evince dal comunicato, che le trasmetto, punto qualificante dell’accordo, è l’impegno ad esaminare i problemi di tutta l’area del pubblico impiego in modo coordinato ed unitario, in vista del comune obiettivo di una graduale eliminazione delle sperequazioni. Si tratta di un obiettivo che non potrebbe essere conseguito se l’accoglimento di spinte settoriali fornisse ulteriori occasioni ad una legislazione frammentaria, in contrasto con la riconosciuta esigenza di una valutazione globale delle diverse situazioni e in deroga al rispetto delle scadenze della contrattazione sindacale. Le assicuro che il Governo intende adeguarsi alla linea di azione concordata e compirà ogni sforzo per contribuire al meditato riordinamento della complessa materia; confido, d’altra parte, che l’opera delle organizzazioni sindacali verrà ad allentare le pressioni finora esercitate. È ovvio che sui provvedimenti via via elaborati, nel quadro dell’accordo, spetterà al Parlamento ogni definitiva valutazione nel superiore interesse dello Stato. ",
+        "annotations": [
+            {
+                "doc_id": "document_142123.html",
+                "surface": "federazione unitaria sindacale",
+                "start_pos": "59",
+                "end_pos": "89",
+                "type": "ORG",
+                "identifier": "Q3740897"
+            }
+        ],
+        "publication_date": "1978",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132037.html",
+        "text": "Signor Presidente[1], signore e signori, sono lieto di porgervi",
+        "annotations": [
+            {
+                "doc_id": "document_132037.html",
+                "surface": "Presidente",
+                "start_pos": "7",
+                "end_pos": "17",
+                "type": "PER",
+                "identifier": "Q67511"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_121225.html",
+        "text": "Nel salone consiliare del Comune l’on. Aldo Moro, Sottosegretario agli Esteri, con l’intervento delle autorità cittadine, ha tenuto ad un folto gruppo di studenti la prolusione della settimana di orientamento per le matricole, organizzata dalla FUCI[1], sul tema «Introduzione alla cultura». L’oratore dopo aver espresso il suo piacere per la possibilità di stabilire un incontro con i giovani che si avviano alla vita universitaria, segna alcune linee orientative della vita universitaria. Il complesso delle facoltà, quale è l’Università, nelle sue singole branche, prepara al possesso di una tecnica. Di qui discende il preciso dovere di rispondere con massima puntualità alla sua preparazione. Però l’Università proprio per essere tale va sentita e vissuta nello spirito universale; deve perciò essere presente allo spirito di ciascuno una giusta curiosità per le altre facoltà; curiosità che si attua specialmente nelle associazioni che vivono a fianco all’Università e raccolgono gli universitari indipendentemente dalle facoltà. Ma proprio lo studio universitario concepito come ricerca della verità in universale fa sorgere interrogativi più alti la cui adeguata e seria risposta deve costituire la base di ogni tecnica proprio per renderla umana, al servizio dell’umanità. Questa risposta di valori della singola facoltà, nello spirito di attenzione delicata e rispettosa verso la problematica delle altre facoltà, impegnati alla chiarificazione in noi dei più alti valori dello spirito, può attuarsi in pieno soltanto se il giovane superando la falsa interpretazione di questo momento della vita come libertinaggio e ricerca del piacere si pone con serietà a viverla superando il proprio egoismo e la propria indifferenza verso gli altri e educandosi a una sempre più pronta apertura verso gli altri. Sol così potrà la gioventù essere la grande riserva di energia della storia umana. L’oratore è stato calorosamente applaudito. Seguiranno le altre lezioni per le facoltà nella corrente settimana.",
+        "annotations": [
+            {
+                "doc_id": "document_121225.html",
+                "surface": "Comune",
+                "start_pos": "26",
+                "end_pos": "32",
+                "type": "LOC",
+                "identifier": "Q3519"
+            },
+            {
+                "doc_id": "document_121225.html",
+                "surface": "FUCI",
+                "start_pos": "245",
+                "end_pos": "249",
+                "type": "ORG",
+                "identifier": "Q3091708"
+            }
+        ],
+        "publication_date": "1951",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_121053.html",
+        "text": "[L’onorevole Moro] Esprime[1] la preoccupazione che una formula come quella proposta dal Presidente[2] possa incontrare ostilità preconcette e non superabili, e che d’altra parte il termine «diritto naturale», così controverso, offra una garanzia costituzionale meno salda di quella contenuta nella formula proposta dai relatori. ",
+        "annotations": [
+            {
+                "doc_id": "document_121053.html",
+                "surface": "Presidente",
+                "start_pos": "89",
+                "end_pos": "99",
+                "type": "PER",
+                "identifier": "Q4003498"
+            }
+        ],
+        "publication_date": "1951",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141158.html",
+        "text": "Mi pare che siamo tutti d’accordo per riconoscere il caso particolare della Nuova Zelanda e l’esigenza di mantenere, sia pure con una certa degressività, le importazioni di prodotti lattieri da questo Paese.",
+        "annotations": [
+            {
+                "doc_id": "document_141158.html",
+                "surface": "Nuova Zelanda",
+                "start_pos": "76",
+                "end_pos": "89",
+                "type": "LOC",
+                "identifier": "Q664"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_131163.html",
+        "text": "L’on. Aldo Moro, parlando a Bari in una riunione di quadri del Partito, dopo aver ringraziato l’elettorato democratico cristiano della provincia per i larghissimo cordiale suffragio con il quale ha voluto rinnovargli il mandato parlamentare secondo gli ideali ed il programma della D.C.[1], ha rilevato come il risultato elettorale, pur avendo confermato la forza preminente della Democrazia Cristiana, non abbia reso giustizia al Partito di maggioranza relativa ed abbia aperto, con il rafforzamento del partito comunista e l’indebolimento della D.C., gravi problemi per la democrazia italiana[2].",
+        "annotations": [
+            {
+                "doc_id": "document_131163.html",
+                "surface": "D.C.",
+                "start_pos": "282",
+                "end_pos": "286",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_131163.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "381",
+                "end_pos": "401",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_131163.html",
+                "surface": "partito comunista",
+                "start_pos": "505",
+                "end_pos": "522",
+                "type": "ORG",
+                "identifier": "Q461886"
+            },
+            {
+                "doc_id": "document_131163.html",
+                "surface": "D.C.",
+                "start_pos": "547",
+                "end_pos": "551",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1963",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_110130.html",
+        "text": "La marcia della fame, già minacciata da qualche giorno, è dunque incominciata. Ed è incominciata in modo inatteso e caratteristico. Non la muta protesta di volti emaciati per le vie splendenti della capitale, ma l’attacco violento di una folla disperata ai mercati neri fioriti indisturbati nei diversi quartieri di Roma. Incontro esasperato e disordinato di gente misera con gente misera. Ancora una volta le vittime di una stessa situazione dolorosa si sono colpite a vicenda, mancando al vero bersaglio, se pure un bersaglio c’è, che, una volta individuato e preso di mira, possa sanare le piaghe di questa disgraziatissima Italia.",
+        "annotations": [
+            {
+                "doc_id": "document_110130.html",
+                "surface": "capitale",
+                "start_pos": "199",
+                "end_pos": "207",
+                "type": "LOC",
+                "identifier": "Q220"
+            },
+            {
+                "doc_id": "document_110130.html",
+                "surface": "Roma",
+                "start_pos": "316",
+                "end_pos": "320",
+                "type": "LOC",
+                "identifier": "Q220"
+            },
+            {
+                "doc_id": "document_110130.html",
+                "surface": "Italia",
+                "start_pos": "627",
+                "end_pos": "633",
+                "type": "LOC",
+                "identifier": "Q38"
+            }
+        ],
+        "publication_date": "1946",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_142245.html",
+        "text": "Moro si è compiaciuto per il tono costruttivo del dibattito che dimostra l’alto grado di responsabilità e di sensibilità con cui le forze politiche intendono affrontare la complessa crisi che travaglia il Paese. Non mancano certo all’on. Andreotti[1] la passione e la volontà di giungere al profondo dello spirito degli italiani sui temi fondamentali che si riferiscono ad una situazione di emergenza estremamente seria e grave: anche se, in questa fase, è parso giusto al presidente incaricato indicare un elenco di temi fissando la loro soluzione allo stato attuale del dibattito. ",
+        "annotations": [
+            {
+                "doc_id": "document_142245.html",
+                "surface": "Andreotti",
+                "start_pos": "238",
+                "end_pos": "247",
+                "type": "PER",
+                "identifier": "Q50005"
+            }
+        ],
+        "publication_date": "1978",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_122069.html",
+        "text": "Signor[1] Presidente[2], onorevoli colleghi, farò brevi considerazioni per dimostrare come, a mio avviso, non sia opportuno che la Camera si occupi della proposta di legge Nasi[3] contenente norme particolari circa la ineleggibilità a carico degli ex gerarchi fascisti.",
+        "annotations": [
+            {
+                "doc_id": "document_122069.html",
+                "surface": "Presidente",
+                "start_pos": "10",
+                "end_pos": "20",
+                "type": "PER",
+                "identifier": "Q139055"
+            },
+            {
+                "doc_id": "document_122069.html",
+                "surface": "Nasi",
+                "start_pos": "172",
+                "end_pos": "176",
+                "type": "PER",
+                "identifier": "Q4013924"
+            }
+        ],
+        "publication_date": "1958",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132099.html",
+        "text": "Il presidente del Consiglio, on. Aldo Moro ha concluso la sua permanenza bolognese recandosi nella sede della Democrazia Cristiana, dove è stato accolto dai dirigenti del partito. Rispondendo ad un indirizzo di saluto del dott. Emilio Rubbi, segretario provinciale della Dc, l’on. Moro ha detto: non vorrei mancare al dovere di ringraziare gli amici del partito per il loro invito e per il loro saluto caldo ed incoraggiante, attestato dalla continuità dell’amicizia e dalla collaborazione che c’è tra di noi. Vengo nella sede della Dc in modo del tutto naturale. In una giornata di impegni a carattere ufficiale mi sarebbe sembrato di perdere qualche cosa se non vi avessi salutato tutti insieme nella vostra sede. Prendo atto del coraggio e dello spirito di iniziativa veramente seria – ha detto il Presidente del Consiglio, richiamando la sua visita al nuovo quartiere fieristico di Bologna – che ho potuto vedere già in una prima significativa realizzazione, si nota il segno della Dc, la sua volontà di servire la comunità cittadina come quella nazionale.",
+        "annotations": [
+            {
+                "doc_id": "document_132099.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "110",
+                "end_pos": "130",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_132099.html",
+                "surface": "partito",
+                "start_pos": "171",
+                "end_pos": "178",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_132099.html",
+                "surface": "Emilio Rubbi",
+                "start_pos": "228",
+                "end_pos": "240",
+                "type": "PER",
+                "identifier": "Q3724516"
+            },
+            {
+                "doc_id": "document_132099.html",
+                "surface": "Dc",
+                "start_pos": "271",
+                "end_pos": "273",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_132099.html",
+                "surface": "partito",
+                "start_pos": "354",
+                "end_pos": "361",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_132099.html",
+                "surface": "Dc",
+                "start_pos": "533",
+                "end_pos": "535",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_132099.html",
+                "surface": "Bologna",
+                "start_pos": "886",
+                "end_pos": "893",
+                "type": "LOC",
+                "identifier": "Q1891"
+            },
+            {
+                "doc_id": "document_132099.html",
+                "surface": "Dc",
+                "start_pos": "986",
+                "end_pos": "988",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132202.html",
+        "text": "Il Presidente del Consiglio on. Aldo Moro, parlando in Provincia di Bari a conclusione della campagna elettorale amministrativa, ha rilevato che l’Italia si trova oggi dinanzi a nuovi problemi ed a nuove difficoltà, insorti proprio nel momento nel quale erano poste ed in modo più ordinato, tutte le premesse per un’altra fase di sviluppo economico e sociale. Ma questi problemi non sono insolubili, queste difficoltà non sono insormontabili, che solo che continuino a sorreggerci il coraggio, la generosità e la disciplina, i quali hanno consentito al Paese di superare gradualmente la crisi congiunturale che è ormai alle spalle. Io ritengo, ha proseguito il Presidente del Consiglio, che queste risorse morali e politiche non manchino nel popolo italiano e che vi sia perciò la possibilità di riguadagnare il terreno perduto nelle drammatiche vicende di queste settimane e di andare avanti. E lo attesta, con un valore esemplare, il comportamento composto, risoluto e coraggioso delle popolazioni colpite intorno alle quali la Nazione si stringe con sentimenti di profonda solidarietà[1]. Si tratta dunque, ha proseguito l’on. Moro, di avere fede in noi stessi, di accettare i necessari sacrifici, di operare fermamente nella giustizia, nella concordia, nella consapevolezza del nesso organico che esiste tra i nostri comportamenti in vista delle risorse da utilizzare e dei bisogni da soddisfare in modo razionale ed ordinato. Problemi e difficoltà non vanno né sopravvalutati né sottovalutati. Sarebbero egualmente inammissibili l’allarmismo e la leggerezza.",
+        "annotations": [
+            {
+                "doc_id": "document_132202.html",
+                "surface": "Bari",
+                "start_pos": "68",
+                "end_pos": "72",
+                "type": "LOC",
+                "identifier": "Q3519"
+            },
+            {
+                "doc_id": "document_132202.html",
+                "surface": "Italia",
+                "start_pos": "147",
+                "end_pos": "153",
+                "type": "LOC",
+                "identifier": "Q38"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_122004.html",
+        "text": "Mi pare[1], se non ho mal compreso l’andamento della discussione, che in sostanza non ci sia una troppo grave divergenza di vedute nell’ambito della Commissione su questo punto. In complesso tutti i colleghi sarebbero disposti ad ammettere che in linea normale la competenza a nominare gli esaminatori per gli esami di Stato fosse del Ministro; solo da più parti si è manifestata la preoccupazione che per quest’anno, dato che la legge deve essere ancora approvata dal Senato, oltre che dalla Camera, il Ministero non faccia in tempo a predisporre tutto il complesso lavoro necessario per esercitare consapevolmente questa funzione di nomina degli esaminatori. Allora, riconosciuta da un lato questa esigenza particolare, e dall’altro che è bene tener fermo il principio della nomina delle commissioni esaminatrici da parte del Ministro, si potrebbe sancire tale principio come norma generale e, quindi, con una disposizione di carattere transitorio per l’applicazione della legge, stabilire che, per ragioni di urgenza, per quest’anno si ricorre al sistema che è stato proposto: trattandosi di una disposizione di carattere temporaneo, automaticamente essa perderebbe di validità una volta decorso il tempo fissato. Quindi non ci possono essere preoccupazioni per quanto riguarda l’inclusione di una disposizione transitoria. E una disposizione di questo genere ritengo sia da preferirsi al potere di delega da parte del Ministro, cui pensa l’onorevole Marchesi[2]. Se siamo consapevoli che per quest’anno il Ministero non ha la possibilità di procedere in tempo al lavoro preparatorio, tanto vale che il Ministro, in questa attribuzione di poteri agli organi locali riuniti in forma regionale, sia confortato da una disposizione di legge. ",
+        "annotations": [
+            {
+                "doc_id": "document_122004.html",
+                "surface": "Marchesi",
+                "start_pos": "1454",
+                "end_pos": "1462",
+                "type": "PER",
+                "identifier": "Q3686190"
+            }
+        ],
+        "publication_date": "1958",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_131031.html",
+        "text": "l’amico Salizzoni[2] mi ha passato la sua richiesta, in verità molto discreta, di un articolo o almeno di una pagina per il fascicolo speciale della Rivista da Lei diretta dedicato alla Scuola italiana. Poiché Ella mostra di rendersi ben conto della difficoltà pratica in cui mi trovo per poter meditatamente preparare un articolo, non ho bisogno di ulteriori giustificazioni e gradirà ugualmente perciò che io risponda alla sua richiesta minore. Innanzi tutto rallegrandomi per la felice iniziativa che, non dubito, nel risultato corrisponderà all’ideazione e contribuirà a diffondere una più riflessa conoscenza delle questioni scolastiche, alla soluzione delle quali la Democrazia Cristiana si sente decisamente impegnata, e non da ora. Un partito largamente rappresentativo di tutti i ceti sociali come quello democratico cristiano non può non essere interessato a realizzare per tutti una larga disponibilità dei beni culturali, a premessa e garanzia sostanziale di un retto esercizio dei diritti politici e sociali e del correlativo adempimento dei corrispondenti doveri. Perché ogni cittadino sia in condizioni di realizzare il pieno sviluppo della propria personalità e di svolgere, secondo le proprie possibilità e la propria scelta, un’attività o una funzione che concorra al progresso materiale o spirituale della società, è necessario: assicurare una compiuta istruzione di base indispensabile per partecipare consapevolmente alla vita associata; promuovere l’armonico sviluppo della formazione umana e di quella professionale, fornendo la preparazione necessaria per 1’esercizio di una concreta attività lavorativa nei vari settori della produzione, della trasformazione e della distribuzione; perfezionare la preparazione necessaria per le professioni pratiche ai giovani che si avviano a costituire i quadri tecnici intermedi; aggiornare la preparazione professionale a livello universitario; incrementare la ricerca scientifica.",
+        "annotations": [
+            {
+                "doc_id": "document_131031.html",
+                "surface": "Salizzoni",
+                "start_pos": "8",
+                "end_pos": "17",
+                "type": "PER",
+                "identifier": "Q3617210"
+            },
+            {
+                "doc_id": "document_131031.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "673",
+                "end_pos": "693",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1963",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132106.html",
+        "text": "In un breve indirizzo di saluto a conclusione della cerimonia per la impostazione di una parte della chiglia del nuovo Incrociatore Lanciamissile “Vittorio Veneto” il presidente del Consiglio onorevole Aldo Moro, espressa la sua gratitudine per l’accoglienza così cordiale ed affettuosa che gli era stata riservata, nel giorno celebrativo dell’Arma, ad una cerimonia così suggestiva, ai dirigenti, i tecnici e i lavoratori dei Cantieri Navali di Castellamare di Stabia e la cittadinanza tutta che hanno voluto rendere così festosa la cerimonia odierna.",
+        "annotations": [
+            {
+                "doc_id": "document_132106.html",
+                "surface": "Castellamare di Stabia",
+                "start_pos": "446",
+                "end_pos": "468",
+                "type": "LOC",
+                "identifier": "NIL"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132266.html",
+        "text": "Il presidente del Consiglio, on. Aldo Moro, parlando al Convegno indetto dall’Associazione Cavalieri del Lavoro, ha salutato il Presidente Cicogna[1] e gli insigniti dell’altissima distinzione, in ispecie i nuovi Cavalieri, che riceveranno domani dal Presidente della Repubblica la prestigiosa onorificenza. Essa premia una vita dedicata con generoso impegno a creare, mediante una intelligente e coraggiosa iniziativa, occasioni di lavoro a servizio e per il benessere dell’intera società. Un siffatto riconoscimento peraltro, che giunge dopo una lunga e sofferta esperienza svolta in collaborazione con i lavoratori, le cui associazioni dei Maestri e degli Anziani del lavoro partecipano alla odierna iniziativa, non esaurisce l’impegno e lo sforzo dei Cavalieri del Lavoro. Un segno di questa vitalità è nel Convegno di oggi sul mondo in evoluzione, manifestazione di una esemplare attenzione per i problemi del nostro tempo e di una intensa applicazione nella ricerca delle vie migliori per il più razionale ordinamento e lo sviluppo della società italiana. Un altro segno è poi il rivolgersi ai migliori giovani d’Italia, selezionati accuratamente al termine dei loro studi secondari ed opportunamente aiutati in una preparazione di altissimo livello.",
+        "annotations": [
+            {
+                "doc_id": "document_132266.html",
+                "surface": "Cicogna",
+                "start_pos": "139",
+                "end_pos": "146",
+                "type": "PER",
+                "identifier": "Q3754786"
+            },
+            {
+                "doc_id": "document_132266.html",
+                "surface": "Presidente della Repubblica",
+                "start_pos": "251",
+                "end_pos": "278",
+                "type": "PER",
+                "identifier": "Q1238"
+            },
+            {
+                "doc_id": "document_132266.html",
+                "surface": "Italia",
+                "start_pos": "1119",
+                "end_pos": "1125",
+                "type": "LOC",
+                "identifier": "Q38"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132284.html",
+        "text": "sono molto lieto di poter rinnovare a Lei ed al Ministro Brandt[2] il benvenuto del Governo italiano e mio personale e dirle quanto mi sia gradito questo incontro che costituisce una ulteriore testimonianza della cordiale amicizia esistente fra i nostri due Paesi e della comune volontà di consolidarla e svilupparla.",
+        "annotations": [
+            {
+                "doc_id": "document_132284.html",
+                "surface": "Brandt",
+                "start_pos": "57",
+                "end_pos": "63",
+                "type": "PER",
+                "identifier": "Q2514"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141202.html",
+        "text": "sono particolarmente lieto di porgere, a nome mio personale e del Governo italiano, il benvenuto in occasione della Sua così gradita visita a Roma.",
+        "annotations": [
+            {
+                "doc_id": "document_141202.html",
+                "surface": "Roma",
+                "start_pos": "142",
+                "end_pos": "146",
+                "type": "LOC",
+                "identifier": "Q220"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132217.html",
+        "text": "Mi si è domandato per quali ragioni e con quali intenti io mi sia presentato in Parlamento per annunciare il proposito del Governo di rimanere al suo posto, malgrado il voto negativo di questa Assemblea sul decreto legge per i previdenziali[1] e dare le motivazioni di questa decisione. Non ho difficoltà a rispondere che l'ho fatto, pur non trattandosi di un Governo nuovo che chieda la fiducia o che intenda sottoporre alle Camere una diversa composizione o un aggiornamento del programma, per doverosa deferenza verso il Parlamento e l'illustre Presidente del Senato della Repubblica[2]. Ho inoltre ritenuto utile un dibattito serrato e serio, qual è quello che qui si è svolto, ed il voto finale che ne è il naturale corollario. Ciò vale come occasione di attenta valutazione dell'opinione parlamentare e come ragione d'incoraggiamento al Governo in questa delicata fase della legislatura e nella complessa e difficile situazione che esso si trova a fronteggiare. Ringrazio i senatori Gava[3] e Lami Starnuti[4] per la fiducia che, a nome dei rispettivi Gruppi, hanno cordialmente voluto rinnovare al Governo e tutti gli oratori che hanno contribuito ad animare il dibattito, esponendo punti di vista diversi, ma sempre con compostezza e rispetto. ",
+        "annotations": [
+            {
+                "doc_id": "document_132217.html",
+                "surface": "Presidente del Senato",
+                "start_pos": "548",
+                "end_pos": "569",
+                "type": "PER",
+                "identifier": "Q562209"
+            },
+            {
+                "doc_id": "document_132217.html",
+                "surface": "Gava",
+                "start_pos": "989",
+                "end_pos": "993",
+                "type": "PER",
+                "identifier": "Q1499564"
+            },
+            {
+                "doc_id": "document_132217.html",
+                "surface": "Lami Starnuti",
+                "start_pos": "999",
+                "end_pos": "1012",
+                "type": "PER",
+                "identifier": "Q3719089"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141275.html",
+        "text": "L’inquietudine manifestata dagli ambienti politici nel corso della crisi di governo e poi nel dibattito parlamentare, una inquietudine che peraltro non intacca la considerazione per la capacità ed i meriti del Presidente del Consiglio[1] e dei suoi Ministri, riflette il timore di molti, più o meno chiaramente espresso, che non solo non sia stato risolto il problema politico italiano, ma che neppure ci si sia avviati verso questo traguardo, anzi che si siano accumulati nuovi ostacoli, invece di porre mente a come superare le difficoltà già esistenti. L’inquietudine nasce appunto dalla preoccupazione che la strada non solo sia lunga ed ardua, ma in qualche modo sbarrata.",
+        "annotations": [
+            {
+                "doc_id": "document_141275.html",
+                "surface": "Presidente del Consiglio",
+                "start_pos": "210",
+                "end_pos": "234",
+                "type": "PER",
+                "identifier": "Q50005"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_121080.html",
+        "text": "Ne «L’Unità»[1] del 17 novembre è riportata un’intervista de poeta romeno Tristan Tzara[2], il quale dichiara «… Noi scrittori comunisti consideriamo l’uomo come il centro di ogni attività e come il fine supremo dei nostri sforzi …». E più in là «… Alla borghesia che dice: “individuo” il comunismo risponde: “l’uomo”»[3]. ",
+        "annotations": [
+            {
+                "doc_id": "document_121080.html",
+                "surface": "Tristan Tzara",
+                "start_pos": "74",
+                "end_pos": "87",
+                "type": "PER",
+                "identifier": "Q16409"
+            }
+        ],
+        "publication_date": "1951",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132303.html",
+        "text": "Mi preme sottolineare l'importanza della decisione del corpo elettorale, la quale metterà alla prova il dato nuovo e positivo dell'unificazione socialista, la posizione di prestigio e di responsabilità della Democrazia Cristiana, l’effettiva capacità del Partito comunista di penetrare nell'elettorato e d'influenzare da posizioni di forza lo schieramento politico. Certamente, mentre sono messi in crisi dall'interno il tipo di società e l'esperienza storica del comunismo, il partito comunista non ha allettanti prospettive da offrire all'elettorato italiano. Esso è costretto a contare più che sul valore positivo delle sue indicazioni, sugli stati emotivi e di scontento, che esso esaspera ed utilizza in termini di sterile protesta al di fuori di una organica soluzione dei problemi in un appropriato e serio quadro politico. E tuttavia, benché lo slancio appaia inferiore agli ambiziosi obiettivi perseguiti, resta questo un pericolo di fondo per la situazione italiana, al quale converrà che ogni elettore consapevole dedichi la sua attenzione e la sua iniziativa. ",
+        "annotations": [
+            {
+                "doc_id": "document_132303.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "208",
+                "end_pos": "228",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_132303.html",
+                "surface": "Partito comunista",
+                "start_pos": "255",
+                "end_pos": "272",
+                "type": "ORG",
+                "identifier": "NIL"
+            },
+            {
+                "doc_id": "document_132303.html",
+                "surface": "partito comunista",
+                "start_pos": "478",
+                "end_pos": "495",
+                "type": "ORG",
+                "identifier": "NIL"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_142204.html",
+        "text": "Di quel che è avvenuto nel corso di questi anni si danno giudizi diversi e non sempre, mi pare, equilibrati. Credo che per passione, per sincera passione europeistica, si vorrebbe che tutto fosse fatto con rapidità, come è nei nostri voti; si vorrebbe che ogni problema fosse risolto la prima volta che esso è posto sul tappeto, che ogni riunione del Consiglio dei ministri fosse feconda di risultati. È, invece, naturale che vi siano dei ritardi e delle remore; soprattutto, non sopravvaluterei alcune piccole soste che lo stesso funzionamento della Comunità rende necessarie. Vorrei dare un giudizio equilibrato, essendo stato nel corso di molti anni, come Presidente del Consiglio e come ministro degli Esteri, nel pieno della esperienza comunitaria. Sappiamo tutti bene che vi sono altre, molte altre, mete da raggiungere. Ma credo che non sarebbe giusto – tenendo conto soprattutto delle difficoltà, delle disparità di vedute, dell’unanimità da raggiungere – non rilevare i progressi che, qualche volta silenziosamente, sono stati realizzati nel corso di questi anni.",
+        "annotations": [
+            {
+                "doc_id": "document_142204.html",
+                "surface": "Comunità",
+                "start_pos": "551",
+                "end_pos": "559",
+                "type": "ORG",
+                "identifier": "Q52847"
+            }
+        ],
+        "publication_date": "1978",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132242.html",
+        "text": "Sig. Sindaco[1], Sig. Presidente della Camera di Commercio[2], Presidente dell’Amministrazione Provinciale, caro collega e amico Sgarlata[3], vorrei esprimere tutta la mia riconoscenza per questo giorno che la Vostra cortesia, la Vostra amicizia mi ha riservato. Giorno di lieto incontro con amici, con persone fino a qualche minuto fa ignote, ma delle quali non potevo non apprezzare, tanto più ora che le conosco, l’opera generosa ed efficace svolta per il progresso di questa terra.",
+        "annotations": [
+            {
+                "doc_id": "document_132242.html",
+                "surface": "Sgarlata",
+                "start_pos": "129",
+                "end_pos": "137",
+                "type": "PER",
+                "identifier": "Q16575674"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132273.html",
+        "text": "le sono grato dell’invito che così cortesemente mi ha rivolto d’intervenire nel discorso che il suo giornale apre, con un inserto speciale, sulle prospettive economiche che si dischiudono per la Liguria. Con questa iniziativa, della quale mi compiaccio, il “Corriere Mercantile” contribuisce alla necessaria diffusione della conoscenza dei problemi dell’economia italiana ed al puntuale confronto delle prospettive nazionali con i problemi, le risorse e le realtà locali.",
+        "annotations": [
+            {
+                "doc_id": "document_132273.html",
+                "surface": "Liguria",
+                "start_pos": "195",
+                "end_pos": "202",
+                "type": "LOC",
+                "identifier": "Q1256"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132195.html",
+        "text": "Onorevole Presidente[1], onorevoli senatori, ",
+        "annotations": [
+            {
+                "doc_id": "document_132195.html",
+                "surface": "Presidente",
+                "start_pos": "10",
+                "end_pos": "20",
+                "type": "PER",
+                "identifier": "Q562209"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_121169.html",
+        "text": "Il nostro Gruppo[1] voterà in favore dell’emendamento presentato dall’onorevole Coppi[2], e ciò ha deliberato per un complesso di considerazioni non soltanto teoriche e tecniche, ma di opportunità politica, pur essendo giunto a questa decisione da posizioni diverse da quelle rappresentate dai nostri colleghi. Voteremo a favore dell’emendamento Coppi, in quanto ci sembra che esso permetta di ovviare agli inconvenienti, che invece si riscontrano nelle altre formulazioni che sono state proposte. ",
+        "annotations": [
+            {
+                "doc_id": "document_121169.html",
+                "surface": "Coppi",
+                "start_pos": "80",
+                "end_pos": "85",
+                "type": "PER",
+                "identifier": "Q3609942"
+            },
+            {
+                "doc_id": "document_121169.html",
+                "surface": "Coppi",
+                "start_pos": "346",
+                "end_pos": "351",
+                "type": "PER",
+                "identifier": "Q3609942"
+            }
+        ],
+        "publication_date": "1951",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132076.html",
+        "text": "Nel momento in cui Ella lascia per sua decisione la carica di Presidente della Repubblica, desidero farle giungere un omaggio devoto e riconoscente nel ricordo della sua feconda e meritoria attività politica e parlamentare che ascrivo a mio onore aver potuto seguire da vicino ed apprezzare in tutto il suo valore. Mi è presente con particolare commozione la benevolenza ed amicizia che Ella ha voluto in più occasioni dimostrarmi, anche sostenendo con illuminato consiglio la mia attività di governo. Voglia gradire, con i più devoti saluti, il più fervido augurio per il suo completo ristabilimento in salute e per una ancora lunga ed efficace sua partecipazione allo sviluppo della vita democratica del Paese verso gli alti obiettivi di pace e di prosperità che ha di nuovo indicati nel suo messaggio al popolo italiano. ",
+        "annotations": [
+            {
+                "doc_id": "document_132076.html",
+                "surface": "Presidente della Repubblica",
+                "start_pos": "62",
+                "end_pos": "89",
+                "type": "PER",
+                "identifier": "Q1240"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_142216.html",
+        "text": "Cari amici, io sono molto onorato per essere stato invitato qui e portare il saluto del partito tutto intero [a questo convegno] promosso dall’ufficio delle attività culturali della Democrazia Cristiana con la direzione intelligente e appassionata dell’amico Sarti[1] e Picchioni[2]. Mi avvicino a queste cose con umiltà come si conviene a persona che non ha una competenza specifica nei temi difficili e appassionati che voi avete portato nel vostro convegno.",
+        "annotations": [
+            {
+                "doc_id": "document_142216.html",
+                "surface": "Sarti",
+                "start_pos": "259",
+                "end_pos": "264",
+                "type": "PER",
+                "identifier": "Q365166"
+            },
+            {
+                "doc_id": "document_142216.html",
+                "surface": "Picchioni",
+                "start_pos": "270",
+                "end_pos": "279",
+                "type": "PER",
+                "identifier": "Q3940277"
+            }
+        ],
+        "publication_date": "1978",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_142246.html",
+        "text": "La lettura dell’articolo di Angelo Narducci[1] su l’« Avvenire » di domenica scorsa è stata per me interessante e stimolante. Benché non sia chiaro e lineare come in altre occasioni, lo scritto contiene acute notazioni, propone legittime preoccupazioni ed ha il segno inconfondibile della buona fede e del rigore morale. Mi proverò dunque a cogliere degli spunti ed a fare qualche precisazione. ",
+        "annotations": [
+            {
+                "doc_id": "document_142246.html",
+                "surface": "Angelo Narducci",
+                "start_pos": "28",
+                "end_pos": "43",
+                "type": "PER",
+                "identifier": "Q3617117"
+            }
+        ],
+        "publication_date": "1978",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141262.html",
+        "text": "L’on. Moro, parlando a Foggia, ha rilevato che le elezioni del 7 maggio sono caratterizzate dall’esigenza di controbattere, mediante una netta indicazione democratica, le spinte anti-istituzionali, sempre latenti nello schieramento politico italiano ed ora fattesi più evidenti ed aggressive. Forze nuove o che si presentano in modo nuovo, manifestano impazienza e sfiducia nelle nostre istituzioni democratiche e si adoperano per abbatterle come un ostacolo alla realizzazione dell’assetto politico al quale si mira. Si vuole scompaginare lo schieramento democratico, si vuole battere la Democrazia Cristiana per avviare ad una vera involuzione autoritaria. Una pattuglia estremista, di cui si dovrà verificare la consistenza, condiziona ancor più il Partito Comunista nella sua critica al sistema e tende ad alterare nel profondo i dati della politica italiana[1]. Si tratta di dimostrare che questa contestazione non ha dalla sua parte né ragione né forza per prevalere e che le istituzioni democratiche restano il fondamento della pace politica e lo strumento necessario e sufficiente per il progresso sociale del paese.",
+        "annotations": [
+            {
+                "doc_id": "document_141262.html",
+                "surface": "Foggia",
+                "start_pos": "23",
+                "end_pos": "29",
+                "type": "LOC",
+                "identifier": "Q13464"
+            },
+            {
+                "doc_id": "document_141262.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "589",
+                "end_pos": "609",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_141262.html",
+                "surface": "Partito Comunista",
+                "start_pos": "752",
+                "end_pos": "769",
+                "type": "ORG",
+                "identifier": "Q461886"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_122025.html",
+        "text": "Desidero[1] fare soltanto qualche osservazione in rapporto a quanto ha assunto l’onorevole Preti[2] circa l’effetto diverso da quello voluto che avrebbe l’accoglimento della proposta Bettiol[3], e cioè di prolungare ed ampliare al di là del necessario la discussione dei bilanci. Non voglio entrare in polemica con gli oratori dell’opposizione i quali, coerenti con la posizione di sfiducia verso il Governo, votano contro l’esercizio provvisorio. Per quanto riguarda la responsabilità del Governo e della maggioranza circa la necessità nella quale ci troviamo di adottare l’esercizio provvisorio, io ritengo veramente che non si possa addebitare né al Governo né alla maggioranza una incuria in nessun senso. Il ritardo dipende sostanzialmente dai lavori dell’Assemblea, dall’urgenza di talune leggi di particolare importanza che ci hanno portato a questo punto.",
+        "annotations": [
+            {
+                "doc_id": "document_122025.html",
+                "surface": "Preti",
+                "start_pos": "91",
+                "end_pos": "96",
+                "type": "PER",
+                "identifier": "Q3840053"
+            },
+            {
+                "doc_id": "document_122025.html",
+                "surface": "Bettiol",
+                "start_pos": "183",
+                "end_pos": "190",
+                "type": "PER",
+                "identifier": "Q3770116"
+            }
+        ],
+        "publication_date": "1958",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_121034.html",
+        "text": "[L’onorevole Moro] Dichiara[1] di non essere d’accordo con l’onorevole Basso[2] circa l’opportunità di discutere soltanto principi generali, e sostiene che invece di arrivare ad una formulazione frettolosa si debbano discutere in blocco tutti i problemi, anche in vista della loro collocazione. ",
+        "annotations": [
+            {
+                "doc_id": "document_121034.html",
+                "surface": "Basso",
+                "start_pos": "71",
+                "end_pos": "76",
+                "type": "PER",
+                "identifier": "Q3229281"
+            }
+        ],
+        "publication_date": "1951",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_110193.html",
+        "text": "Ribattendo alla tesi crociana che la storia si fa dall’alto e non dal basso, Umberto Calosso[1] svolge sull’«Avanti[!]» del 13 giugno interessanti considerazioni[2]. Egli richiama all’annuncio del primato dei poveri contenuto nel Vangelo, a quella stupenda ignoranza dell’artificio e semplicità di cuore, le quali permettono di aderire alla profonda sostanza della vita. Tanto che appare, per questa misteriosa ricchezza, naturale ed attuabile la promessa, che si va faticosamente compiendo nel travaglio della storia, di un possesso d’incomparabile valore.",
+        "annotations": [
+            {
+                "doc_id": "document_110193.html",
+                "surface": "Umberto Calosso",
+                "start_pos": "77",
+                "end_pos": "92",
+                "type": "PER",
+                "identifier": "Q4003345"
+            }
+        ],
+        "publication_date": "1946",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_131170.html",
+        "text": "Come cristiani e come democratici esprimiamo il nostro vivissimo dolore per la notizia che ci ha profondamente colpiti dell’assurdo e criminoso attentato al Presidente Kennedy[1]. La sua figura di politico, sia nell’ambito del suo grande Paese, sia sulla scena internazionale, è andata ingigantendosi in questi anni di politica coraggiosamente rinnovatrice. La ragione per la quale è stato follemente colpito innalza ancora di più il Presidente Kennedy sul piano morale, come un grande difensore della dignità e della uguaglianza degli uomini.",
+        "annotations": [
+            {
+                "doc_id": "document_131170.html",
+                "surface": "Kennedy",
+                "start_pos": "168",
+                "end_pos": "175",
+                "type": "PER",
+                "identifier": "Q9696"
+            },
+            {
+                "doc_id": "document_131170.html",
+                "surface": "Kennedy",
+                "start_pos": "445",
+                "end_pos": "452",
+                "type": "PER",
+                "identifier": "Q9696"
+            }
+        ],
+        "publication_date": "1963",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_122071.html",
+        "text": "Tecnicamente[1] mi pare preferibile l'articolo 4 Morelli[2], che dice: «La presente legge avrà effetto a decorrere dal 1° luglio 1952. ",
+        "annotations": [
+            {
+                "doc_id": "document_122071.html",
+                "surface": "Morelli",
+                "start_pos": "49",
+                "end_pos": "56",
+                "type": "PER",
+                "identifier": "Q32281802"
+            }
+        ],
+        "publication_date": "1958",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141032.html",
+        "text": "L’on. Aldo Moro, parlando in un Convegno Nazionale di democratici cristiani, ha negato che la sua iniziativa in corso dal Consiglio Nazionale del novembre 1968[1], abbia in qualsiasi modo un significato di rivalsa e miri a fini di potere. Essa rappresenta una posizione di autonomia, sollecitata da una consapevole considerazione delle esigenze del Partito e del Paese ed assunta in vista della opportunità di dare alla Democrazia Cristiana una nuova maggioranza ed una funzione adeguata al momento storico che l’Italia ed il mondo vivono. Questa rivendicazione è una critica all’esclusivismo e perciò non può essere, a sua volta, preclusiva ed opportunistica. Si tratta infatti di riempire il vuoto incautamente lasciato nell’assetto che il Partito si è dato negli ultimi mesi e di valorizzare e rendere corresponsabili nella gestione del Partito come del Governo le componenti di sinistra, ormai mature per assumere, senza alcuna discriminazione, compiti di direzione nella Democrazia Cristiana. L’on. Moro ha ribadito il suo giudizio critico circa l’errore commesso nel formare una maggioranza occasionale, nella quale perciò convergenze e divergenze risultavano arbitrarie e non rispondenti a serie ragioni politiche. Ci si accusa, ha proseguito l’on. Moro, di guardare al passato e di prediligere una forma di contestazione metodologica. Ma non si riflette, rivolgendoci questa critica, che l’assetto ingiusto, intorno al quale polemizziamo, non è un fatto del passato, ma del presente e, se non interverranno in forza del congresso elementi correttivi, anche dell’avvenire. Il problema di metodo poi, sul quale non ci stanchiamo di richiamare l’attenzione, riguarda un punto essenziale, il superamento cioè delle posizioni di potere e di comodo, la restituzione alla Democrazia Cristiana, nella libertà, nell’eguaglianza e nella giustizia, di un volto nel quale il Paese possa riconoscersi, vedendo rispettate le sue fondamentali esigenze morali. È importante soprattutto che i giovani, assai più seri ed onesti ed attenti che non sembri a prima vista, possano guardare a noi, senza rilevare dolorosamente alcuna grettezza e chiusura.",
+        "annotations": [
+            {
+                "doc_id": "document_141032.html",
+                "surface": "Partito",
+                "start_pos": "349",
+                "end_pos": "356",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_141032.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "420",
+                "end_pos": "440",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_141032.html",
+                "surface": "Italia",
+                "start_pos": "513",
+                "end_pos": "519",
+                "type": "LOC",
+                "identifier": "NIL"
+            },
+            {
+                "doc_id": "document_141032.html",
+                "surface": "Partito",
+                "start_pos": "742",
+                "end_pos": "749",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_141032.html",
+                "surface": "Partito",
+                "start_pos": "840",
+                "end_pos": "847",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_141032.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "976",
+                "end_pos": "996",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_141032.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "1773",
+                "end_pos": "1793",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132170.html",
+        "text": "Signor Cancelliere Federale, la ringrazio, anche a nome del ministro degli Esteri on. Fanfani, per le espressioni così amichevoli e cordiali con cui ella ha voluto accoglierci. Mi consenta di esprimerle la mia viva soddisfazione per questo nuovo incontro[1] che ci permette di avere aperti ed approfonditi scambi di idee, mentre sul piano internazionale sono aperti problemi di grande rilievo e che toccano tanto da vicino gli interessi e i destini dei nostri due Paesi. ",
+        "annotations": [
+            {
+                "doc_id": "document_132170.html",
+                "surface": "Cancelliere Federale",
+                "start_pos": "7",
+                "end_pos": "27",
+                "type": "PER",
+                "identifier": "Q2496"
+            },
+            {
+                "doc_id": "document_132170.html",
+                "surface": "Fanfani",
+                "start_pos": "86",
+                "end_pos": "93",
+                "type": "PER",
+                "identifier": "Q273228"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132111.html",
+        "text": "sono particolarmente lieto di porgerle il più cordiale benvenuto in Italia in occasione di questa sua prima visita nel nostro Paese, dopo la assunzione delle sue alte funzioni di governo.",
+        "annotations": [
+            {
+                "doc_id": "document_132111.html",
+                "surface": "Italia",
+                "start_pos": "68",
+                "end_pos": "74",
+                "type": "LOC",
+                "identifier": "Q38"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141234.html",
+        "text": "sono lieto di rendermi interprete dei sentimenti del Governo e del Popolo italiano nel porgerLe il benvenuto più cordiale in occasione della Sua visita a Roma.",
+        "annotations": [
+            {
+                "doc_id": "document_141234.html",
+                "surface": "Roma",
+                "start_pos": "154",
+                "end_pos": "158",
+                "type": "LOC",
+                "identifier": "Q220"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_131043.html",
+        "text": "Il mio intervento è diretto a spiegare nel modo più semplice gli avvenimenti politici che hanno portato alla formazione del Governo Fanfani[1], la parte che in essi ha avuto la democrazia cristiana, le responsabilità che essa si è assunte, le ragioni della nostra fiducia al Governo, le sue prospettive di azione per corrispondere alle esigenze del paese.",
+        "annotations": [
+            {
+                "doc_id": "document_131043.html",
+                "surface": "democrazia cristiana",
+                "start_pos": "177",
+                "end_pos": "197",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1963",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_142014.html",
+        "text": " » Certes, il faut toujours rechercher une meilleure compréhension réciproque. Pour tirer tout le parti possible des aspirations et des perspectives d’avenir qui nous sont communes, un long chemin reste à parcourir. Dans le domaine de la Communauté en particulier, même si une dialectique est naturelle et nécessaire, il faut faire en sorte qu’elle s’exerce, pour ainsi dire, en dehors des idéologies et sur le terrain des choix concrets qui se présentent au fur et à mesure. Il faut qu’un système de référence européen ayant sa force d’attraction propre, s’impose de plus en plus, prenant la place des positions nationales simplement raccordées pour des raisons d’opportunité. ",
+        "annotations": [
+            {
+                "doc_id": "document_142014.html",
+                "surface": "Communauté",
+                "start_pos": "238",
+                "end_pos": "248",
+                "type": "ORG",
+                "identifier": "Q458"
+            }
+        ],
+        "publication_date": "1978",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_122077.html",
+        "text": "Dinanzi ad un pubblico foltissimo, l’on. Aldo Moro – Vice presidente del Gruppo Parlamentare DC e candidato al Parlamento per la DC – ha tenuto ieri sera in piazza San Ferdinando un suo comizio elettorale. Il discorso del noto parlamentare è stato di grande interesse ed ha senza dubbio apportato un notevole contributo al chiarimento della situazione. ",
+        "annotations": [
+            {
+                "doc_id": "document_122077.html",
+                "surface": "DC",
+                "start_pos": "93",
+                "end_pos": "95",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_122077.html",
+                "surface": "DC",
+                "start_pos": "129",
+                "end_pos": "131",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_122077.html",
+                "surface": "piazza San Ferdinando",
+                "start_pos": "157",
+                "end_pos": "178",
+                "type": "LOC",
+                "identifier": "NIL"
+            }
+        ],
+        "publication_date": "1958",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141108.html",
+        "text": "«Questo è un grande giorno, lungamente atteso, per l’Europa e per l’Italia. Lo diciamo senza retorica, senza sottovalutare le difficoltà che permangono. Oggi è stata aperta la via per l’ingresso della Gran Bretagna e degli altri tre Paesi candidati nella Comunità europea[1]. Abbiamo dedicato a questo fine anni di lavoro, anche superando a volte ostacoli che apparivano insormontabili. Per l’Italia, che ha sempre ritenuto essenziale il contributo britannico alla costruzione dell’Europa e che si è in ogni occasione impegnata in questa direzione, l’avvenimento ha un significato particolare. Nei discorsi che sono stati pronunciati vi è stata emozione ma anche realismo, e cioè una valutazione serena della situazione e del cammino da percorrere per giungere al definitivo successo. Questi discorsi sono stati equilibrati, sereni, obbiettivi. Il governo italiano si augura che i negoziati non siano molto lunghi e che si soffermino sulle cose essenziali». Il ministro Moro ha quindi affermato che il negoziato è un avvenimento politico, giacché l’Europa economicamente integrata è di per se stessa un fatto politico.",
+        "annotations": [
+            {
+                "doc_id": "document_141108.html",
+                "surface": "Europa",
+                "start_pos": "53",
+                "end_pos": "59",
+                "type": "LOC",
+                "identifier": "Q46"
+            },
+            {
+                "doc_id": "document_141108.html",
+                "surface": "Italia",
+                "start_pos": "68",
+                "end_pos": "74",
+                "type": "LOC",
+                "identifier": "Q38"
+            },
+            {
+                "doc_id": "document_141108.html",
+                "surface": "Gran Bretagna",
+                "start_pos": "201",
+                "end_pos": "214",
+                "type": "LOC",
+                "identifier": "Q145"
+            },
+            {
+                "doc_id": "document_141108.html",
+                "surface": "Comunità europea",
+                "start_pos": "255",
+                "end_pos": "271",
+                "type": "ORG",
+                "identifier": "Q52847"
+            },
+            {
+                "doc_id": "document_141108.html",
+                "surface": "Italia",
+                "start_pos": "393",
+                "end_pos": "399",
+                "type": "LOC",
+                "identifier": "Q38"
+            },
+            {
+                "doc_id": "document_141108.html",
+                "surface": "Europa",
+                "start_pos": "482",
+                "end_pos": "488",
+                "type": "LOC",
+                "identifier": "Q46"
+            },
+            {
+                "doc_id": "document_141108.html",
+                "surface": "Europa",
+                "start_pos": "1049",
+                "end_pos": "1055",
+                "type": "LOC",
+                "identifier": "Q46"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141085.html",
+        "text": "desidero ringraziarLa nel modo più vivo per l’accoglienza riservatami dal suo Governo e per le gentili e lusinghiere espressioni che Ella ha voluto rivolgermi.",
+        "annotations": [
+            {
+                "doc_id": "document_141085.html",
+                "surface": "Ella",
+                "start_pos": "133",
+                "end_pos": "137",
+                "type": "PER",
+                "identifier": "NIL"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132250.html",
+        "text": "sono particolarmente lieto di porgerle il saluto ed il benvenuto del Governo italiano e mio personale e di esprimerle la più sincera soddisfazione per questa sua visita a Roma.",
+        "annotations": [
+            {
+                "doc_id": "document_132250.html",
+                "surface": "Roma",
+                "start_pos": "171",
+                "end_pos": "175",
+                "type": "LOC",
+                "identifier": "Q220"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141014.html",
+        "text": "Sono trascorsi oltre due mesi dalla indizione del Congresso Nazionale straordinario della Democrazia Cristiana[1]. Siamo, cioè, quasi a metà del cammino verso un’importante scadenza; ci avviciniamo ad un evento che impegna tutto il Partito e condiziona gli sviluppi della vita politica del Paese.",
+        "annotations": [
+            {
+                "doc_id": "document_141014.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "90",
+                "end_pos": "110",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_141014.html",
+                "surface": "Partito",
+                "start_pos": "232",
+                "end_pos": "239",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_110020.html",
+        "text": "mi sembra opportuno che, in questo periodo di attesa reso necessario dalla preparazione agli esami, Associazioni e Segretariati si preoccupino seriamente del problema delle matricole. Che sia questo un problema importante che va attentamente esaminato e subito risolto perché sia assicurata la continuità della nostra vita fucina, mi pare sia ormai sentito vivamente in tutta la Fuci. È inutile perciò insistere ancora su questo; credo solo utile rilevare che è un problema preliminare di fronte a quelli sollevati durante l’anno dallo svolgimento delle nostre attività; solo se noi ci saremo preoccupati di completare i nostri quadri, potremo fare piani di lavoro e affrontare tranquillamente le inevitabili difficoltà. ",
+        "annotations": [
+            {
+                "doc_id": "document_110020.html",
+                "surface": "Associazioni",
+                "start_pos": "100",
+                "end_pos": "112",
+                "type": "ORG",
+                "identifier": "Q3091708"
+            },
+            {
+                "doc_id": "document_110020.html",
+                "surface": "Fuci",
+                "start_pos": "379",
+                "end_pos": "383",
+                "type": "ORG",
+                "identifier": "Q3091708"
+            }
+        ],
+        "publication_date": "1946",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_110060.html",
+        "text": "Anche quest’anno il giorno della festa di S. Tommaso d’Aquino la Fuci celebra la Giornata Fucina. La celebra nel ricordo del grande Dottore della Chiesa, che con la sua vita di continua ricerca della verità e di continuo sforzo per realizzarla concretamente in sé e negli altri costituisce un esempio luminoso che val la pena di additare alla nostra gioventù universitaria. La celebra nella meditazione del tema formativo proposto quest’anno dal Centro e del quale non sfugge a nessuno l’interesse palpitante e vivo: il valore della vita sociale. ",
+        "annotations": [
+            {
+                "doc_id": "document_110060.html",
+                "surface": "S. Tommaso d’Aquino",
+                "start_pos": "42",
+                "end_pos": "61",
+                "type": "PER",
+                "identifier": "Q9438"
+            },
+            {
+                "doc_id": "document_110060.html",
+                "surface": "Fuci",
+                "start_pos": "65",
+                "end_pos": "69",
+                "type": "ORG",
+                "identifier": "Q3091708"
+            },
+            {
+                "doc_id": "document_110060.html",
+                "surface": "Dottore",
+                "start_pos": "132",
+                "end_pos": "139",
+                "type": "PER",
+                "identifier": "Q9438"
+            },
+            {
+                "doc_id": "document_110060.html",
+                "surface": "Chiesa",
+                "start_pos": "146",
+                "end_pos": "152",
+                "type": "ORG",
+                "identifier": "Q34651"
+            }
+        ],
+        "publication_date": "1946",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_131109.html",
+        "text": "La Direzione centrale della Democrazia Cristiana, nella sua seduta di ieri, ha consentito per parte sua che il Governo[1] sciogliesse la riserva, contenuta nel suo programma, circa la razionale unificazione del sistema elettrico, proponendo al Parlamento la nazionalizzazione integrale della impresa elettrica Italia[2]. Siamo nel quadro dell’articolo 43 della Costituzione, il quale prevede che siano originariamente riservate ovvero trasferite allo Stato o ad Enti pubblici, tra l’altro, le imprese relative alle fonti di energia per le quali sussista un preminente interesse pubblico[3]. È una disposizione che la Democrazia Cristiana ha contribuito in modo determinato a formulare e che viene ora in applicazione. Il provvedimento del resto corrisponde alle indicazioni della dottrina sociale cristiana alla quale il nostro Partito s’ispira e dalla quale esso intende essere caratterizzato e qualificato. Certamente il programma politico della D.C. è contro ogni forma di livellamento collettivistico della vita economica e sociale; ma esso ammette naturalmente forme di riserva allo Stato di imprese le quali tocchino in modo tutto particolare l’interesse della collettività, sicché per altra via l’interesse generale non possa essere adeguatamente soddisfatto. In questo momento storico noi abbiamo ritenuto, insieme con altri partiti, che la tutela degl’interessi della generalità dei cittadini richieda il passaggio nella disponibilità dei pubblici poteri dell’energia elettrica. Ciò non significa naturalmente sfiducia nella iniziativa privata, che dev’essere incoraggiata e tutelata a norma della Costituzione. Perciò la Democrazia Cristiana conferma che essa non ritiene che altri settori della vita economica debbano soggiacere ad una restrizione che ha per noi carattere sussidiario e singolare. Appunto per l’energia si tratta di dare ai pubblici poteri, com’è giusto, la piena disponibilità di uno strumento essenziale per una politica di ordinato sviluppo economico e di progresso sociale. Vogliamo anche con questo mezzo combattere gli squilibri di settore e di zona, per rendere più piena e concreta la libertà umana. Lavoriamo ancora, secondo la nostra responsabilità, per fare più giusta la nostra società in un’Italia moderna e civile.",
+        "annotations": [
+            {
+                "doc_id": "document_131109.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "28",
+                "end_pos": "48",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_131109.html",
+                "surface": "Italia",
+                "start_pos": "310",
+                "end_pos": "316",
+                "type": "LOC",
+                "identifier": "Q38"
+            },
+            {
+                "doc_id": "document_131109.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "617",
+                "end_pos": "637",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_131109.html",
+                "surface": "D.C.",
+                "start_pos": "948",
+                "end_pos": "952",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_131109.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "1631",
+                "end_pos": "1651",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_131109.html",
+                "surface": "Italia",
+                "start_pos": "2232",
+                "end_pos": "2238",
+                "type": "LOC",
+                "identifier": "Q38"
+            }
+        ],
+        "publication_date": "1963",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_131130.html",
+        "text": "Questo dibattito, signor Presidente e onorevoli colleghi, è mosso dalla presentazione di una mozione di sfiducia da parte del gruppo comunista, la quale si indirizza contro il Governo[1], contro la politica generale del Governo, e ha accentuate punte polemiche nei confronti della democrazia cristiana. L’onorevole Togliatti[2], nell’illustrare tale mozione, ha vantato la continuità della sua azione di opposizione all’attuale Governo, e ha attribuito a questa mozione − fra l’altro − il significato della testimonianza del fatto che il partito comunista, assumendo un così netto atteggiamento di opposizione, non teme, come non ha temuto ieri, di restare isolato nello schieramento politico e nel paese.",
+        "annotations": [
+            {
+                "doc_id": "document_131130.html",
+                "surface": "Presidente",
+                "start_pos": "25",
+                "end_pos": "35",
+                "type": "PER",
+                "identifier": "Q273228"
+            },
+            {
+                "doc_id": "document_131130.html",
+                "surface": "democrazia cristiana",
+                "start_pos": "281",
+                "end_pos": "301",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_131130.html",
+                "surface": "Togliatti",
+                "start_pos": "315",
+                "end_pos": "324",
+                "type": "PER",
+                "identifier": "Q310158"
+            },
+            {
+                "doc_id": "document_131130.html",
+                "surface": "partito comunista",
+                "start_pos": "538",
+                "end_pos": "555",
+                "type": "ORG",
+                "identifier": "Q461886"
+            }
+        ],
+        "publication_date": "1963",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_131078.html",
+        "text": "Il dibattito alla Camera sulla mozione di sfiducia presentata dal Partito Socialista[1] ha costituito il fatto dominante alla chiusura della presente sessione parlamentare ed il dato conclusivo di un momento politico di grande interesse per il nostro Paese. Un anno di vita del Governo[2] offre naturalmente l’occasione alla delineazione di un bilancio, che non è solo il consuntivo delle realizzazioni programmatiche, ma anche un accertamento della validità politica della formula e della sua vitalità.",
+        "annotations": [
+            {
+                "doc_id": "document_131078.html",
+                "surface": "Partito Socialista",
+                "start_pos": "66",
+                "end_pos": "84",
+                "type": "ORG",
+                "identifier": "Q590750"
+            }
+        ],
+        "publication_date": "1963",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_131139.html",
+        "text": "A Salerno, il segretario politico della Democrazia Cristiana, on. Aldo Moro, intervenendo ad una riunione di dirigenti di partito e di amministratori locali democristiani, rievocata la figura dell’on. Carmine De Martino[1], che svolse, nella fedeltà al partito, una intensa leale attività al servizio della Democrazia Cristiana, del Paese, della sua regione, ha detto che uno dei dati più importanti, più significativi, in questo momento, è l’unità della Democrazia Cristiana. Essa è un bene essenziale per il Paese, una garanzia che la DC offre per la sua capacità di raccogliere tutte le voci, di interpretare armonicamente tutte le esigenze, di esprimere in sé tutti i ceti che compongono la società italiana.",
+        "annotations": [
+            {
+                "doc_id": "document_131139.html",
+                "surface": "Carmine De Martino",
+                "start_pos": "201",
+                "end_pos": "219",
+                "type": "PER",
+                "identifier": "Q3660359"
+            },
+            {
+                "doc_id": "document_131139.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "307",
+                "end_pos": "327",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_131139.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "455",
+                "end_pos": "475",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1963",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_142030.html",
+        "text": " « L’obiettivo della missione era in prima linea politico, giacché intendevo riprendere contatto con i dirigenti dei paesi arabi nell’attuale contesto politico, ascoltare le loro idee e manifestare le nostre sulla base naturalmente delle ultime mie dichiarazioni fatte al Senato. Tale obiettivo politico è stato realizzato. Gli incontri sono stati estremamente cordiali e fruttuosi ed ora, posso dire, siamo in condizione di svolgere meglio il ruolo che compete all’ Italia in un settore tanto importante della politica mondiale. La missione – ha continuato Moro – aveva anche obiettivi di carattere economico, e di temi economici, di petrolio, il suo prezzo, la possibilità di collaborazione economica mutuamente vantaggiosa credo di aver parlato con successo con i rappresentanti dei paesi visitati. Posso dire che in complesso abbiamo trovato una larga accoglienza: c’è simpatia ed amicizia per l’ Italia , vi è in complesso una grande apertura verso di noi e c’è il desiderio di vedere il nostro paese collaborare intensamente portando il contributo della sua tecnica e della sua capacità imprenditoriale allo sviluppo economico e sociale di quelle nazioni ». ",
+        "annotations": [
+            {
+                "doc_id": "document_142030.html",
+                "surface": "Italia",
+                "start_pos": "467",
+                "end_pos": "473",
+                "type": "LOC",
+                "identifier": "Q38"
+            },
+            {
+                "doc_id": "document_142030.html",
+                "surface": "Italia",
+                "start_pos": "901",
+                "end_pos": "907",
+                "type": "LOC",
+                "identifier": "Q38"
+            }
+        ],
+        "publication_date": "1978",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_110147.html",
+        "text": "In alcuni partiti, oggi all’opposizione[1], ritorna insistente il motivo di un intervento dell’Italia del Nord, per risolvere finalmente gli aggrovigliati problemi della nostra politica. La funzione decisamente chiarificatrice, che, alcuni mesi or sono, si attribuiva alla liberazione di Roma, si è inclini ora a riconoscere alla liberazione di Milano. Milano cioè dirà per tutti gl’Italiani, la parola decisiva.",
+        "annotations": [
+            {
+                "doc_id": "document_110147.html",
+                "surface": "partiti",
+                "start_pos": "10",
+                "end_pos": "17",
+                "type": "ORG",
+                "identifier": "Q7278"
+            },
+            {
+                "doc_id": "document_110147.html",
+                "surface": "Italia",
+                "start_pos": "95",
+                "end_pos": "101",
+                "type": "LOC",
+                "identifier": "Q38"
+            },
+            {
+                "doc_id": "document_110147.html",
+                "surface": "Nord",
+                "start_pos": "106",
+                "end_pos": "110",
+                "type": "LOC",
+                "identifier": "Q4345530"
+            },
+            {
+                "doc_id": "document_110147.html",
+                "surface": "Roma",
+                "start_pos": "288",
+                "end_pos": "292",
+                "type": "LOC",
+                "identifier": "Q220"
+            },
+            {
+                "doc_id": "document_110147.html",
+                "surface": "Milano",
+                "start_pos": "345",
+                "end_pos": "351",
+                "type": "LOC",
+                "identifier": "Q490"
+            },
+            {
+                "doc_id": "document_110147.html",
+                "surface": "Milano",
+                "start_pos": "353",
+                "end_pos": "359",
+                "type": "LOC",
+                "identifier": "Q490"
+            }
+        ],
+        "publication_date": "1946",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141200.html",
+        "text": "Signor Vice Presidente[1], Signori Ministri, Signori,",
+        "annotations": [
+            {
+                "doc_id": "document_141200.html",
+                "surface": "Vice Presidente",
+                "start_pos": "7",
+                "end_pos": "22",
+                "type": "PER",
+                "identifier": "Q921516"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141140.html",
+        "text": "Tengo ad esprimere il mio più vivo compiacimento per l’iniziativa presa dalla Direzione del giornale “Indonesia Raya” di dedicare un’edizione speciale del giornale stesso ai rapporti tra l’Indonesia e l’Italia.",
+        "annotations": [
+            {
+                "doc_id": "document_141140.html",
+                "surface": "Indonesia",
+                "start_pos": "189",
+                "end_pos": "198",
+                "type": "LOC",
+                "identifier": "Q252"
+            },
+            {
+                "doc_id": "document_141140.html",
+                "surface": "Italia",
+                "start_pos": "203",
+                "end_pos": "209",
+                "type": "LOC",
+                "identifier": "Q38"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141131.html",
+        "text": "la mia soddisfazione di trovarmi in Giappone è grande, sia perché è la prima volta che visito questo nobile Paese, sia perché riannodo quelle consultazioni reciproche che nostri predecessori avevano auspicato e che, in questi ultimi anni, una serie di contrattempi non aveva consentito.",
+        "annotations": [
+            {
+                "doc_id": "document_141131.html",
+                "surface": "Giappone",
+                "start_pos": "36",
+                "end_pos": "44",
+                "type": "LOC",
+                "identifier": "Q17"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132028.html",
+        "text": "devo alla cortesia dei dirigenti della Rai[2] se mi è offerta questa prima occasione d’incontro, da quando ho assunto la direzione del Governo, con il mondo della Radio e della Televisione. Occasione tanto più felice perché collegata all’inaugurazione di un complesso che segna un altro passo avanti nello sviluppo di un fondamentale servizio nazionale.",
+        "annotations": [
+            {
+                "doc_id": "document_132028.html",
+                "surface": "Rai",
+                "start_pos": "39",
+                "end_pos": "42",
+                "type": "ORG",
+                "identifier": "Q19616"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_122044.html",
+        "text": "Signor Presidente[1], onorevoli colleghi, toccano a me questa sera, per le condizioni di salute dell’onorevole Giuseppe Bettiol[2], al quale, a nome del mio gruppo, invio un affettuoso augurale saluto, l’onore e l’onere di parlare contro le pregiudiziali di carattere costituzionale, o meglio contro l’articolata pregiudiziale di carattere costituzionale avanzata finora dai colleghi dell’estrema sinistra attraverso quattro autorevoli oratori.",
+        "annotations": [
+            {
+                "doc_id": "document_122044.html",
+                "surface": "Presidente",
+                "start_pos": "7",
+                "end_pos": "17",
+                "type": "PER",
+                "identifier": "Q1241"
+            },
+            {
+                "doc_id": "document_122044.html",
+                "surface": "Giuseppe Bettiol",
+                "start_pos": "111",
+                "end_pos": "127",
+                "type": "PER",
+                "identifier": "Q3770116"
+            }
+        ],
+        "publication_date": "1958",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_142028.html",
+        "text": " « Sono molto interessato a conoscere bene questo paese, non solo nella sua struttura economica ma anche nella sua consistenza spirituale e politica. Riprenderò con il ministro degli esteri del Kuwait  [1]  un discorso che è cominciato a Roma e che è stato del resto molto facile e così sarà facile qui, come conviene a vecchi amici ». « Questo incontro avviene – ha proseguito Moro – nel momento nel quale si rinsaldano di più le relazioni tra l’ Italia ed il mondo arabo. È una amicizia tradizionale la nostra, che ha avuto in questo periodo il modo di manifestarsi. Stiamo accanto ai paesi arabi per quanto riguarda le loro legittime aspirazioni. Desideriamo, al tempo stesso, sviluppare con essi una intensa collaborazione economica, che riguardi, da un lato, l’ Europa comunitaria e, dall’altro, il mondo arabo nel suo insieme. Naturalmente, in questo quadro c’è spazio sufficiente per rapporti bilaterali molto intensi tra paesi dell’una e dell’altra area ». ",
+        "annotations": [
+            {
+                "doc_id": "document_142028.html",
+                "surface": "ministro degli esteri",
+                "start_pos": "168",
+                "end_pos": "189",
+                "type": "PER",
+                "identifier": "Q57555"
+            },
+            {
+                "doc_id": "document_142028.html",
+                "surface": "Kuwait",
+                "start_pos": "194",
+                "end_pos": "200",
+                "type": "LOC",
+                "identifier": "Q817"
+            },
+            {
+                "doc_id": "document_142028.html",
+                "surface": "Roma",
+                "start_pos": "238",
+                "end_pos": "242",
+                "type": "LOC",
+                "identifier": "Q220"
+            },
+            {
+                "doc_id": "document_142028.html",
+                "surface": "Italia",
+                "start_pos": "448",
+                "end_pos": "454",
+                "type": "LOC",
+                "identifier": "Q38"
+            },
+            {
+                "doc_id": "document_142028.html",
+                "surface": "Europa",
+                "start_pos": "767",
+                "end_pos": "773",
+                "type": "LOC",
+                "identifier": "Q46"
+            }
+        ],
+        "publication_date": "1978",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_110129.html",
+        "text": "Dei difetti del popolo italiano si è occupato di recente Gabriele Pepe[1] su «Il Risorgimento Liberale», indicandone due: la mancanza di senso civico e la scarsa educazione politica[2]. Ed intanto quell’Autore, proponendosi di compiere una valutazione serena e, soprattutto, costruttiva, si schierava contro coloro che si mostrano così solleciti nell’attribuire al nostro popolo, ed al nostro soltanto, le colpe peggiori. Costume non nuovo e certo deprecabile, malgrado la nobiltà dell’intento morale che spesso lo determina, perché inclina a disperdere come vane l’energie necessarie alla ripresa nazionale.",
+        "annotations": [
+            {
+                "doc_id": "document_110129.html",
+                "surface": "Gabriele Pepe",
+                "start_pos": "57",
+                "end_pos": "70",
+                "type": "PER",
+                "identifier": "Q52826362"
+            },
+            {
+                "doc_id": "document_110129.html",
+                "surface": "Autore",
+                "start_pos": "203",
+                "end_pos": "209",
+                "type": "PER",
+                "identifier": "Q52826362"
+            }
+        ],
+        "publication_date": "1946",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_121123.html",
+        "text": "Dichiaro[1] che noi voteremo contro l’emendamento dell’onorevole Ghidini[2] ed a favore dell’emendamento dell’onorevole Grassi[3] nella sua formulazione ultima. Credo che non sia più il caso di giustificare le ragioni per le quali non abbiamo potuto accettare l’emendamento Perassi[4], poi ritirato. Pensiamo che sia eccessivamente restrittivo e non corrispondente alle esigenze di difesa della collettività, gravi e serie quanto le esigenze di difesa della libertà, un regime della stampa, nel quale all’autorità giudiziaria sia consentito di intervenire soltanto a seguito di sentenza irrevocabile.",
+        "annotations": [
+            {
+                "doc_id": "document_121123.html",
+                "surface": "Ghidini",
+                "start_pos": "65",
+                "end_pos": "72",
+                "type": "PER",
+                "identifier": "Q3779955"
+            },
+            {
+                "doc_id": "document_121123.html",
+                "surface": "Grassi",
+                "start_pos": "120",
+                "end_pos": "126",
+                "type": "PER",
+                "identifier": "Q2544332"
+            },
+            {
+                "doc_id": "document_121123.html",
+                "surface": "Perassi",
+                "start_pos": "274",
+                "end_pos": "281",
+                "type": "PER",
+                "identifier": "Q3992572"
+            }
+        ],
+        "publication_date": "1951",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132198.html",
+        "text": "A Firenze il presidente del Consiglio on.le Aldo Moro rispondendo al sindaco Bargellini[1] lo ha ringraziato del saluto ed ha espresso la più profonda e fraterna solidarietà del Governo e sua personale alla città di Firenze ed ai fiorentini tutti così duramente provati.",
+        "annotations": [
+            {
+                "doc_id": "document_132198.html",
+                "surface": "Firenze",
+                "start_pos": "2",
+                "end_pos": "9",
+                "type": "LOC",
+                "identifier": "Q2044"
+            },
+            {
+                "doc_id": "document_132198.html",
+                "surface": "Bargellini",
+                "start_pos": "77",
+                "end_pos": "87",
+                "type": "PER",
+                "identifier": "Q3903157"
+            },
+            {
+                "doc_id": "document_132198.html",
+                "surface": "Firenze",
+                "start_pos": "216",
+                "end_pos": "223",
+                "type": "LOC",
+                "identifier": "Q2044"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132277.html",
+        "text": "La grande opera che oggi si inaugura, e per la quale desidero esprimere il più vivo compiacimento al Presidente della Gescal[1] e dell’Istituto Autonomo Case Popolari di Torino, è un momento importante nell’attuazione dei nostri obiettivi di edilizia sociale. Essa dimostra la capacità operativa della Gestione Case per Lavoratori che, in una linea di continuità con le precedenti esperienze dell’Ina-Casa, è stato uno strumento fondamentale della politica dell’abitazione in Italia in questo dopoguerra. È doveroso, in questa occasione, rammentare pochissimi dati che ci forniscano le dimensioni dello sforzo intrapreso e dei risultati ottenuti: 301.000 sono stati gli alloggi realizzati dall’Ina-Casa nei suoi quattordici anni di attività ed oltre 32000 quelli cui ha dato vita la Gescal negli ultimi quattro anni; attualmente sono in corso di costruzione altri 15000 alloggi. La Gestione, negli ultimi quattro anni, ha autorizzato interventi per oltre 450 miliardi di lire dei quali oltre 287 già aggiudicati in appalto.",
+        "annotations": [
+            {
+                "doc_id": "document_132277.html",
+                "surface": "Presidente",
+                "start_pos": "101",
+                "end_pos": "111",
+                "type": "PER",
+                "identifier": "Q118188451"
+            },
+            {
+                "doc_id": "document_132277.html",
+                "surface": "Gescal",
+                "start_pos": "118",
+                "end_pos": "124",
+                "type": "ORG",
+                "identifier": "Q3761356"
+            },
+            {
+                "doc_id": "document_132277.html",
+                "surface": "Torino",
+                "start_pos": "170",
+                "end_pos": "176",
+                "type": "LOC",
+                "identifier": "Q495"
+            },
+            {
+                "doc_id": "document_132277.html",
+                "surface": "Gestione Case per Lavoratori",
+                "start_pos": "302",
+                "end_pos": "330",
+                "type": "ORG",
+                "identifier": "Q3761356"
+            },
+            {
+                "doc_id": "document_132277.html",
+                "surface": "Ina-Casa",
+                "start_pos": "397",
+                "end_pos": "405",
+                "type": "ORG",
+                "identifier": "Q3788634"
+            },
+            {
+                "doc_id": "document_132277.html",
+                "surface": "Italia",
+                "start_pos": "476",
+                "end_pos": "482",
+                "type": "LOC",
+                "identifier": "Q38"
+            },
+            {
+                "doc_id": "document_132277.html",
+                "surface": "Ina-Casa",
+                "start_pos": "694",
+                "end_pos": "702",
+                "type": "ORG",
+                "identifier": "Q3788634"
+            },
+            {
+                "doc_id": "document_132277.html",
+                "surface": "Gescal",
+                "start_pos": "783",
+                "end_pos": "789",
+                "type": "ORG",
+                "identifier": "Q3761356"
+            },
+            {
+                "doc_id": "document_132277.html",
+                "surface": "Gestione",
+                "start_pos": "882",
+                "end_pos": "890",
+                "type": "ORG",
+                "identifier": "Q3761356"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_142218.html",
+        "text": "La Democrazia Cristiana non intende certamente sottrarsi al giudizio dell’opinione pubblica ed anzi desidera mantenere un continuo ed intenso rapporto con il suo elettorato. « È quindi naturale che essa, a distanza di un anno dalle elezioni, faccia un bilancio della sua iniziativa e s’interroghi con scrupolo sulla fedele attuazione della sua linea politica. Ebbene, tenuto conto delle circostanze, il giudizio è positivo. Il volto della Democrazia Cristiana non è cambiato ed è perfettamente riconoscibile. Al termine di questo periodo, che ci appare più lungo perché tutto carico di tensioni e di rischi, si può dire in coscienza ai militanti ed agli elettori democratici cristiani che in complesso il paese è stato guidato nel rispetto di quei fondamentali valori e interessi dei quali la Democrazia Cristiana ha assunto la rappresentanza e la difesa. E ciò è avvenuto, ancora una volta, senza alcuna forzatura autoritaria e al di fuori di ogni settarismo, nella piena salvaguardia cioè della democrazia ed in una visione d’insieme della vita nazionale ».",
+        "annotations": [
+            {
+                "doc_id": "document_142218.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "3",
+                "end_pos": "23",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_142218.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "439",
+                "end_pos": "459",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1978",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_142244.html",
+        "text": "Il dibattito intorno ai referendum, ed anzi all’istituto stesso del referendum, si è un po’ attenuato dopo la decisione della Corte costituzionale, ma è certo destinato a riprendere. Non c’è da stupirsene, perché si tratta di un grosso tema politico, rimasto un po’ in ombra, finché la consultazione popolare per abrogare le leggi è sembrata semplice ipotesi costituzionale, del tutto fuori della realtà, e venuto poi in piena evidenza con la controversia sul divorzio ed in conseguenza dell’iniziativa radicale. ",
+        "annotations": [
+            {
+                "doc_id": "document_142244.html",
+                "surface": "Corte costituzionale",
+                "start_pos": "126",
+                "end_pos": "146",
+                "type": "ORG",
+                "identifier": "Q981005"
+            }
+        ],
+        "publication_date": "1978",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_110198.html",
+        "text": "Nella imminenza della pace per l’Italia i nostri animi si fanno più attenti.",
+        "annotations": [
+            {
+                "doc_id": "document_110198.html",
+                "surface": "Italia",
+                "start_pos": "33",
+                "end_pos": "39",
+                "type": "LOC",
+                "identifier": "Q38"
+            }
+        ],
+        "publication_date": "1946",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_131133.html",
+        "text": "Sono lieto di cogliere l’occasione che il suo periodico mi offre per ribadire quanto ebbi ad affermare alla Camera durante il recente dibattito sulla mozione comunista di sfiducia[1]: la fedeltà dell’Italia alla sua tradizionale politica di solidarietà atlantica e di unità europea. Questa nostra costante direttiva ci rende, anche in questo momento, favorevoli ad una intensa collaborazione nell’Alleanza Atlantica[2] ed in ispecie con gli Stati Uniti d’America ed alla prosecuzione del processo di espansione del nucleo di unità già esistente in Europa in vista della integrazione economica e politica.",
+        "annotations": [
+            {
+                "doc_id": "document_131133.html",
+                "surface": "Italia",
+                "start_pos": "200",
+                "end_pos": "206",
+                "type": "LOC",
+                "identifier": "Q38"
+            },
+            {
+                "doc_id": "document_131133.html",
+                "surface": "Stati Uniti",
+                "start_pos": "441",
+                "end_pos": "452",
+                "type": "LOC",
+                "identifier": "Q30"
+            },
+            {
+                "doc_id": "document_131133.html",
+                "surface": "Europa",
+                "start_pos": "548",
+                "end_pos": "554",
+                "type": "LOC",
+                "identifier": "Q46"
+            }
+        ],
+        "publication_date": "1963",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_131135.html",
+        "text": "Alla vigilia di questa impegnativa competizione elettorale e politica[1] è naturale che il partito della Democrazia Cristiana intenda presentarsi al proprio fedele elettorato con un suo volto, al di là di tante artificiose interpretazioni e deformazioni. La Democrazia Cristiana ha una lunga esperienza della vita nazionale. Ha assolto per lunghi anni un compito insostituibile nella vita del Paese, ed essa intende continuare ad assolverlo ritraendo, noi speriamo, nuova forza elettorale dalla imminente prova elettorale.",
+        "annotations": [
+            {
+                "doc_id": "document_131135.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "105",
+                "end_pos": "125",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_131135.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "258",
+                "end_pos": "278",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1963",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_110094.html",
+        "text": "In questa pausa della vita politica italiana, succeduta al Congresso dei Comitati di Liberazione, pausa silenziosa e tranquilla soltanto in apparenza, va segnalato un irrigidimento nelle posizioni monarchiche e governative il quale ha avuto alcune espressioni vistose e, oseremmo ritenere, inopportune, in quanto allontanano le già modeste possibilità d’intesa e son tali da esasperare gli animi già poco inclini purtroppo agli accomodamenti.",
+        "annotations": [
+            {
+                "doc_id": "document_110094.html",
+                "surface": "Comitati di Liberazione",
+                "start_pos": "73",
+                "end_pos": "96",
+                "type": "ORG",
+                "identifier": "Q547858"
+            }
+        ],
+        "publication_date": "1946",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_142149.html",
+        "text": " Al Primo Ministro Wilson  [1]  , che con alta competenza e ampia visione ha diretto il Governo britannico per numerosi anni – in due differenti riprese – va il mio saluto più cordiale e amichevole. ",
+        "annotations": [
+            {
+                "doc_id": "document_142149.html",
+                "surface": "Wilson",
+                "start_pos": "19",
+                "end_pos": "25",
+                "type": "PER",
+                "identifier": "Q128956"
+            }
+        ],
+        "publication_date": "1978",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141312.html",
+        "text": "L’on. Aldo Moro, parlando a Caserta, ha auspicato che dal Congresso nazionale della Democrazia Cristiana vengano indicazioni positive. Si tratta di ricostituire, in condizioni di chiarezza, di sicurezza, di autonomia, una maggioranza numericamente e politicamente adeguata. Pare doveroso, per tutti coloro i quali abbiano questa convinzione, rendere chiaro al Paese, pur con tutto il rispetto dovuto alle persone ed ai partiti, che l’attuale coalizione non costituisce una reale alternativa, che su di essa non si può contare per lo spazio di una legislatura, che, ad insistere su questa strada, uno sbocco elettorale diventa inevitabile, ma con una polarizzazione drammatica sulla destra e sulla sinistra, tale da alterare profondamente la situazione politica italiana. Noi dobbiamo sapere e, sapendolo, dire che veramente è in gioco, insieme con le alleanze, la stessa natura, la stessa funzione della Democrazia Cristiana. Questa natura e funzione, nella realtà presente, sono legate alla capacità di compiere una grande mediazione sociale e politica, alla prontezza nel movimento, all’attitudine a mantenere con piena responsabilità il collegamento con il Partito Socialista, stornando così (e solo così) il pericolo dei blocchi contrapposti.",
+        "annotations": [
+            {
+                "doc_id": "document_141312.html",
+                "surface": "Caserta",
+                "start_pos": "28",
+                "end_pos": "35",
+                "type": "LOC",
+                "identifier": "Q1906"
+            },
+            {
+                "doc_id": "document_141312.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "84",
+                "end_pos": "104",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_141312.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "904",
+                "end_pos": "924",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_141312.html",
+                "surface": "Partito Socialista",
+                "start_pos": "1160",
+                "end_pos": "1178",
+                "type": "ORG",
+                "identifier": "Q590750"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132124.html",
+        "text": "La visita che mi accingo a compiere in Jugoslavia, ospite del Presidente del Consiglio Esecutivo Federale, signor Stambolic[1], mi offrirà la gradita occasione per uno scambio di idee, franco e cordiale, con gli esponenti della vita politica jugoslava, ed insieme mi darà la possibilità di avere diretta conoscenza di un paese che si è particolarmente sviluppato in questi anni ed al quale siamo legati dal vincolo di interessi comuni e di amichevoli relazioni.",
+        "annotations": [
+            {
+                "doc_id": "document_132124.html",
+                "surface": "Jugoslavia",
+                "start_pos": "39",
+                "end_pos": "49",
+                "type": "LOC",
+                "identifier": "Q36704"
+            },
+            {
+                "doc_id": "document_132124.html",
+                "surface": "Stambolic",
+                "start_pos": "114",
+                "end_pos": "123",
+                "type": "PER",
+                "identifier": "Q115471"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132079.html",
+        "text": "Al termine di questo importante Consiglio nazionale della Dc, il quale chiude un periodo difficile e travagliato della vita del nostro Partito e, più in generale, della vita politica italiana ed apre nuove prospettive alla nostra azione a servizio del popolo italiano, vorrei dire la mia soddisfazione e la mia speranza per le positive conclusioni che stanno per essere qui sanzionate e per i fermi propositi di unità, di solidarietà, di responsabilità e d'impegno politico che sono stati manifestati da tutte le parti in questa sessione dei nostri lavori. lo sono profondamente convinto della sincerità di questi sentimenti e del valore costruttivo della iniziativa politica che sta per essere assunta nell'ambito della Direzione unitaria ed altamente rappresentativa che sarà costituita per mandato di questo Consiglio nazionale. Essa sarà la manifestazione evidente della capacità e della volontà della Dc di tenere fermamente il suo posto di decisiva responsabilità nella vita politica italiana. Sarà espressione della profonda solidarietà che ci unisce, al di là di passeggeri e superficiali dissensi, nella consapevolezza di una importante funzione da assolvere oggi come ieri, per la continuità e stabilità della vita democratica in Italia. ",
+        "annotations": [
+            {
+                "doc_id": "document_132079.html",
+                "surface": "Dc",
+                "start_pos": "58",
+                "end_pos": "60",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_132079.html",
+                "surface": "Dc",
+                "start_pos": "906",
+                "end_pos": "908",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_131143.html",
+        "text": "Uno dei punti caratteristici ed acuti della polemica elettorale[1] è quello che mette in discussione la continuità e la coerenza della politica della Democrazia Cristiana. Ci si contesta addirittura la fedeltà ai principi ispiratori ed alla tradizione del nostro partito; si parla di una frattura che si sarebbe verificata in questi ultimi tempi, ed in modo irragionevole e capriccioso, con tutto il nostro passato. Conviene poi ricordare che, sull’altro fronte della nostra battaglia politica, il partito comunista ci rivolge l’accusa opposta e cioè di non essere affatto cambiati, di essere sempre lì fermi alla nostra pregiudiziale anticomunista, alla difesa democratica, alla valorizzazione ed allo sviluppo della libertà il che per il partito comunista significa senz’altro soggezione ai potenti monopoli ed appoggio ad interessi particolari ed ingiusti.",
+        "annotations": [
+            {
+                "doc_id": "document_131143.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "150",
+                "end_pos": "170",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_131143.html",
+                "surface": "partito comunista",
+                "start_pos": "498",
+                "end_pos": "515",
+                "type": "ORG",
+                "identifier": "Q461886"
+            },
+            {
+                "doc_id": "document_131143.html",
+                "surface": "partito comunista",
+                "start_pos": "740",
+                "end_pos": "757",
+                "type": "ORG",
+                "identifier": "Q461886"
+            }
+        ],
+        "publication_date": "1963",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141181.html",
+        "text": "sono particolarmente lieto che la “Giornata dall’Africa” – ricorrenza così importante per tutti Loro e così significativa per noi che abbiamo seguito e seguiamo con simpatia, amicizia e fiducia la evoluzione politica, sociale ed economica del Continente africano – ci offra oggi l’occasione di un così amichevole incontro.",
+        "annotations": [
+            {
+                "doc_id": "document_141181.html",
+                "surface": "Africa",
+                "start_pos": "49",
+                "end_pos": "55",
+                "type": "LOC",
+                "identifier": "Q15"
+            },
+            {
+                "doc_id": "document_141181.html",
+                "surface": "Continente africano",
+                "start_pos": "243",
+                "end_pos": "262",
+                "type": "LOC",
+                "identifier": "Q15"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_121069.html",
+        "text": "[L’onorevole Moro] Fa osservare[1] che nessuna delle questioni poste in evidenza dalla discussione è pregiudicata dalla dichiarazione contenuta nell’articolo. Infatti, quando si parla dell’ordinamento giuridico internazionale, si prescinde da quella che sarà l’organizzazione delle Nazioni unite[2], ma si vuole alludere ad un ordinamento internazionale che ha una vita autonoma ed una originarietà, per cui le norme che esso pone non traggono la loro forza obbligante dalla volontà esclusiva degli Stati membri della comunità ma hanno un potere normativo che spetta agli Stati come tali. Così anche per i singoli Stati non si può non riconoscere i loro ordinamenti come originari, ma tale norma non obbliga ad avere relazioni con tutti gli Stati, comunque costituiti, ma tende solo a precisare che quando lo Stato entra in contatto con gli altri Stati, si pone su di una posizione di parità giuridica, che si esprime attraverso la forma dei trattati internazionali.",
+        "annotations": [
+            {
+                "doc_id": "document_121069.html",
+                "surface": "organizzazione delle Nazioni unite",
+                "start_pos": "261",
+                "end_pos": "295",
+                "type": "ORG",
+                "identifier": "Q1065"
+            }
+        ],
+        "publication_date": "1951",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141164.html",
+        "text": "desidero ringraziarLa per le cortesi parole che Ella ha avuto l’amabilità di pronunciare al mio indirizzo. Queste sue gentili espressioni sono un’ulteriore conferma del clima di cordialità che mi ha circondato sin dall’arrivo in questa capitale.",
+        "annotations": [
+            {
+                "doc_id": "document_141164.html",
+                "surface": "Ella",
+                "start_pos": "48",
+                "end_pos": "52",
+                "type": "PER",
+                "identifier": "Q452310"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_110197.html",
+        "text": "Forse è giunto il momento, mentre il primo grande ciclo della storia italiana sta per concludersi, di arrischiare una valutazione onesta e serena di quel che è stato con la sua straordinaria efficacia indicatrice ed ammonitrice. «LaRassegna» mancherebbe al suo compito verso l’opinione pubblica del Mezzogiorno d’Italia e delle Isole se si rifiutasse a questo esame di coscienza, che è un po’ l’esame di coscienza dell’Italiano medio, né fascista, né antifascista alla rumorosa moda oggi dominante, né nazionalista e neppure ciecamente, miticamente internazionalista, né ottimista né pessimista ad oltranza, né reazionario, né rivoluzionario. Mentalità, si dirà, da “uomo comune”? Mentalità, cioè, mediocre, rinunciataria, semplicista, senza impegni di sorta?",
+        "annotations": [
+            {
+                "doc_id": "document_110197.html",
+                "surface": "Mezzogiorno",
+                "start_pos": "299",
+                "end_pos": "310",
+                "type": "LOC",
+                "identifier": "Q207989"
+            },
+            {
+                "doc_id": "document_110197.html",
+                "surface": "Italia",
+                "start_pos": "313",
+                "end_pos": "319",
+                "type": "LOC",
+                "identifier": "Q38"
+            }
+        ],
+        "publication_date": "1946",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132219.html",
+        "text": "Con profonda commozione ricordo, nell’XI anniversario della sua morte, Ezio Vanoni[1] del quale ho potuto apprezzare da vicino le grandi qualità umane, morali e politiche, soprattutto quando gli sono stato collega di governo nel Ministero presieduto dall’on. Segni nel 1955[2].",
+        "annotations": [
+            {
+                "doc_id": "document_132219.html",
+                "surface": "Ezio Vanoni",
+                "start_pos": "71",
+                "end_pos": "82",
+                "type": "PER",
+                "identifier": "Q3736429"
+            },
+            {
+                "doc_id": "document_132219.html",
+                "surface": "Segni",
+                "start_pos": "259",
+                "end_pos": "264",
+                "type": "PER",
+                "identifier": "Q1240"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_142168.html",
+        "text": "Cari amici, vi sono estremamente grato per queste accoglienze così calorose, come ha detto l’amico Colombo[1], confortatrici e incitatrici per il lavoro che ci sta ancora davanti. È un segno di simpatia da parte vostra, al quale corrisponde una naturale simpatia, umana, da parte mia, non senza il ricordo presente di alcuni anni che io ho vissuto a Potenzada bambino; anni che sono stati sufficienti perché io ricordassi sempre questa città. Ringrazio il segretario Provinciale per le sue gentili e amichevoli parole e per l’impostazione coraggiosa e netta che ha dato ai temi elettorali che ci stanno dinanzi; saluto, con la più viva cordialità i dirigenti del partito, i parlamentari, i candidati, i miei collaboratori, in maniera del tutto particolare il presidente Colombo, con il quale ho avuto una lunga consuetudine di comune e fecondo lavoro, nel corso del quale ho potuto apprezzare tutto il vigore della sua intelligenza e la sua forza di carattere. Non occorrono doti minori di queste, per resistere in un ufficio così difficile, così scomodo, così carico di incomprensioni, quale è quello di Ministro del Tesoro, che Emilio Colomboha ricoperto con grandissima dignità ed efficacia, nel corso di tanti anni. Credo di essermi giovato pienamente della sua collaborazione, che non avrei potuto in nessun modo lasciar cadere; sono stato e sono solidale con lui, con un giusto e doveroso apprezzamento, di fronte ad attacchi ingiusti che tendono a colpire non soltanto la sua persona, che è eminente nel partito, ma, attraverso la sua persona, il partito delle Democrazia Cristiana. Rivendico la bontà e l’utilità dell’opera svolta dall’amico Colombo da Ministro del Tesoro al servizio del Paese nel corso di tutti questi anni. Credo voi possiate essere orgogliosi di averlo vostro rappresentante.",
+        "annotations": [
+            {
+                "doc_id": "document_142168.html",
+                "surface": "Colombo",
+                "start_pos": "99",
+                "end_pos": "106",
+                "type": "PER",
+                "identifier": "Q312058"
+            },
+            {
+                "doc_id": "document_142168.html",
+                "surface": "Potenza",
+                "start_pos": "350",
+                "end_pos": "357",
+                "type": "LOC",
+                "identifier": "Q3543"
+            },
+            {
+                "doc_id": "document_142168.html",
+                "surface": "Colombo",
+                "start_pos": "770",
+                "end_pos": "777",
+                "type": "PER",
+                "identifier": "Q312058"
+            },
+            {
+                "doc_id": "document_142168.html",
+                "surface": "Emilio Colombo",
+                "start_pos": "1130",
+                "end_pos": "1144",
+                "type": "PER",
+                "identifier": "Q312058"
+            },
+            {
+                "doc_id": "document_142168.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "1568",
+                "end_pos": "1588",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_142168.html",
+                "surface": "Colombo",
+                "start_pos": "1650",
+                "end_pos": "1657",
+                "type": "PER",
+                "identifier": "Q312058"
+            }
+        ],
+        "publication_date": "1978",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_131124.html",
+        "text": "Alla vigilia di un altro turno, limitato ma importante, di elezioni amministrative[1], mi è gradito rivolgermi all’elettorato con un caloroso appello a comprendere e sostenere la nostra azione politica, con un invito a manifestare ancora una volta la solidarietà già tante volte espressa alla Democrazia Cristiana. La Democrazia Cristiana è da tanti anni ormai al centro della vita nazionale e garantisce con la sua forza, la sua unità, la sua prontezza nel raccogliere ogni elemento nuovo della realtà sociale, l’equilibrio politico e la vita democratica nel nostro Paese.",
+        "annotations": [
+            {
+                "doc_id": "document_131124.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "293",
+                "end_pos": "313",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_131124.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "318",
+                "end_pos": "338",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1963",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_131052.html",
+        "text": "La prossima consultazione elettorale amministrativa, alla quale partecipa pressoché intero il corpo elettorale italiano, assume, per il momento nel quale si svolge e per l’obiettivo rilievo delle amministrazioni che debbono essere rinnovate, una notevole importanza[1]. Si abbiano presenti infatti le forti polemiche che hanno accompagnato le vicende politiche di questi due primi anni di legislatura[2] e gli interrogativi che sono stati così proposti nei confronti dei partiti e che in molti casi attendono ancora una risposta. Questa polemica è dunque destinata ad intrecciarsi al dibattito elettorale, determinando punti di vista e prospettive non senza rilievo per la ripresa della normale attività politica dopo le elezioni. Ma la posta in gioco è molto importante anche solo con riguardo al rinnovo in corso delle amministrazioni comunali e provinciali per il valore che hanno i centri del potere locale nella vita democratica, per la complessità crescente degli interessi iscritti nella cerchia delle comunità provinciali e comunali, per gli immancabili riflessi che le autonomie hanno sulla vita dello Stato; riflessi fecondi e costruttivi, quando esse sappiamo inserirsi senza disarmonie, senza strappi, senza riserve nell’organizzazione politica della comunità nazionale; riflessi invece negativi, quando la autonomia sia strumentalmente utilizzata per far venire direttive politiche disarmoniche di fronte a quelle secondo le quali si ordina lo Stato e quindi come mezzo di rottura dello Stato democratico. Quest’ultima ipotesi si verifica certamente per quanto riguarda il PCI, il quale non fa mistero della sua volontà di considerare le amministrazioni locali come centri di potere, come esso dice, popolare da usare per il permanente attacco comunista alla democrazia italiana.",
+        "annotations": [
+            {
+                "doc_id": "document_131052.html",
+                "surface": "PCI",
+                "start_pos": "1586",
+                "end_pos": "1589",
+                "type": "ORG",
+                "identifier": "Q461886"
+            }
+        ],
+        "publication_date": "1963",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_110096.html",
+        "text": "Lo stato di grave disagio, nel quale versa oggi l’Italia, trova la sua ragione determinante, per chi lo consideri con assoluta obbiettività, nel disorientamento spirituale del nostro popolo, abituato per venti anni ad una quotidiana, supina, ed infine, comoda acquiescenza. Noi abbiamo perduto il gusto della varietà, ch’è ricchezza della vita, il coraggio di volere che la nostra certezza emerga dal contrasto per una nobile vittoria delle forze dello spirito. Preferiamo, insomma, la rinuncia al combattimento ed amiamo piuttosto possedere in pace, nascosta, la verità che serva per noi anziché esporla al rischio di misurarsi con le altre, per dominare, se ciò è possibile e giusto. D’altra parte la verità, dove ancora sussiste, ha perso sempre più il desiderio e l’amore dell’unità e, chiusa nel proprio egoismo particolare, si è progressivamente impoverita, smarrendo il senso largo ed umano della vita.",
+        "annotations": [
+            {
+                "doc_id": "document_110096.html",
+                "surface": "Italia",
+                "start_pos": "50",
+                "end_pos": "56",
+                "type": "LOC",
+                "identifier": "Q38"
+            }
+        ],
+        "publication_date": "1946",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141302.html",
+        "text": "desidero ringraziarti per avere accettato di rappresentare nella tua Provincia il nostro Gruppo nella prima tornata di elezioni in vista del Congresso Nazionale della Democrazia Cristiana. L’essere noi in minoranza comporta per gli amici una posizione di grande distacco. È perciò tanto più meritoria la tua adesione, con la quale intendi rendere un disinteressato servizio al Partito.",
+        "annotations": [
+            {
+                "doc_id": "document_141302.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "167",
+                "end_pos": "187",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_141302.html",
+                "surface": "Partito",
+                "start_pos": "377",
+                "end_pos": "384",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_110079.html",
+        "text": "In un commento del 18 ottobre u.s. Radio Roma[1] ci dà amorevoli lezioni intorno alle responsabilità, al corso, agli obiettivi di questa guerra. Apprendiamo così che essa fu imposta a noi e da noi virilmente accettata, per l’impossibilità di risolvere altrimenti i nostri vitali problemi, quasi che non avessimo conquistato una immensa terra africana, ricca di infinite possibilità, con un sostanziale consenso dei nostri amici europei, che si limitarono ad una finta di reazione, al solo scopo di salvare il prestigio di una istituzione (frutto del sangue sparso da milioni di uomini su tutti i campi di battaglia di Europa) che rappresentava la formula, politicamente operante, della nuova solidarietà internazionale[2]. Quasi che non avessimo ottenuto della nostra conquista formale e solenne riconoscimento e stipulato un accordo da gentiluomini che ci dichiarava soddisfatti dell’ottenuto incremento delle nostre possibilità nazionali[3].",
+        "annotations": [
+            {
+                "doc_id": "document_110079.html",
+                "surface": "Europa",
+                "start_pos": "618",
+                "end_pos": "624",
+                "type": "LOC",
+                "identifier": "Q46"
+            }
+        ],
+        "publication_date": "1946",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141209.html",
+        "text": "Il Segretario Politico[1] ci domanda di rafforzare la struttura e rendere più efficace l’azione della Democrazia Cristiana, in un difficile momento politico, mediante la modifica delle norme relative all’elezione del suo Consiglio Nazionale. Esse diventeranno operative per un Congresso che non sembra imminente; ma sono considerate significative già oggi come una dichiarazione d’intenzione contro i rischi del frazionamento ed espressione dello spirito unitario e del senso di responsabilità della Democrazia Cristiana.",
+        "annotations": [
+            {
+                "doc_id": "document_141209.html",
+                "surface": "Segretario Politico",
+                "start_pos": "3",
+                "end_pos": "22",
+                "type": "PER",
+                "identifier": "Q434786"
+            },
+            {
+                "doc_id": "document_141209.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "102",
+                "end_pos": "122",
+                "type": "ORG",
+                "identifier": "Q815348"
+            },
+            {
+                "doc_id": "document_141209.html",
+                "surface": "Democrazia Cristiana",
+                "start_pos": "500",
+                "end_pos": "520",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_110177.html",
+        "text": "Il convegno generale dei dirigenti diocesani di Azione Cattolica, tenutosi a Roma di recente, è un avvenimento di eccezionale importanza nella vita della organizzazione e, se non erriamo, in quella pure del nostro paese. Noi non amiamo fare della rettorica laudatrice, né siamo di quelli che vedono le cose andar sempre bene, sempre meglio. Rettorica ed ottimismo ad oltranza hanno fatto troppo male all’Italia, perché non abbiamo, in questo momento sopratutto, da stare bene in guardia, per non subirne il facile allettamento. Diciamo che si è trattato di una cosa importante, perché questa adunanza è stata numerosa, seria, abbastanza cosciente della sostanza del lavoro che essa era chiamata a svolgere. Non son mancate delle lacune, particolarmente la scarsa reattività dell’assemblea, che il più delle volte ha disciplinatamente accolto, vorremmo dire, con una curiosità ansiosa che non lasciava tempo alla critica, le idee che i diversi relatori, su temi veramente suggestivi, andavano illustrando. Questo è segno certamente d’incompiuta preparazione ad affrontare, in questa svolta decisiva nella vita dell’organizzazione, i problemi sociali che le vicende del recente passato avevano costretto a mettere o quasi da parte. Ma c’era pure in questa rozzezza degli ingegni, che non riuscivano a muoversi agili nei nuovi temi, un tal desiderio di sapere e di fare, un tale contenuto entusiasmo, una fiducia nella verità posseduta e nella sua capacità di attrazione, che dal Convegno non si poteva uscire, senza la convinzione che l’Azione Cattolica è una forza viva, oseremmo dire, la più viva del nostro Paese oggi. Una causa che promuove le dedizioni di cui questi uomini apparivano, senza ostentazione, capaci, è una buona causa. Il vincolo, non formale, di organizzazione, operando per decenni di intensa vita, ha creato una unità compatta, la sola vera unità, fatta di cordialità, di amicizia, di disinteresse, nel nostro paese.",
+        "annotations": [
+            {
+                "doc_id": "document_110177.html",
+                "surface": "Azione Cattolica",
+                "start_pos": "48",
+                "end_pos": "64",
+                "type": "ORG",
+                "identifier": "Q3318304"
+            },
+            {
+                "doc_id": "document_110177.html",
+                "surface": "Roma",
+                "start_pos": "77",
+                "end_pos": "81",
+                "type": "LOC",
+                "identifier": "Q220"
+            },
+            {
+                "doc_id": "document_110177.html",
+                "surface": "paese",
+                "start_pos": "214",
+                "end_pos": "219",
+                "type": "LOC",
+                "identifier": "Q38"
+            },
+            {
+                "doc_id": "document_110177.html",
+                "surface": "Italia",
+                "start_pos": "404",
+                "end_pos": "410",
+                "type": "LOC",
+                "identifier": "Q38"
+            },
+            {
+                "doc_id": "document_110177.html",
+                "surface": "Azione Cattolica",
+                "start_pos": "1535",
+                "end_pos": "1551",
+                "type": "ORG",
+                "identifier": "Q3318304"
+            },
+            {
+                "doc_id": "document_110177.html",
+                "surface": "Paese",
+                "start_pos": "1608",
+                "end_pos": "1613",
+                "type": "LOC",
+                "identifier": "Q38"
+            },
+            {
+                "doc_id": "document_110177.html",
+                "surface": "paese",
+                "start_pos": "1930",
+                "end_pos": "1935",
+                "type": "LOC",
+                "identifier": "Q38"
+            }
+        ],
+        "publication_date": "1946",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141110.html",
+        "text": "desidero innanzitutto ringraziarLa delle calorose espressioni che Ella ha avuto la cortesia di rivolgermi.",
+        "annotations": [
+            {
+                "doc_id": "document_141110.html",
+                "surface": "Ella",
+                "start_pos": "66",
+                "end_pos": "70",
+                "type": "PER",
+                "identifier": "Q346240"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141294.html",
+        "text": "In relazione a interpretazioni di stampa del suo discorso di ieri, l’on. Aldo Moro precisa che non si è rivolto polemicamente all’intero partito socialista democratico italiano, del quale riconosce la positiva funzione, ma, come risulta dal testo, ad “una pattuglia socialdemocratica” che converge con forze di altri partiti nel perseguire una politica conservatrice.",
+        "annotations": [
+            {
+                "doc_id": "document_141294.html",
+                "surface": "partito socialista democratico italiano",
+                "start_pos": "137",
+                "end_pos": "176",
+                "type": "ORG",
+                "identifier": "Q665335"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_121217.html",
+        "text": "non credo di dover far richiamo alle disposizioni della legge sulla stampa, perché Ella, nel Suo senso di lealtà e di correttezza giornalistica, vorrà pubblicare queste osservazioni all’articolo di Luciano Magrini[2] (La pelle degli Illusi) pubblicato su «Il Mondo» del 20 agosto 1949[3].",
+        "annotations": [
+            {
+                "doc_id": "document_121217.html",
+                "surface": "Ella",
+                "start_pos": "83",
+                "end_pos": "87",
+                "type": "PER",
+                "identifier": "Q3848905"
+            },
+            {
+                "doc_id": "document_121217.html",
+                "surface": "Luciano Magrini",
+                "start_pos": "198",
+                "end_pos": "213",
+                "type": "PER",
+                "identifier": "Q28801839"
+            }
+        ],
+        "publication_date": "1951",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_142154.html",
+        "text": " Signor Presidente  [1]  , onorevoli deputati, il programma con il quale questo Governo si è presentato in Parlamento è stato contestato prevalentemente per la sua eccessiva ampiezza. Ho già avuto modo di chiarire che io, d’intesa con i miei colleghi, l’avevo formulato senza certo farmi alcuna illusione circa il tempo che sarebbe stato necessario avere a disposizione, per poterlo realizzare. E tuttavia mi pareva opportuno elencare alcune riforme che appaiono non soltanto più urgenti, ma anche più mature nella coscienza pubblica e nell’opinione parlamentare. Basti citare, tra tutte, l’amministrazione e la scuola. ",
+        "annotations": [
+            {
+                "doc_id": "document_142154.html",
+                "surface": "Presidente",
+                "start_pos": "8",
+                "end_pos": "18",
+                "type": "PER",
+                "identifier": "Q1233"
+            }
+        ],
+        "publication_date": "1978",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_142225.html",
+        "text": "« Nel segno soprattutto della DC, non certo esclusivamente nostro perché abbiamo avuto la collaborazione di altre forze politiche, abbiamo realizzato una grande rivoluzione democratica nel nostro paese passando da una istruzione limitata di élite ad una istruzione pubblica larga, non classista ».",
+        "annotations": [
+            {
+                "doc_id": "document_142225.html",
+                "surface": "DC",
+                "start_pos": "30",
+                "end_pos": "32",
+                "type": "ORG",
+                "identifier": "Q815348"
+            }
+        ],
+        "publication_date": "1978",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_121097.html",
+        "text": "Si è discussa alla commissione dei 75 la questione dei rapporti tra Stato e Chiesa[1]. Abbiamo chiesto all’on. Moro come sono stati fissati questi rapporti. ",
+        "annotations": [
+            {
+                "doc_id": "document_121097.html",
+                "surface": "commissione dei 75",
+                "start_pos": "19",
+                "end_pos": "37",
+                "type": "ORG",
+                "identifier": "Q3684787"
+            },
+            {
+                "doc_id": "document_121097.html",
+                "surface": "Chiesa",
+                "start_pos": "76",
+                "end_pos": "82",
+                "type": "ORG",
+                "identifier": "Q34651"
+            }
+        ],
+        "publication_date": "1951",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141102.html",
+        "text": "Il quotidiano di Roma «Il Tempo» ha sferrato questa mattina un rozzo quanto insipiente e vano attacco contro l’on. Aldo Moro. La cosa non stupisce data la natura del giornale.",
+        "annotations": [
+            {
+                "doc_id": "document_141102.html",
+                "surface": "Roma",
+                "start_pos": "17",
+                "end_pos": "21",
+                "type": "LOC",
+                "identifier": "Q220"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_110132.html",
+        "text": "Il tuo entrare nell’Università ti pone, studente del primo anno, in contatto con un mondo nuovo. Diversi compagni, diversi professori. Non c’è più l’ambiente raccolto ed intimo della scuola media, i pochi compagni conosciuti per lo più da molto tempo, compagni ed anzi amici; i professori cordiali ed accessibili nel quotidiano contatto di un insegnamento dialogato. Questa novità, questa estraneità dell’ambiente accademico, freddo sempre, qualche volta solenne, è l’elemento più sconcertante di questa esperienza.",
+        "annotations": [
+            {
+                "doc_id": "document_110132.html",
+                "surface": "Università",
+                "start_pos": "20",
+                "end_pos": "30",
+                "type": "ORG",
+                "identifier": "Q3918"
+            }
+        ],
+        "publication_date": "1946",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_132069.html",
+        "text": "Il Presidente del Consiglio on. Moro, parlando a Milano al Teatro Odeon per la campagna elettorale amministrativa, ha reso innanzitutto omaggio a Milano per la sua posizione dominante nella vita economica, sociale, politica e culturale della nazione e si è augurato che i risultati elettorali nella metropoli lombarda non rappresentino una disarmonia, ma s’inseriscano come una funzione d’incoraggiamento e di stimolo nella situazione politica generale, caratterizzata dallo sforzo che il Governo di centro-sinistra compie in vista di alti obiettivi umani, di libertà, di giustizia.",
+        "annotations": [
+            {
+                "doc_id": "document_132069.html",
+                "surface": "Milano",
+                "start_pos": "49",
+                "end_pos": "55",
+                "type": "LOC",
+                "identifier": "Q490"
+            },
+            {
+                "doc_id": "document_132069.html",
+                "surface": "Milano",
+                "start_pos": "146",
+                "end_pos": "152",
+                "type": "LOC",
+                "identifier": "Q490"
+            }
+        ],
+        "publication_date": "1968",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    },
+    {
+        "id": "document_141180.html",
+        "text": "sono particolarmente lieto di esprimerLe, a nome mio personale e del Governo italiano, i sentimenti di viva e sincera amicizia con cui L’accogliamo a Roma.",
+        "annotations": [
+            {
+                "doc_id": "document_141180.html",
+                "surface": "Roma",
+                "start_pos": "150",
+                "end_pos": "154",
+                "type": "LOC",
+                "identifier": "Q220"
+            }
+        ],
+        "publication_date": "1973",
+        "assessment": {
+            "wrong_boundaries": 0,
+            "wrong_types": 0,
+            "wrong_identifiers": 0,
+            "partially_wrong_types": 0,
+            "partially_wrong_identifiers": 0,
+            "missing_annotations": 0,
+            "notes": "Place to write in plain text potential comments."
+        }
+    }
+]
