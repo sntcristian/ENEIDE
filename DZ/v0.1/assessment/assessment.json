@@ -108,7 +108,8 @@
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "wrong_annotations": 1,
+            "notes": "1 annotazione sbagliata, 'opp.'"
         }
     },
     {
@@ -192,11 +193,11 @@
         "assessment": {
             "wrong_boundaries": 0,
             "wrong_types": 0,
-            "wrong_identifiers": 0,
+            "wrong_identifiers": 1,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "Potentially missing annotations: 'discorso ai lettori' (preface) and 'spettatore' (editor)."
         }
     },
     {
@@ -476,7 +477,7 @@
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "Dio is not annotated as it is not a person nor a location nor a work."
         }
     },
     {
@@ -556,7 +557,7 @@
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "Metonimia of Forcell. for Totius Latinitatis Lexicon"
         }
     },
     {
@@ -1012,7 +1013,8 @@
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "wrong_annotations": 5,
+            "notes": "Politica is annotated as work by Aristotle but here it's just a concept."
         }
     },
     {
@@ -1228,7 +1230,8 @@
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "wrong_annotations": 1,
+            "notes": "'cod.158' is a vague entity."
         }
     },
     {
@@ -1715,8 +1718,9 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "wrong_annotations": 1,
+            "notes": "Angelica is missing. She is a fictional character in the Orlando Furioso. 'stanza' is a vague entity because is a metonimia for Orlando Furioso."
         }
     },
     {
@@ -1812,7 +1816,8 @@
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "wrong_annotations": 1,
+            "notes": "Vague entity: 'il luogo' instead of explicit name of Senophon's work."
         }
     },
     {
@@ -1964,7 +1969,8 @@
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "wrong_annotations": 1,
+            "notes": "Son. (for sonnett) is a metonimia reference."
         }
     },
     {
@@ -2628,7 +2634,8 @@
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "wrong_annotations": 2,
+            "notes": "2 vague references ('opp.') to a specific work of S. Isidoro."
         }
     },
     {
@@ -2835,8 +2842,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "Potentially missing annotation: stanza 3 for work subpart."
         }
     },
     {
@@ -2875,8 +2882,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "Potentialli missing annotation: 'lettre ccxxxviii du roi' for identifying the specific item."
         }
     },
     {
@@ -3203,8 +3210,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "Missing annotation: 1, 'Storia del saggio Danischmend'."
         }
     },
     {
@@ -3259,8 +3266,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 2,
+            "notes": "2 entità mancanti: Forcellini e Encyclop."
         }
     },
     {
@@ -3323,8 +3330,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "1 opera mancante: Scelta di opusc. interess.."
         }
     },
     {
@@ -4115,8 +4122,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "1 opera mancante: Proposta di Monti."
         }
     },
     {
@@ -4547,8 +4554,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "1 opera: traduzione dei settanta --> septuaginta."
         }
     },
     {
