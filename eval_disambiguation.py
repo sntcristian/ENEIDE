@@ -14,13 +14,16 @@ def eval_ed(path_data, path_results):
 
     for entity1, entity2 in zip(data, predictions):
         wb_id1 = entity1["identifier"].strip()
-        wb_id2 = entity2["identifier"].strip()
-        if wb_id2==wb_id1:
-            tp.append(entity2)
-            print(wb_id2, wb_id1)
+        if not wb_id1.startswith("Q"):
+            continue
         else:
-            fp.append(entity2)
-            fn.append(entity1)
+            wb_id2 = entity2["identifier"].strip()
+            if wb_id2 == wb_id1:
+                tp.append(entity2)
+                print(wb_id2, wb_id1)
+            else:
+                fp.append(entity2)
+                fn.append(entity1)
 
     accuracy = len(tp) / (len(tp) + len(fp))
     with open(os.path.join(path_results, "result.txt"), "w") as output:
@@ -52,5 +55,5 @@ def eval_ed(path_data, path_results):
     fn_file.close()
 
 
-eval_ed(path_data="./DZ/v0.1", path_results="./disambiguation_results/DZ/blink")
+eval_ed(path_data="./DZ/v0.1", path_results="./disambiguation_results/DZ/mgenre")
 
