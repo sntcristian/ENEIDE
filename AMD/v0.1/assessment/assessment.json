@@ -19,8 +19,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'nostro paese'"
         }
     },
     {
@@ -92,7 +92,7 @@
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": ""
         }
     },
     {
@@ -122,9 +122,9 @@
             "wrong_types": 0,
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
-            "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "partially_wrong_identifiers": 1,
+            "missing_annotations": 3,
+            "notes": "[ERR] Does 'Comune' refer to Bari or to the actual building? Missing annotations for 'Aldo Moro', 'Sottosegretario agli Esteri' and 'oratore'"
         }
     },
     {
@@ -148,7 +148,7 @@
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": ""
         }
     },
     {
@@ -171,8 +171,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Paese'"
         }
     },
     {
@@ -219,8 +219,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 3,
+            "notes": "[ERR] Missing annotation for 'Aldo Moro', 'Bari', 'Partito'"
         }
     },
     {
@@ -283,8 +283,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 2,
+            "notes": "[ERR] Missing annotation for 'Moro', 'Paese'"
         }
     },
     {
@@ -311,12 +311,12 @@
         "publication_date": "1958",
         "assessment": {
             "wrong_boundaries": 0,
-            "wrong_types": 0,
+            "wrong_types": 1,
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "[ERR] Debatable annotation 'Nasi' as a person"
         }
     },
     {
@@ -395,8 +395,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 3,
+            "notes": "[ERR] Missing annotation for 'Presidente del Consiglio' and 'Aldo Moro'"
         }
     },
     {
@@ -427,8 +427,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 6,
+            "notes": "[ERR] Missing annotation for 'Presidente del Consiglio', 'Aldo Moro', 'Moro', 'Paese', 'Nazione'"
         }
     },
     {
@@ -483,8 +483,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Ella'"
         }
     },
     {
@@ -507,8 +507,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'presidente del Consiglio onorevole Aldo Moro'"
         }
     },
     {
@@ -547,8 +547,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 2,
+            "notes": "[ERR] Missing annotation for 'presidente del Consiglio' and 'Aldo Moro'"
         }
     },
     {
@@ -571,8 +571,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Lei'"
         }
     },
     {
@@ -720,11 +720,11 @@
         "assessment": {
             "wrong_boundaries": 0,
             "wrong_types": 0,
-            "wrong_identifiers": 0,
+            "wrong_identifiers": 2,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "[ERR] Missing identifiers"
         }
     },
     {
@@ -747,8 +747,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 2,
+            "notes": "[ERR] Missing annotation for 'Presidente del Consiglio' and 'ministro degli Esteri'"
         }
     },
     {
@@ -771,8 +771,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 3,
+            "notes": "[ERR] Missing annotation for 'Sindaco', 'Presidente della Camera di Commercio', 'Presidente dell'Amministrazione Provinciale'"
         }
     },
     {
@@ -847,12 +847,12 @@
         "publication_date": "1951",
         "assessment": {
             "wrong_boundaries": 0,
-            "wrong_types": 0,
+            "wrong_types": 1,
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "[ERR] It's debatable whether the second instance of 'Coppi' is a reference to a person or not"
         }
     },
     {
@@ -871,12 +871,12 @@
         "publication_date": "1968",
         "assessment": {
             "wrong_boundaries": 0,
-            "wrong_types": 0,
+            "wrong_types": 1,
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] It's debatable whether 'Presidente della Repubblica' needs an annotation, instead of 'Ella'"
         }
     },
     {
@@ -907,8 +907,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Democrazia Cristiana'"
         }
     },
     {
@@ -971,8 +971,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Moro'"
         }
     },
     {
@@ -999,12 +999,12 @@
         "publication_date": "1958",
         "assessment": {
             "wrong_boundaries": 0,
-            "wrong_types": 0,
+            "wrong_types": 1,
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "[ERR] It's debatable whether 'Bettiol' is a reference to a person"
         }
     },
     {
@@ -1078,13 +1078,13 @@
         ],
         "publication_date": "1963",
         "assessment": {
-            "wrong_boundaries": 0,
+            "wrong_boundaries": 2,
             "wrong_types": 0,
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "[ERR] 'Presidente Kennedy' or 'Kennedy'?"
         }
     },
     {
@@ -1103,12 +1103,12 @@
         "publication_date": "1958",
         "assessment": {
             "wrong_boundaries": 0,
-            "wrong_types": 0,
+            "wrong_types": 1,
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "[ERR] It's debatable whether 'Morelli' is a reference to a person"
         }
     },
     {
@@ -1179,8 +1179,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Aldo Moro'"
         }
     },
     {
@@ -1206,13 +1206,13 @@
         ],
         "publication_date": "1968",
         "assessment": {
-            "wrong_boundaries": 0,
+            "wrong_boundaries": 1,
             "wrong_types": 0,
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "[ERR] 'Fanfani' or 'ministro degli Esteri on. Fanfani'?"
         }
     },
     {
@@ -1235,8 +1235,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Paese'"
         }
     },
     {
@@ -1284,7 +1284,7 @@
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "[ERR] Missing annotation for 'paese'"
         }
     },
     {
@@ -1308,7 +1308,7 @@
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "Written in French"
         }
     },
     {
@@ -1343,12 +1343,12 @@
         "publication_date": "1958",
         "assessment": {
             "wrong_boundaries": 0,
-            "wrong_types": 0,
+            "wrong_types": 1,
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Aldo Moro', 'Vice presidente del Gruppo Parlamentare DC'. The first annotation for 'DC' maybe is not correct in this context."
         }
     },
     {
@@ -1419,8 +1419,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'ministro Moro'"
         }
     },
     {
@@ -1440,11 +1440,11 @@
         "assessment": {
             "wrong_boundaries": 0,
             "wrong_types": 0,
-            "wrong_identifiers": 0,
+            "wrong_identifiers": 1,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "[ERR] Missing identifier"
         }
     },
     {
@@ -1499,8 +1499,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Paese'"
         }
     },
     {
@@ -1715,8 +1715,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Paese'"
         }
     },
     {
@@ -1755,8 +1755,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 3,
+            "notes": "[ERR] Missing annotation for 'Salerno', 'Democrazia Cristiana', 'Aldo Moro'"
         }
     },
     {
@@ -1787,8 +1787,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 2,
+            "notes": "[ERR] Missing annotation for 'Moro' and 'paese'"
         }
     },
     {
@@ -1846,13 +1846,13 @@
         ],
         "publication_date": "1946",
         "assessment": {
-            "wrong_boundaries": 0,
+            "wrong_boundaries": 1,
             "wrong_types": 0,
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "[ERR] the annotation for 'Nord' should be used for 'Italia del Nord', and the annotation for 'Italia' should not exist"
         }
     },
     {
@@ -1931,8 +1931,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Paese'"
         }
     },
     {
@@ -2043,8 +2043,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 2,
+            "notes": "[ERR] Missing annotation for 'paese' and 'Moro'"
         }
     },
     {
@@ -2111,12 +2111,12 @@
         "publication_date": "1951",
         "assessment": {
             "wrong_boundaries": 0,
-            "wrong_types": 0,
+            "wrong_types": 1,
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "[ERR] It's debatable whether 'Perassi' is a reference to a person"
         }
     },
     {
@@ -2155,8 +2155,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'presidente del Consiglio on.le Aldo Moro'"
         }
     },
     {
@@ -2363,8 +2363,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Alleanza Atlantica'?"
         }
     },
     {
@@ -2395,8 +2395,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Paese'"
         }
     },
     {
@@ -2438,13 +2438,13 @@
         ],
         "publication_date": "1978",
         "assessment": {
-            "wrong_boundaries": 0,
+            "wrong_boundaries": 1,
             "wrong_types": 0,
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "[ERR] 'Wilson' or 'Primo Ministro Wilson'?"
         }
     },
     {
@@ -2491,8 +2491,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 2,
+            "notes": "[ERR] Missing annotation for 'Aldo Moro' and 'Paese'"
         }
     },
     {
@@ -2523,8 +2523,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 2,
+            "notes": "[ERR] Missing annotation for 'Presidente del Consiglio Esecutivo Federale' and 'paese'"
         }
     },
     {
@@ -2555,8 +2555,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 2,
+            "notes": "[ERR] Missing annotation for 'Partito' and 'Italia'"
         }
     },
     {
@@ -2675,8 +2675,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'capitale'"
         }
     },
     {
@@ -2702,13 +2702,13 @@
         ],
         "publication_date": "1946",
         "assessment": {
-            "wrong_boundaries": 0,
+            "wrong_boundaries": 1,
             "wrong_types": 0,
-            "wrong_identifiers": 0,
+            "wrong_identifiers": 1,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
             "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "notes": "[ERR] 'Mezzogiorno' and 'Italia' should be annotated together"
         }
     },
     {
@@ -2745,7 +2745,7 @@
     },
     {
         "id": "document_142168.html",
-        "text": "Cari amici, vi sono estremamente grato per queste accoglienze così calorose, come ha detto l’amico Colombo[1], confortatrici e incitatrici per il lavoro che ci sta ancora davanti. È un segno di simpatia da parte vostra, al quale corrisponde una naturale simpatia, umana, da parte mia, non senza il ricordo presente di alcuni anni che io ho vissuto a Potenzada bambino; anni che sono stati sufficienti perché io ricordassi sempre questa città. Ringrazio il segretario Provinciale per le sue gentili e amichevoli parole e per l’impostazione coraggiosa e netta che ha dato ai temi elettorali che ci stanno dinanzi; saluto, con la più viva cordialità i dirigenti del partito, i parlamentari, i candidati, i miei collaboratori, in maniera del tutto particolare il presidente Colombo, con il quale ho avuto una lunga consuetudine di comune e fecondo lavoro, nel corso del quale ho potuto apprezzare tutto il vigore della sua intelligenza e la sua forza di carattere. Non occorrono doti minori di queste, per resistere in un ufficio così difficile, così scomodo, così carico di incomprensioni, quale è quello di Ministro del Tesoro, che Emilio Colomboha ricoperto con grandissima dignità ed efficacia, nel corso di tanti anni. Credo di essermi giovato pienamente della sua collaborazione, che non avrei potuto in nessun modo lasciar cadere; sono stato e sono solidale con lui, con un giusto e doveroso apprezzamento, di fronte ad attacchi ingiusti che tendono a colpire non soltanto la sua persona, che è eminente nel partito, ma, attraverso la sua persona, il partito delle Democrazia Cristiana. Rivendico la bontà e l’utilità dell’opera svolta dall’amico Colombo da Ministro del Tesoro al servizio del Paese nel corso di tutti questi anni. Credo voi possiate essere orgogliosi di averlo vostro rappresentante.",
+        "text": "Cari amici, vi sono estremamente grato per queste accoglienze così calorose, come ha detto l’amico Colombo[1], confortatrici e incitatrici per il lavoro che ci sta ancora davanti. È un segno di simpatia da parte vostra, al quale corrisponde una naturale simpatia, umana, da parte mia, non senza il ricordo presente di alcuni anni che io ho vissuto a Potenza da bambino; anni che sono stati sufficienti perché io ricordassi sempre questa città. Ringrazio il segretario Provinciale per le sue gentili e amichevoli parole e per l’impostazione coraggiosa e netta che ha dato ai temi elettorali che ci stanno dinanzi; saluto, con la più viva cordialità i dirigenti del partito, i parlamentari, i candidati, i miei collaboratori, in maniera del tutto particolare il presidente Colombo, con il quale ho avuto una lunga consuetudine di comune e fecondo lavoro, nel corso del quale ho potuto apprezzare tutto il vigore della sua intelligenza e la sua forza di carattere. Non occorrono doti minori di queste, per resistere in un ufficio così difficile, così scomodo, così carico di incomprensioni, quale è quello di Ministro del Tesoro, che Emilio Colombo ha ricoperto con grandissima dignità ed efficacia, nel corso di tanti anni. Credo di essermi giovato pienamente della sua collaborazione, che non avrei potuto in nessun modo lasciar cadere; sono stato e sono solidale con lui, con un giusto e doveroso apprezzamento, di fronte ad attacchi ingiusti che tendono a colpire non soltanto la sua persona, che è eminente nel partito, ma, attraverso la sua persona, il partito delle Democrazia Cristiana. Rivendico la bontà e l’utilità dell’opera svolta dall’amico Colombo da Ministro del Tesoro al servizio del Paese nel corso di tutti questi anni. Credo voi possiate essere orgogliosi di averlo vostro rappresentante.",
         "annotations": [
             {
                 "doc_id": "document_142168.html",
@@ -2803,8 +2803,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Paese'"
         }
     },
     {
@@ -2835,8 +2835,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Paese'"
         }
     },
     {
@@ -3099,8 +3099,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Aldo Moro'"
         }
     },
     {
@@ -3211,8 +3211,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 1,
+            "notes": "[ERR] Missing annotation for 'Moro'"
         }
     },
     {
@@ -3235,8 +3235,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 2,
+            "notes": "[ERR] Missing annotation for 'Aldo Moro'"
         }
     },
     {
@@ -3291,8 +3291,8 @@
             "wrong_identifiers": 0,
             "partially_wrong_types": 0,
             "partially_wrong_identifiers": 0,
-            "missing_annotations": 0,
-            "notes": "Place to write in plain text potential comments."
+            "missing_annotations": 2,
+            "notes": "[ERR] Missing annotation for 'Presidente del Consiglio on. Moro' and 'metropoli lombarda'"
         }
     },
     {
