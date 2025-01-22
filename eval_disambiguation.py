@@ -18,7 +18,7 @@ def eval_ed(path_data, path_results):
             continue
         else:
             wb_id2 = entity2["identifier"].strip()
-            if wb_id2==wb_id1:
+            if wb_id2 == wb_id1:
                 tp.append(entity2)
                 print(wb_id2, wb_id1)
             else:
@@ -55,5 +55,5 @@ def eval_ed(path_data, path_results):
     fn_file.close()
 
 
-eval_ed(path_data="./AMD", path_results="./disambiguation_results/AMD/blink")
+eval_ed(path_data="./DZ/v0.1", path_results="./disambiguation_results/DZ/mgenre")
 
