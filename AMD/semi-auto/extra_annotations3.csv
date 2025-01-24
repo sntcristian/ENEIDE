@@ -1,6 +1,6 @@
 doc_id,surface,start_pos,end_pos,type,identifier,source,valid,split
-document_142204.html,Consiglio dei ministri,351,373,ORG,,NER,no,train
-document_142204.html,Consiglio,674,683,ORG,,NER,no,train
+document_142204.html,Consiglio dei ministri,351,373,ORG,Q8886,NER,yes,train
+document_142204.html,Consiglio,674,683,ORG,Q3687318,NER,yes,train
 document_142211.html,Democrazia,689,699,ORG,Q815348,AMD,no,train
 document_142211.html,Paese,515,520,LOC,Q38,AMD,no,train
 document_142211.html,partito,18,25,ORG,Q815348,AMD,no,train
