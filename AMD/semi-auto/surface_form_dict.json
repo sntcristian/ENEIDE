@@ -1,0 +1,4362 @@
+{
+    "A": {
+        "identifier": "Q316568",
+        "type": "PER",
+        "valid": "no"
+    },
+    "A. C.": {
+        "identifier": "Q3318304",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "A.C. Jemolo": {
+        "identifier": "Q3624507",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "A.C.I.": {
+        "identifier": "Q3318304",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "ACLI": {
+        "identifier": "Q3627327",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "AIEA": {
+        "identifier": "Q41984",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "AIMC": {
+        "identifier": "Q3626589",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Abidjan": {
+        "identifier": "Q1515",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Abou el Ala el Maarri": {
+        "identifier": "Q277073",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Abouhamed": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Abu Hamad": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Addis Abeba": {
+        "identifier": "Q3624",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Adelchi Baratono": {
+        "identifier": "Q3605170",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Adelfia": {
+        "identifier": "Q51811",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Adone Zoli": {
+        "identifier": "Q366104",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Africa": {
+        "identifier": "Q15",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Aia": {
+        "identifier": "Q36600",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Aja": {
+        "identifier": "Q36600",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Al Jabal Badawi": {
+        "identifier": "Q4840646",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Albertini": {
+        "identifier": "Q787832",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Alberto Savinio": {
+        "identifier": "Q691973",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Alcide De Gasperi": {
+        "identifier": "Q153832",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Aldo Moro": {
+        "identifier": "Q171834",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Alec": {
+        "identifier": "Q128976",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Algérie": {
+        "identifier": "Q262",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Alitalia": {
+        "identifier": "Q153975",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Alleanza": {
+        "identifier": "Q7184",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Alleanza Atlantica": {
+        "identifier": "Q7184",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Alleanza atlantica": {
+        "identifier": "Q7184",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Alliance": {
+        "identifier": "Q7184",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Almirante": {
+        "identifier": "Q1236400",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Alta Corte": {
+        "identifier": "Q981005",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Alto Adige": {
+        "identifier": "Q15124",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Ambrosini": {
+        "identifier": "Q3758629",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Amendola": {
+        "identifier": "Q939831",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "America": {
+        "identifier": "Q30",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "America Latina": {
+        "identifier": "Q12585",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "America latina": {
+        "identifier": "Q12585",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Amerigo Petrucci": {
+        "identifier": "Q3614139",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Ancona": {
+        "identifier": "Q3415",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Andrea Torrente": {
+        "identifier": "Q3616074",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Andreotti": {
+        "identifier": "Q50005",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Andria": {
+        "identifier": "Q13486",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Angelini": {
+        "identifier": "Q3749537",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Angelo Narducci": {
+        "identifier": "Q3617117",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Antonio Rossano": {
+        "identifier": "Q106152948",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Antonio Segni": {
+        "identifier": "Q1240",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Aosta": {
+        "identifier": "Q3367",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Aquisgrana": {
+        "identifier": "Q1017",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Arabia Saudita": {
+        "identifier": "Q851",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Arata": {
+        "identifier": "Q3770006",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Arcivescovo": {
+        "identifier": "Q34634425",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Arco": {
+        "identifier": "Q138473",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Arnaldo Forlani": {
+        "identifier": "Q434786",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Arturo Carlo Jemolo": {
+        "identifier": "Q3624507",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Asia": {
+        "identifier": "Q48",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Assemblea": {
+        "identifier": "Q1053185",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Assemblea costituente": {
+        "identifier": "Q1053185",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Assemblea costituente italiana": {
+        "identifier": "Q1053185",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Assemblea plenaria": {
+        "identifier": "Q1053185",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Associazione": {
+        "identifier": "Q3091708",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Associazioni": {
+        "identifier": "Q3091708",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Associazioni Universitarie": {
+        "identifier": "Q3091708",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Associazioni Universitarie di Azione Cattolica": {
+        "identifier": "Q3091708",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Atlantico": {
+        "identifier": "Q97",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Austria": {
+        "identifier": "Q40",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Autore": {
+        "identifier": "Q52826362",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Azione Cattolica": {
+        "identifier": "Q3318304",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Badaloni": {
+        "identifier": "Q28030773",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Badioli": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Badoglio": {
+        "identifier": "Q200085",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Banca Interamericana di Sviluppo": {
+        "identifier": "NIL",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Bangkok": {
+        "identifier": "Q1861",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Barbara Spinelli": {
+        "identifier": "Q3634690",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Barbieri": {
+        "identifier": "Q98105531",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bardonecchia": {
+        "identifier": "Q9039",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Bargellini": {
+        "identifier": "Q3903157",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bari": {
+        "identifier": "Q3519",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Barletta": {
+        "identifier": "Q13470",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Bascev": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Base": {
+        "identifier": "NIL",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Basso": {
+        "identifier": "Q3229281",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Battipaglia": {
+        "identifier": "Q80652",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Battisti": {
+        "identifier": "Q78782",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Beatissimo Padre": {
+        "identifier": "Q2604",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Beatissimo padre": {
+        "identifier": "Q16975",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Belgio": {
+        "identifier": "Q31",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Belgirate": {
+        "identifier": "Q23247",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Belgrado": {
+        "identifier": "Q3711",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Bemporad": {
+        "identifier": "Q38777032",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Benedetto Croce": {
+        "identifier": "Q192348",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Benevento": {
+        "identifier": "Q13437",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Benigno Zaccagnini": {
+        "identifier": "Q817307",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Benvenuti": {
+        "identifier": "Q3836357",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bergamo": {
+        "identifier": "Q628",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Berlinguer": {
+        "identifier": "Q164995",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Berlino": {
+        "identifier": "Q64",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Berloffa": {
+        "identifier": "Q661117",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bernardo Mattarella": {
+        "identifier": "Q3638792",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bertola": {
+        "identifier": "Q3731968",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Betlemme": {
+        "identifier": "Q5776",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Bettiol": {
+        "identifier": "Q3770116",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Biasini": {
+        "identifier": "Q3049593",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bisaglia": {
+        "identifier": "Q1059394",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bo": {
+        "identifier": "Q3765297",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bolettieri": {
+        "identifier": "Q61809753",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bologna": {
+        "identifier": "Q1891",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Bolzano": {
+        "identifier": "Q6526",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Bombassei": {
+        "identifier": "Q60585323",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bonatelli": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bonn": {
+        "identifier": "Q586",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Bonomi": {
+        "identifier": "Q3893797",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Boston": {
+        "identifier": "Q100",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Bourghiba": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bouteflika": {
+        "identifier": "Q57308",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bracciano": {
+        "identifier": "Q241791",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Branca": {
+        "identifier": "Q3561343",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Brandt": {
+        "identifier": "Q2514",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Breganze": {
+        "identifier": "Q55979285",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Brescia": {
+        "identifier": "Q6221",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Brindisi": {
+        "identifier": "Q13496",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Brodolini": {
+        "identifier": "Q3762008",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bruxelles": {
+        "identifier": "Q239",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Bubbico": {
+        "identifier": "Q15146827",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Bucarest": {
+        "identifier": "Q19660",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Budapest": {
+        "identifier": "Q1781",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Bulgaria": {
+        "identifier": "Q219",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Buzzi": {
+        "identifier": "Q19862475",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "CEE": {
+        "identifier": "Q52847",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "CIO": {
+        "identifier": "Q40970",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "CISL": {
+        "identifier": "Q1125097",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "CONI": {
+        "identifier": "Q1114833",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Cagliari": {
+        "identifier": "Q1897",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Cairo": {
+        "identifier": "Q85",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Calamandrei": {
+        "identifier": "Q1130486",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Caltanissetta": {
+        "identifier": "Q13680",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Cambogia": {
+        "identifier": "Q424",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Campidoglio": {
+        "identifier": "Q34925",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Canada": {
+        "identifier": "Q16",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Canadà": {
+        "identifier": "Q16",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Cancelliere Federale": {
+        "identifier": "Q2496",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Capitale": {
+        "identifier": "Q220",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Capo": {
+        "identifier": "Q2604",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Capo del Governo": {
+        "identifier": "Q23333",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Capo dello Stato": {
+        "identifier": "Q1240",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Capo provvisorio dello Stato": {
+        "identifier": "Q1245",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Cappi": {
+        "identifier": "Q3770236",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Caracas": {
+        "identifier": "Q1533",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Carandini": {
+        "identifier": "Q1987236",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Cariglia": {
+        "identifier": "Q601298",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Carlo Magno": {
+        "identifier": "Q3044",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Carlo Rosselli": {
+        "identifier": "Q611927",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Carmine De Martino": {
+        "identifier": "Q3660359",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Caserta": {
+        "identifier": "Q1906",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Cassino": {
+        "identifier": "Q116592",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Castellamare di Stabia": {
+        "identifier": "NIL",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Castellammare di Stabia": {
+        "identifier": "Q6737",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Catania": {
+        "identifier": "Q1903",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Catanzaro": {
+        "identifier": "Q3883",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Caterina": {
+        "identifier": "Q229190",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Cazzaniga": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Cee": {
+        "identifier": "Q52847",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Ceneda": {
+        "identifier": "Q2316315",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Cenini": {
+        "identifier": "Q96333040",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Cesare Battisti": {
+        "identifier": "Q78782",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Cessi": {
+        "identifier": "Q2159467",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Cevolotto": {
+        "identifier": "Q3848440",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Chiesa": {
+        "identifier": "Q34651",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Churchill": {
+        "identifier": "Q8016",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Cicogna": {
+        "identifier": "Q3754786",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Cile": {
+        "identifier": "Q298",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Cina": {
+        "identifier": "Q148",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Cingolani": {
+        "identifier": "Q3848450",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Cittadella": {
+        "identifier": "Q6671",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Codogno": {
+        "identifier": "Q42298",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Collega": {
+        "identifier": "Q348901",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Colombia": {
+        "identifier": "Q739",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Colombo": {
+        "identifier": "Q312058",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Coltivatori": {
+        "identifier": "Q3682549",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Coltivatori Diretti": {
+        "identifier": "Q3682549",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Coltivatori diretti": {
+        "identifier": "Q3682549",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Comitati di Liberazione": {
+        "identifier": "Q547858",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Comitati di liberazione": {
+        "identifier": "Q547858",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Comitato Olimpico Internazionale": {
+        "identifier": "Q40970",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Commissario italiano": {
+        "identifier": "Q441294",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Commissione": {
+        "identifier": "Q3684787",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Communauté": {
+        "identifier": "Q458",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Como": {
+        "identifier": "Q1308",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Comune": {
+        "identifier": "Q3519",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Comunità": {
+        "identifier": "Q52847",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Comunità Economica Europea": {
+        "identifier": "Q52847",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Comunità Economiche Europee": {
+        "identifier": "Q52847",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Comunità Europea": {
+        "identifier": "Q52847",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Comunità economica europea": {
+        "identifier": "Q52847",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Comunità europea": {
+        "identifier": "Q52847",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Condorelli": {
+        "identifier": "Q3884899",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Confederazione dei Coltivatori Diretti": {
+        "identifier": "Q3682549",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Coni": {
+        "identifier": "Q1114833",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Consiglio Europeo": {
+        "identifier": "Q8886",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Consiglio d’Europa": {
+        "identifier": "Q8908",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Consiglio europeo": {
+        "identifier": "Q8886",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Consiglio superiore": {
+        "identifier": "Q3687371",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Consiglio superiore dell’emigrazione": {
+        "identifier": "NIL",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Consulta araldica": {
+        "identifier": "Q1822839",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Continent": {
+        "identifier": "Q46",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Continente": {
+        "identifier": "Q828",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Continente africano": {
+        "identifier": "Q15",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Copenaghen": {
+        "identifier": "Q1748",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Coppi": {
+        "identifier": "Q3609942",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Corona": {
+        "identifier": "Q3604352",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Corrado Belci": {
+        "identifier": "Q3694191",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Corsanego": {
+        "identifier": "Q3651483",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Corte": {
+        "identifier": "Q981005",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Corte Costituzionale": {
+        "identifier": "Q981005",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Corte costituzionale": {
+        "identifier": "Q981005",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Corte di garanzia costituzionale": {
+        "identifier": "Q981005",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Cosenza": {
+        "identifier": "Q13619",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Cossiga": {
+        "identifier": "Q1230",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Costa": {
+        "identifier": "Q3751243",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Costa d’Avorio": {
+        "identifier": "Q1008",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Costituente": {
+        "identifier": "Q1053185",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Cottafavi": {
+        "identifier": "Q76012244",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Covelli": {
+        "identifier": "Q3611381",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Cremaschi": {
+        "identifier": "Q3659225",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Cremona": {
+        "identifier": "Q6231",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Cristo": {
+        "identifier": "Q302",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Cuneo": {
+        "identifier": "Q5968",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "D.C": {
+        "identifier": "Q815348",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "D.C.": {
+        "identifier": "Q815348",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "DC": {
+        "identifier": "Q815348",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Dal Canton": {
+        "identifier": "Q17280006",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Dalvit": {
+        "identifier": "Q3839551",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Danimarca": {
+        "identifier": "Q35",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Dc": {
+        "identifier": "Q815348",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "De Gasperi": {
+        "identifier": "Q153832",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "De Luca": {
+        "identifier": "Q3616954",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "De Martino": {
+        "identifier": "Q1379919",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "De Mita": {
+        "identifier": "Q316226",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "De Rosa": {
+        "identifier": "Q3756578",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "De Stefanis": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Della Porta": {
+        "identifier": "Q3771907",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Delle Fave": {
+        "identifier": "Q4003375",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Democratico Cristiano": {
+        "identifier": "Q815348",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Democrazia": {
+        "identifier": "Q815348",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Democrazia Cristiana": {
+        "identifier": "Q815348",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Democrazia cristiana": {
+        "identifier": "Q815348",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Destefanis": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Di Cagno": {
+        "identifier": "Q15711768",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Dino Penazzato": {
+        "identifier": "Q3707946",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Djakarta": {
+        "identifier": "Q3630",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Donati": {
+        "identifier": "Q3618697",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Dossetti": {
+        "identifier": "Q370039",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Dottore": {
+        "identifier": "Q9438",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "EFTA": {
+        "identifier": "Q166546",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Eccellenza": {
+        "identifier": "Q76297",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Egli": {
+        "identifier": "Q273228",
+        "type": "PER",
+        "valid": "no"
+    },
+    "Elisabetta Conci": {
+        "identifier": "Q3723216",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Ella": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "no"
+    },
+    "Emilio Colombo": {
+        "identifier": "Q312058",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Emilio Rubbi": {
+        "identifier": "Q3724516",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Enrico Ghio": {
+        "identifier": "Q50322208",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Enrico Mattei": {
+        "identifier": "Q557795",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Est europeo": {
+        "identifier": "NIL",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Estremo Oriente": {
+        "identifier": "Q42225",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Etiopia": {
+        "identifier": "Q115",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Euratom": {
+        "identifier": "Q8919",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Europa": {
+        "identifier": "Q46",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Europa Occidentale": {
+        "identifier": "Q27496",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Europa Orientale": {
+        "identifier": "Q27468",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Europa dell’Est": {
+        "identifier": "Q27468",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Europe": {
+        "identifier": "Q46",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Ezio Vanoni": {
+        "identifier": "Q3736429",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "F.U.C.I.": {
+        "identifier": "Q3091708",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "FUCI": {
+        "identifier": "Q3091708",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Fada": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Fanfani": {
+        "identifier": "Q273228",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Federazione": {
+        "identifier": "Q3091708",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Federici": {
+        "identifier": "Q3847268",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Fera": {
+        "identifier": "Q63969741",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Ferdinando Vegas": {
+        "identifier": "Q21587924",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Fernando Tambroni": {
+        "identifier": "Q314004",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Ferrari Aggradi": {
+        "identifier": "Q3848567",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Fiera": {
+        "identifier": "Q3744601",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Fiera Campionaria": {
+        "identifier": "Q2524205",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Fiera del Levante": {
+        "identifier": "Q3744601",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Finlandia": {
+        "identifier": "Q33",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Firenze": {
+        "identifier": "Q2044",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Firpo": {
+        "identifier": "Q169708",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Foggia": {
+        "identifier": "Q13464",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Fondo monetario internazionale": {
+        "identifier": "Q7804",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Forze Armate": {
+        "identifier": "Q8473",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Forze Nuove": {
+        "identifier": "NIL",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Franceschini": {
+        "identifier": "Q20085830",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Francesco Saverio Nitti": {
+        "identifier": "Q367132",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Francia": {
+        "identifier": "Q142",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Franz Jonas": {
+        "identifier": "Q13014",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Friuli Venezia Giulia": {
+        "identifier": "Q1250",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Friuli – Venezia Giulia": {
+        "identifier": "NIL",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Friuli-Venezia Giulia": {
+        "identifier": "Q1250",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Fuci": {
+        "identifier": "Q3091708",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "GATT": {
+        "identifier": "Q194284",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Gabriele Pepe": {
+        "identifier": "Q52826362",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Gaetano Azzariti": {
+        "identifier": "Q3756893",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Gaetano Martino": {
+        "identifier": "Q139055",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Gaia": {
+        "identifier": "Q3938823",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Gaja": {
+        "identifier": "Q3938823",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Gallo": {
+        "identifier": "Q47491456",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Galloni": {
+        "identifier": "Q3767326",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Gaspari": {
+        "identifier": "Q3932481",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Gava": {
+        "identifier": "Q1499564",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Genova": {
+        "identifier": "Q1449",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Geoffrey Rippon": {
+        "identifier": "Q5534874",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Germania": {
+        "identifier": "Q183",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Germania Federale": {
+        "identifier": "Q713750",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Gerusalemme": {
+        "identifier": "Q1218",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Gescal": {
+        "identifier": "Q3761356",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Gestione": {
+        "identifier": "Q3761356",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Gestione Case per Lavoratori": {
+        "identifier": "Q3761356",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Ghana": {
+        "identifier": "Q117",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Ghidini": {
+        "identifier": "Q3779955",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Giappone": {
+        "identifier": "Q17",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Ginevra": {
+        "identifier": "Q71",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Giorgio La Pira": {
+        "identifier": "Q543393",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Giovanni Giraudo": {
+        "identifier": "Q3767386",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Giovanni Leone": {
+        "identifier": "Q1235",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Giovanni XXIII": {
+        "identifier": "Q23873",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Gioventù di Azione Cattolica": {
+        "identifier": "NIL",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Giraudo": {
+        "identifier": "Q3767386",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Giuseppe Bettiol": {
+        "identifier": "Q3770116",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Giuseppe Sala": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Goffredo Parise": {
+        "identifier": "Q1132008",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Gonella": {
+        "identifier": "Q1553555",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Gorizia": {
+        "identifier": "Q6596",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Governatore Generale": {
+        "identifier": "Q356756",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Graham Martin": {
+        "identifier": "Q724360",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Gran Bretagna": {
+        "identifier": "Q145",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Granzotto Basso": {
+        "identifier": "Q3838605",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Grassi": {
+        "identifier": "Q2544332",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Grecia": {
+        "identifier": "Q41",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Gromiko": {
+        "identifier": "Q184267",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Gronchi": {
+        "identifier": "Q1241",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Guf": {
+        "identifier": "Q3118248",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Gullotti": {
+        "identifier": "Q3619102",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Hailé Selassié I": {
+        "identifier": "Q41178",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Harmel": {
+        "identifier": "Q363942",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Hillery": {
+        "identifier": "Q310994",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "I.R.C.E.": {
+        "identifier": "NIL",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "IRI": {
+        "identifier": "Q1674879",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Ibn Khaldoun": {
+        "identifier": "Q9294",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Ibn al Haytham": {
+        "identifier": "Q11104",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Il Cairo": {
+        "identifier": "Q85",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Imperatore": {
+        "identifier": "Q41178",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Ina-Casa": {
+        "identifier": "Q3788634",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "India": {
+        "identifier": "Q668",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Indonesia": {
+        "identifier": "Q252",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Inghilterra": {
+        "identifier": "Q21",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Ingrao": {
+        "identifier": "Q1277298",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Iraq": {
+        "identifier": "Q796",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Irlanda": {
+        "identifier": "Q27",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Isola": {
+        "identifier": "Q1462",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Isonzo": {
+        "identifier": "Q202760",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Israele": {
+        "identifier": "Q801",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Istituto": {
+        "identifier": "Q1631537",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Istituto Italo Latino-americano": {
+        "identifier": "Q605682",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Istituto Italo-Latinoamericano": {
+        "identifier": "Q605682",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Istituto Universitario Europeo": {
+        "identifier": "Q1378099",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Istituto agronomico per l’Africa italiana": {
+        "identifier": "Q1631537",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Istituto italiano per l’Africa": {
+        "identifier": "NIL",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Italia": {
+        "identifier": "Q38",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Italie": {
+        "identifier": "Q38",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Iugoslavia": {
+        "identifier": "Q83286",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Jemolo": {
+        "identifier": "Q3624507",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Jervolino": {
+        "identifier": "Q3617176",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "John Kennedy": {
+        "identifier": "Q9696",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Johnson": {
+        "identifier": "Q9640",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Joseph Sisco": {
+        "identifier": "Q521462",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Jugoslavia": {
+        "identifier": "Q36704",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Juraj Strosmajer": {
+        "identifier": "Q434257",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Kappler": {
+        "identifier": "Q61861",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Karamanlis": {
+        "identifier": "Q156806",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Kekkonen": {
+        "identifier": "Q179858",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Kennedy": {
+        "identifier": "Q9696",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Kessler": {
+        "identifier": "Q993405",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Kinshasa": {
+        "identifier": "Q3838",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Konrad Adenauer": {
+        "identifier": "Q2492",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Krister Wickman": {
+        "identifier": "Q3376192",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Kuwait": {
+        "identifier": "Q817",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "La Malfa": {
+        "identifier": "Q1248333",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "La Pira": {
+        "identifier": "Q543393",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Laconi": {
+        "identifier": "Q3933023",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Lami Starnuti": {
+        "identifier": "Q3719089",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Latanza": {
+        "identifier": "Q27467947",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Laura": {
+        "identifier": "Q16554335",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Laureati": {
+        "identifier": "Q3866579",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Laureati Cattolici": {
+        "identifier": "Q3866579",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Laureati di Azione Cattolica": {
+        "identifier": "Q3866579",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Lecce": {
+        "identifier": "Q13386",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Lecco": {
+        "identifier": "Q6237",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Lei": {
+        "identifier": "Q4763199",
+        "type": "PER",
+        "valid": "no"
+    },
+    "Lelio Basso": {
+        "identifier": "Q3229281",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Leone": {
+        "identifier": "Q1235",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Leskinen": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Levante": {
+        "identifier": "Q81483",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Liban": {
+        "identifier": "Q822",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Libia": {
+        "identifier": "Q1016",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Liguria": {
+        "identifier": "Q1256",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Lino Zanussi": {
+        "identifier": "Q3241653",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Lippmann": {
+        "identifier": "Q316568",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Lisbona": {
+        "identifier": "Q597",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Livorno": {
+        "identifier": "Q6761",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Lombardi": {
+        "identifier": "Q17285084",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Londra": {
+        "identifier": "Q84",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Lorenzo Barbaro": {
+        "identifier": "Q12951532",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Lorenzo Spallino": {
+        "identifier": "Q3837082",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Lozza": {
+        "identifier": "Q19678130",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Lucania": {
+        "identifier": "Q1452",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Lucca": {
+        "identifier": "Q13373",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Luciano Magrini": {
+        "identifier": "Q28801839",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Lucifero": {
+        "identifier": "Q3938910",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Lui": {
+        "identifier": "Q2604",
+        "type": "PER",
+        "valid": "no"
+    },
+    "Luigi Benedetti": {
+        "identifier": "Q19817378",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Luigi Lavitrano": {
+        "identifier": "Q1493618",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Luigi Sturzo": {
+        "identifier": "Q735770",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Lupis": {
+        "identifier": "Q3770843",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Lussemburgo": {
+        "identifier": "Q32",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Lussu": {
+        "identifier": "Q694799",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Luxembourg": {
+        "identifier": "Q32",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Luzzatto": {
+        "identifier": "Q3838895",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "MEC": {
+        "identifier": "Q955276",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Maccari": {
+        "identifier": "Q3858582",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Madonna": {
+        "identifier": "Q345",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Magnago": {
+        "identifier": "Q9399",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Majesté Impériale": {
+        "identifier": "Q41178",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Malta": {
+        "identifier": "Q233",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Malvestiti": {
+        "identifier": "Q1370804",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Manescu": {
+        "identifier": "Q1133683",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Manzini": {
+        "identifier": "Q3929594",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Marche": {
+        "identifier": "Q1279",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Marchesi": {
+        "identifier": "Q3686190",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Marcora": {
+        "identifier": "Q3767639",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Margadonna": {
+        "identifier": "Q3276823",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Maria Badaloni": {
+        "identifier": "Q28030773",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Maria Jervolino": {
+        "identifier": "Q3847238",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Maria Montessori": {
+        "identifier": "Q131117",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Mario Missiroli": {
+        "identifier": "Q3848827",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Mario TOSCANO": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Marocco": {
+        "identifier": "Q1028",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Martinazzoli": {
+        "identifier": "Q726118",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Masnovo": {
+        "identifier": "Q54925054",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Massimo Pilotti": {
+        "identifier": "Q3851409",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Mattei": {
+        "identifier": "Q557795",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Matthews": {
+        "identifier": "Q15156",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Maurice Schumann": {
+        "identifier": "Q282882",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Medellin": {
+        "identifier": "Q48278",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Medio Oriente": {
+        "identifier": "Q7204",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Medioriente": {
+        "identifier": "Q7204",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Mediterraneo": {
+        "identifier": "Q4918",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Menna": {
+        "identifier": "Q3611210",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Mercato comune": {
+        "identifier": "Q955276",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Merlin": {
+        "identifier": "Q3832550",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Messico": {
+        "identifier": "Q96",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Messina": {
+        "identifier": "Q13666",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Mestre": {
+        "identifier": "Q541405",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Mezzapesa": {
+        "identifier": "Q3904070",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Mezzogiorno": {
+        "identifier": "Q207989",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Milano": {
+        "identifier": "Q490",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Milazzo": {
+        "identifier": "Q3960910",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Ministre": {
+        "identifier": "Q1884962",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Ministro": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Ministro degli Esteri": {
+        "identifier": "Q456527",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Ministro dell’interno": {
+        "identifier": "Q367342",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Ministro inglese degli Esteri": {
+        "identifier": "Q128995",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Mohamed Abdal Marzaban": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Mohammed Masmoudi": {
+        "identifier": "Q1951854",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Molise": {
+        "identifier": "Q1443",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Montessori": {
+        "identifier": "Q131117",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Montevideo": {
+        "identifier": "Q1335",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Morelli": {
+        "identifier": "Q32281802",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Morlino": {
+        "identifier": "Q674952",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Moro": {
+        "identifier": "Q171834",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Mortati": {
+        "identifier": "Q3695539",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Mosca": {
+        "identifier": "Q649",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Movimento": {
+        "identifier": "Q3866579",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Movimento Laureati": {
+        "identifier": "Q3866579",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Movimento delle Casse Rurali e Artigiane": {
+        "identifier": "Q25059014",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Mussolini": {
+        "identifier": "Q23559",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "NATO": {
+        "identifier": "Q7184",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Napoli": {
+        "identifier": "Q2634",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Nasi": {
+        "identifier": "Q4013924",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Natali": {
+        "identifier": "Q1290648",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Nato": {
+        "identifier": "Q7184",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Nazioni Unite": {
+        "identifier": "Q1065",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Nenni": {
+        "identifier": "Q539486",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "New York": {
+        "identifier": "Q60",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Nicola Tridente": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Nigeria": {
+        "identifier": "Q1033",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Nilsson": {
+        "identifier": "Q241035",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Nixon": {
+        "identifier": "Q9588",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Nobile": {
+        "identifier": "Q291200",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Nord": {
+        "identifier": "Q4345530",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Norvegia": {
+        "identifier": "Q20",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Nunzio Apostolico": {
+        "identifier": "Q592957",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Nuova Sinistra": {
+        "identifier": "NIL",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Nuova Zelanda": {
+        "identifier": "Q664",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "O.E.C.E.": {
+        "identifier": "Q3057312",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "OECE": {
+        "identifier": "Q3057312",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "ONU": {
+        "identifier": "Q1065",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "OUA": {
+        "identifier": "Q356928",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Occidente": {
+        "identifier": "Q160381",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Oceania": {
+        "identifier": "Q538",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Ocse": {
+        "identifier": "Q41550",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Olanda": {
+        "identifier": "Q55",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "On. Interpellante": {
+        "identifier": "Q4003497",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Onesti": {
+        "identifier": "Q596724",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Onu": {
+        "identifier": "Q1065",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Opera dei Congressi": {
+        "identifier": "Q3883877",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Organizzazione": {
+        "identifier": "Q3091708",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Organizzazione degli Stati Americani": {
+        "identifier": "Q123759",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Organizzazione dei Coltivatori Diretti": {
+        "identifier": "Q3682549",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Oriente": {
+        "identifier": "NIL",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Origlia": {
+        "identifier": "Q58011054",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Orlandi": {
+        "identifier": "Q3746504",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Osimo": {
+        "identifier": "Q124554",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Oslavia": {
+        "identifier": "Q979837",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Ottawa": {
+        "identifier": "Q1930",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Ozieri": {
+        "identifier": "Q391167",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "PCI": {
+        "identifier": "Q461886",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "PRI": {
+        "identifier": "Q767560",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "PSDI": {
+        "identifier": "Q665335",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "PSI": {
+        "identifier": "Q590750",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Padova": {
+        "identifier": "Q617",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Padre": {
+        "identifier": "Q2604",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Padre Santo": {
+        "identifier": "Q2604",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Paese": {
+        "identifier": "Q38",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Pajetta": {
+        "identifier": "Q3762932",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Palazzo Barberini": {
+        "identifier": "Q1136614",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Palazzo Giustiniani": {
+        "identifier": "Q3890240",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Palermo": {
+        "identifier": "Q2656",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Palese": {
+        "identifier": "Q3891738",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Paola": {
+        "identifier": "Q53928",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Paolo Bonatelli": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Paolo Bonomi": {
+        "identifier": "Q3893797",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Paolo VI": {
+        "identifier": "Q16975",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Papa": {
+        "identifier": "Q2604",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Parigi": {
+        "identifier": "Q90",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Parri": {
+        "identifier": "Q471315",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Partiti": {
+        "identifier": "Q7278",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito": {
+        "identifier": "Q815348",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito Comunista": {
+        "identifier": "Q461886",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito Comunista Italiano": {
+        "identifier": "Q461886",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito Popolare": {
+        "identifier": "Q1259087",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito Popolare Europeo": {
+        "identifier": "Q208242",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito Socialdemocratico": {
+        "identifier": "Q665335",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito Socialista": {
+        "identifier": "Q590750",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito Socialista Italiano": {
+        "identifier": "Q590750",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito comunista": {
+        "identifier": "Q461886",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito della sinistra cristiana": {
+        "identifier": "Q386358",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito repubblicano italiano": {
+        "identifier": "Q767560",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito socialdemocratico": {
+        "identifier": "Q665335",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito socialista": {
+        "identifier": "Q590750",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito socialista democratico italiano": {
+        "identifier": "Q665335",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Partito socialista italiano": {
+        "identifier": "Q590750",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Pasquali": {
+        "identifier": "Q962413",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Pastore": {
+        "identifier": "Q3769740",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Patto Atlantico": {
+        "identifier": "Q877399",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Pechino": {
+        "identifier": "Q956",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Pedini": {
+        "identifier": "Q3848931",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Pella": {
+        "identifier": "Q320963",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Perassi": {
+        "identifier": "Q3992572",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Perugia": {
+        "identifier": "Q3437",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Pescara": {
+        "identifier": "Q2704",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Pesenti": {
+        "identifier": "Q3620028",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Petrucci": {
+        "identifier": "Q3614139",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Petruccioli": {
+        "identifier": "Q3680181",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Piacenza": {
+        "identifier": "Q13329",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Picardi": {
+        "identifier": "Q20983717",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Picchioni": {
+        "identifier": "Q3940277",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Piccioni": {
+        "identifier": "Q343323",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Piccoli": {
+        "identifier": "Q1426951",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Pieraccini": {
+        "identifier": "Q3767938",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Pio XII": {
+        "identifier": "Q2604",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Pisa": {
+        "identifier": "Q13375",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Pistelli": {
+        "identifier": "Q3876321",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Poeta": {
+        "identifier": "Q5679",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Polesine": {
+        "identifier": "Q1242205",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Polignano a Mare": {
+        "identifier": "Q51842",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Ponti": {
+        "identifier": "Q3733989",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Pordenone": {
+        "identifier": "Q6606",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Porzio": {
+        "identifier": "Q3767969",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Potenza": {
+        "identifier": "Q3543",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Pozzuoli": {
+        "identifier": "Q72425",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Premier": {
+        "identifier": "Q8016",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Presidente": {
+        "identifier": "Q4003497",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Presidente Roos[e]velt": {
+        "identifier": "Q8007",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Presidente del Consiglio": {
+        "identifier": "Q273228",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Presidente del Consiglio Nazionale": {
+        "identifier": "Q343323",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Presidente del Senato": {
+        "identifier": "Q562209",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Presidente della Commissione Europea": {
+        "identifier": "Q469478",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Presidente della Commissione esteri": {
+        "identifier": "Q3659814",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Presidente della Repubblica": {
+        "identifier": "Q1240",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Presidente egiziano": {
+        "identifier": "Q42013",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Presidente supplente della Repubblica": {
+        "identifier": "Q562209",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Preti": {
+        "identifier": "Q3840053",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Primo Ministro": {
+        "identifier": "Q128956",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Primo Ministro di Australia": {
+        "identifier": "Q23333",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Primo Vice Presidente del Consiglio": {
+        "identifier": "Q202770",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Puglia": {
+        "identifier": "Q1447",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Puglie": {
+        "identifier": "Q1447",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "RAE": {
+        "identifier": "Q79",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Rabat": {
+        "identifier": "Q3551",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Raffaello": {
+        "identifier": "Q5597",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Rai": {
+        "identifier": "Q19616",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Raimondo Santoro": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Rambouillet": {
+        "identifier": "Q191119",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Redipuglia": {
+        "identifier": "Q18503557",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Reggio Calabria": {
+        "identifier": "Q8471",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Regione": {
+        "identifier": "Q1222",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Renato Dell’Andro": {
+        "identifier": "Q3932656",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Repubblica": {
+        "identifier": "Q1014",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Repubblica Democratica del Congo": {
+        "identifier": "Q974",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Repubblica Federale Tedesca": {
+        "identifier": "Q713750",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Repubblica Federale d’Austria": {
+        "identifier": "Q40",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Repubblica Italiana": {
+        "identifier": "NIL",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Repubblica araba egiziana": {
+        "identifier": "Q79",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Repubblica federale tedesca": {
+        "identifier": "Q713750",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Repubblica federativa socialista jugoslava": {
+        "identifier": "Q36704",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Repubblica italiana": {
+        "identifier": "Q38",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Repubblicano": {
+        "identifier": "Q767560",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Rhodesia": {
+        "identifier": "Q217169",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Riccardo Bauer": {
+        "identifier": "Q3430358",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Rieti": {
+        "identifier": "Q13396",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Ripamonti": {
+        "identifier": "Q3651570",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Robert Schuman": {
+        "identifier": "Q15981",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Rogers": {
+        "identifier": "Q433180",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Rognoni": {
+        "identifier": "Q1748746",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Roma": {
+        "identifier": "Q220",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Romania": {
+        "identifier": "Q218",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Rome": {
+        "identifier": "Q220",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Rosa": {
+        "identifier": "Q4015128",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Rossi": {
+        "identifier": "Q3894432",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Ruggero Lombardi": {
+        "identifier": "Q104832781",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Rumor": {
+        "identifier": "Q316288",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Russo": {
+        "identifier": "Q3659814",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Russo Perez": {
+        "identifier": "Q16658125",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "République Arabe Unie": {
+        "identifier": "Q170468",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Röpke": {
+        "identifier": "Q62444",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "S. Paolo": {
+        "identifier": "Q9200",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "S. Tommaso": {
+        "identifier": "Q9438",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "S. Tommaso d’Aquino": {
+        "identifier": "Q9438",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "S. Vincenzo": {
+        "identifier": "Q1528836",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Sadat": {
+        "identifier": "Q42013",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Sala": {
+        "identifier": "Q3765731",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Salerno": {
+        "identifier": "Q1083",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Salizzoni": {
+        "identifier": "Q3617210",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Salvador Allende": {
+        "identifier": "Q440",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "San Francisco": {
+        "identifier": "Q62",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "San Giovanni in Fiore": {
+        "identifier": "Q53969",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "San Paolo": {
+        "identifier": "Q174",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "San Tommaso": {
+        "identifier": "Q9438",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Santa": {
+        "identifier": "Q229190",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Santiago del Cile": {
+        "identifier": "Q2887",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Santo Padre": {
+        "identifier": "Q2604",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Saragat": {
+        "identifier": "Q1238",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Sardegna": {
+        "identifier": "Q1462",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Sarti": {
+        "identifier": "Q365166",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Sassari": {
+        "identifier": "Q13629",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Savona": {
+        "identifier": "Q13320",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Scaglia": {
+        "identifier": "Q3766748",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Scalfaro": {
+        "identifier": "Q1228",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Scheel": {
+        "identifier": "Q2571",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Schroeder": {
+        "identifier": "Q94907858",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Schumann": {
+        "identifier": "Q282882",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Scoppola": {
+        "identifier": "Q1025467",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Segni": {
+        "identifier": "Q1240",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Segretario": {
+        "identifier": "Q434786",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Segretario Generale": {
+        "identifier": "Q956836",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Segretario Politico": {
+        "identifier": "Q316288",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Segretario del Partito": {
+        "identifier": "Q434786",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Segretario di Stato": {
+        "identifier": "Q918739",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Segretario generale della Presidenza": {
+        "identifier": "Q105306735",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Segretario politico": {
+        "identifier": "Q273228",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Serravalle": {
+        "identifier": "Q1961631",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Sezione": {
+        "identifier": "Q3866579",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Sezze": {
+        "identifier": "Q128206",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Sforza": {
+        "identifier": "Q463243",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Sgarlata": {
+        "identifier": "Q16575674",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Sicilia": {
+        "identifier": "Q1460",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Siena": {
+        "identifier": "Q2751",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Signor Primo ministro": {
+        "identifier": "Q23333",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Signor ministro": {
+        "identifier": "Q315568",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Signora Wilson": {
+        "identifier": "Q75319784",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Signora de Valdés": {
+        "identifier": "Q6136764",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Signorello": {
+        "identifier": "Q3876364",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Silone": {
+        "identifier": "Q168431",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Sindacati": {
+        "identifier": "Q178790",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Sindaco": {
+        "identifier": "Q98446077",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Siracusa": {
+        "identifier": "Q13670",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Siri": {
+        "identifier": "Q473539",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Socialista": {
+        "identifier": "Q590750",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Socialista Democratico": {
+        "identifier": "Q665335",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Società per l’organizzazione internazionale": {
+        "identifier": "Q3963401",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Sommo Pontefice": {
+        "identifier": "Q2604",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Sovrano": {
+        "identifier": "Q128245",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Spadolini": {
+        "identifier": "Q332709",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Sparapani": {
+        "identifier": "Q110819813",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Spinelli": {
+        "identifier": "Q3634690",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Stagni": {
+        "identifier": "Q105839097",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Stambolic": {
+        "identifier": "Q115471",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Stammati": {
+        "identifier": "Q3757131",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Stati Uniti": {
+        "identifier": "Q30",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Stefano Brun": {
+        "identifier": "Q55226044",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Stefano Riccio": {
+        "identifier": "Q19468748",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Sturzo": {
+        "identifier": "Q735770",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Sua": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "no"
+    },
+    "Sua Santità Pio XII": {
+        "identifier": "Q2604",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Sud": {
+        "identifier": "Q207989",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Sud Vietnam": {
+        "identifier": "Q180573",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Sud-Est asiatico": {
+        "identifier": "Q11708",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Sullo": {
+        "identifier": "Q3745884",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Sulmona": {
+        "identifier": "Q50157",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Svezia": {
+        "identifier": "Q34",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Syrie": {
+        "identifier": "Q858",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Sénégal": {
+        "identifier": "Q1041",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Tambroni": {
+        "identifier": "Q314004",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Tanassi": {
+        "identifier": "Q3849140",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Taranto": {
+        "identifier": "Q13498",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Targetti": {
+        "identifier": "Q3742688",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Taviani": {
+        "identifier": "Q1379277",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Teheran": {
+        "identifier": "Q3616",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Terlizzi": {
+        "identifier": "Q51852",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Terracini": {
+        "identifier": "Q4003497",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Terrasanta": {
+        "identifier": "Q48175",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Thailandia": {
+        "identifier": "Q869",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Thorn": {
+        "identifier": "Q295128",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Togliatti": {
+        "identifier": "Q310158",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Togni": {
+        "identifier": "Q3771530",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Tolloy": {
+        "identifier": "Q16561152",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Tomaso Smith": {
+        "identifier": "Q3992576",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Tommaso d’Aquino": {
+        "identifier": "Q9438",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Torino": {
+        "identifier": "Q495",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Trani": {
+        "identifier": "Q13495",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Trapani": {
+        "identifier": "Q13664",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Tremaglia": {
+        "identifier": "Q1514742",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Tremelloni": {
+        "identifier": "Q3939205",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Trento": {
+        "identifier": "Q3376",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Trieste": {
+        "identifier": "Q546",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Tristan Tzara": {
+        "identifier": "Q16409",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Troisi": {
+        "identifier": "Q27901781",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Tunisi": {
+        "identifier": "Q3572",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Tunisia": {
+        "identifier": "Q948",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Tunisie": {
+        "identifier": "Q948",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Tupini": {
+        "identifier": "Q4003498",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Turchia": {
+        "identifier": "Q43",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "URSS": {
+        "identifier": "Q15180",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Udine": {
+        "identifier": "Q2790",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Ufficio Internazionale del Lavoro": {
+        "identifier": "Q54129",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Ulisse Pucci": {
+        "identifier": "NIL",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Umberto Calosso": {
+        "identifier": "Q4003345",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Ungheria": {
+        "identifier": "Q28",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Union Valdotaine": {
+        "identifier": "Q370936",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Unione Europea Occidentale": {
+        "identifier": "Q189946",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Unione Sovietica": {
+        "identifier": "Q15180",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Unione italiana delle Camere di Commercio": {
+        "identifier": "Q21236933",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Unione sovietica": {
+        "identifier": "Q15180",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Unioni Professionali": {
+        "identifier": "NIL",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Unioni Professionali Cattoliche": {
+        "identifier": "NIL",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Universitari": {
+        "identifier": "Q3091708",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Universitari Cattolici": {
+        "identifier": "Q3091708",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Universitari Cattolici Italiani": {
+        "identifier": "Q3091708",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Universitari Italiani di A. C.": {
+        "identifier": "Q3091708",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Universitari Italiani di A.C.": {
+        "identifier": "Q3091708",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Università": {
+        "identifier": "Q3918",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Università Cattolica": {
+        "identifier": "Q229022",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Università Cattolica del S. Cuore": {
+        "identifier": "Q229022",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Università Cattolica del Sacro Cuore": {
+        "identifier": "Q229022",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Università di Perugia": {
+        "identifier": "Q748085",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "Urss": {
+        "identifier": "Q15180",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Usa": {
+        "identifier": "Q30",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "V.E": {
+        "identifier": "Q343514",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Varsavia": {
+        "identifier": "Q270",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Vecchietti": {
+        "identifier": "Q3765812",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Veneto": {
+        "identifier": "Q1243",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Venezia": {
+        "identifier": "Q641",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Venezuela": {
+        "identifier": "Q717",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Verde": {
+        "identifier": "Q3659944",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Verona": {
+        "identifier": "Q2028",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Vicario": {
+        "identifier": "Q2604",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Vice Presidente": {
+        "identifier": "Q921516",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Vicenza": {
+        "identifier": "Q6537",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Vienna": {
+        "identifier": "Q1741",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Viglianesi": {
+        "identifier": "Q2631089",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Villadossola": {
+        "identifier": "Q23726",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Viterbo": {
+        "identifier": "Q13395",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Vittorelli": {
+        "identifier": "Q22669177",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Vittorio Veneto": {
+        "identifier": "Q47578",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Vostra Eccellenza": {
+        "identifier": "Q2356230",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Washington": {
+        "identifier": "Q61",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Willy Brandt": {
+        "identifier": "Q2514",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Wilson": {
+        "identifier": "Q128956",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Zaccagnini": {
+        "identifier": "Q817307",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Zambia": {
+        "identifier": "Q953",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "Zoli": {
+        "identifier": "Q366104",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "Zuccarini": {
+        "identifier": "Q50772684",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "alleanza": {
+        "identifier": "Q7184",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "amici dell’onorevole Moro": {
+        "identifier": "NIL",
+        "type": "ORG",
+        "valid": "no"
+    },
+    "capitale": {
+        "identifier": "Q220",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "capitale d’Italia": {
+        "identifier": "Q220",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "capo dello Stato": {
+        "identifier": "Q1238",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "città": {
+        "identifier": "Q3519",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "collega": {
+        "identifier": "Q76297",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "collega egiziano": {
+        "identifier": "Q6084719",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "collega ungherese": {
+        "identifier": "Q1241512",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "coltivatori diretti": {
+        "identifier": "Q3682549",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "commissione": {
+        "identifier": "Q3684787",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "commissione dei 75": {
+        "identifier": "Q3684787",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "commissione dei settantacinque": {
+        "identifier": "Q3684787",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "comunità": {
+        "identifier": "Q52847",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "conferenza per la pace": {
+        "identifier": "Q322943",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "consiglio politico europeo": {
+        "identifier": "Q8908",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "continente": {
+        "identifier": "Q15",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "continente americano": {
+        "identifier": "Q828",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "costituente": {
+        "identifier": "Q1053185",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "d.c.": {
+        "identifier": "Q815348",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "dc": {
+        "identifier": "Q815348",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "dell’Ovest": {
+        "identifier": "Q27496",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "democrazia cristiana": {
+        "identifier": "Q815348",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "esercito": {
+        "identifier": "Q37726",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "federazione unitaria sindacale": {
+        "identifier": "Q3740897",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "forze armate": {
+        "identifier": "Q8473",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "governatore della Banca d’Italia": {
+        "identifier": "Q1056557",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "impegno democratico": {
+        "identifier": "NIL",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "lei": {
+        "identifier": "Q2496",
+        "type": "PER",
+        "valid": "no"
+    },
+    "ministro": {
+        "identifier": "Q2514",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "ministro degli esteri": {
+        "identifier": "Q1240",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "ministro federale austriaco degli Esteri": {
+        "identifier": "Q72856",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "organizzazione": {
+        "identifier": "Q3682549",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "organizzazione delle Nazioni unite": {
+        "identifier": "Q1065",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "ospite": {
+        "identifier": "Q346240",
+        "type": "PER",
+        "valid": "no"
+    },
+    "paese": {
+        "identifier": "Q38",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "paesi latinoamericani": {
+        "identifier": "NIL",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "papa": {
+        "identifier": "Q2604",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "partiti": {
+        "identifier": "Q7278",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "partito": {
+        "identifier": "Q815348",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "partito comunista": {
+        "identifier": "Q461886",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "partito demo-cristiano": {
+        "identifier": "Q815348",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "partito popolare italiano": {
+        "identifier": "Q2717398",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "partito repubblicano italiano": {
+        "identifier": "Q767560",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "partito socialista": {
+        "identifier": "Q590750",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "partito socialista democratico italiano": {
+        "identifier": "Q665335",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "partito socialista italiano": {
+        "identifier": "Q590750",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "patto di Bruxelles": {
+        "identifier": "Q7988404",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "piazza San Ferdinando": {
+        "identifier": "NIL",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "portavoce italiano": {
+        "identifier": "Q2895926",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "presidente": {
+        "identifier": "Q4003497",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "presidente del consiglio": {
+        "identifier": "Q50005",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "presidente della sottocommissione": {
+        "identifier": "Q4003498",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "re Feisal": {
+        "identifier": "Q217167",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "re Gustavo": {
+        "identifier": "Q52878",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "regione": {
+        "identifier": "Q1447",
+        "type": "LOC",
+        "valid": "yes"
+    },
+    "relatore": {
+        "identifier": "Q65496139",
+        "type": "PER",
+        "valid": "no"
+    },
+    "repubblicano": {
+        "identifier": "Q767560",
+        "type": "ORG",
+        "valid": "no"
+    },
+    "segretario del partito fascista repubblicano": {
+        "identifier": "Q742284",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "segretario generale": {
+        "identifier": "Q1260",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "signora Frei": {
+        "identifier": "Q5695438",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "signora Johnson": {
+        "identifier": "Q233648",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "sindaco": {
+        "identifier": "Q3749537",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "socialdemocratico": {
+        "identifier": "Q665335",
+        "type": "ORG",
+        "valid": "no"
+    },
+    "unione europea": {
+        "identifier": "Q458",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "uomo qualunque": {
+        "identifier": "Q2275157",
+        "type": "ORG",
+        "valid": "yes"
+    },
+    "vaticana": {
+        "identifier": "Q237",
+        "type": "LOC",
+        "valid": "no"
+    },
+    "vicepresidente": {
+        "identifier": "Q209989",
+        "type": "PER",
+        "valid": "yes"
+    },
+    "vostra eccellenza": {
+        "identifier": "Q208301",
+        "type": "PER",
+        "valid": "yes"
+    }
+}
