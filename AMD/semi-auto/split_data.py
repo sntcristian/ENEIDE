@@ -10,7 +10,7 @@ df_train['split'] = 'train'
 df_dev['split'] = 'dev'
 df_test['split'] = 'test'
 
-df_combined = pd.concat([df_train, df_dev, df_test], ignore_index=True)
+df_combined = pd.concat([df_train, df_dev, df_test])
 
 split_size = len(df_combined) // 3
 df_part1 = df_combined.iloc[:split_size]
@@ -22,10 +22,10 @@ remainder = len(df_combined) % 3
 if remainder:
     df_part3 = df_combined.iloc[2*split_size:]
 
-df_part1.to_csv('extra_annotations1.csv', index=False)
+df_part1.to_csv('extra_annotations1_test.csv', index=False)
 
 # Salva la Parte 2
-df_part2.to_csv('extra_annotations2.csv', index=False)
+df_part2.to_csv('extra_annotations2_test.csv', index=False)
 
 # Salva la Parte 3
-df_part3.to_csv('extra_annotations3.csv', index=False)
+df_part3.to_csv('extra_annotations3_test.csv', index=False)
