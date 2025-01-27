@@ -55,5 +55,5 @@ def eval_ed(path_data, path_results):
     fn_file.close()
 
 
-eval_ed(path_data="./DZ/v0.1", path_results="./disambiguation_results/DZ/mgenre")
+eval_ed(path_data="./DZ/v0.1", path_results="./disambiguation_results/DZ/mgenre_impresso")
 
