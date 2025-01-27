@@ -17,6 +17,7 @@ https://digitalzibaldone.net/node/p1049_1,Orazio,300,306,PER,NIL,99.41
 https://digitalzibaldone.net/node/p1052_3,Cic.,59,63,PER,NIL,92.75
 https://digitalzibaldone.net/node/p1054_2,Sulzer,146,152,PER,NIL,42.98
 https://digitalzibaldone.net/node/p1054_2,Forcellini,330,340,WORK,NIL,49.06
+https://digitalzibaldone.net/node/p1054_2,Saggio sugli Errori popol. degli antichi,347,387,WORK,Q131928,10.01
 https://digitalzibaldone.net/node/p1055_2,Soave,128,133,PER,NIL,74.15
 https://digitalzibaldone.net/node/p1104_1,Franciosini,502,513,PER,NIL,21.51
 https://digitalzibaldone.net/node/p1104_1,la Crusca,650,659,WORK,NIL,55.15
@@ -36,6 +37,7 @@ https://digitalzibaldone.net/node/p1230_1,Crusca,162,168,WORK,NIL,50.43
 https://digitalzibaldone.net/node/p1230_1,Soderini,203,211,PER,Q2420669,96.65
 https://digitalzibaldone.net/node/p1230_1,Crusca,458,464,WORK,NIL,49.05
 https://digitalzibaldone.net/node/p1230_1,M. Pace da Certaldo,528,547,PER,NIL,58.43
+https://digitalzibaldone.net/node/p1230_1,Lettera a V. Monti,771,789,WORK,Q15710981,76.84
 https://digitalzibaldone.net/node/p1230_1,Crusca,870,876,WORK,Q15710981,48.63
 https://digitalzibaldone.net/node/p1230_1,Crusca,983,989,WORK,Q15710981,11.68
 https://digitalzibaldone.net/node/p1230_1,Crusca,1094,1100,WORK,NIL,39.18
@@ -55,6 +57,7 @@ https://digitalzibaldone.net/node/p1366_1,Bocc.,27,32,PER,NIL,8.46
 https://digitalzibaldone.net/node/p1366_1,Grecia,323,329,LOC,Q41,98.49
 https://digitalzibaldone.net/node/p1366_1,Proposta,590,598,WORK,NIL,76.16
 https://digitalzibaldone.net/node/p1378_1,Gelli,721,726,PER,Q87758056,74.29
+https://digitalzibaldone.net/node/p1378_1,Circe,728,733,WORK,Q187602,100.0
 https://digitalzibaldone.net/node/p1378_1,Segneri,790,797,PER,NIL,56.87
 https://digitalzibaldone.net/node/p1445_1,Thomas,129,135,PER,Q9438,46.92
 https://digitalzibaldone.net/node/p1445_1,Essai sur les Eloges,136,156,WORK,NIL,0.09
@@ -70,6 +73,7 @@ https://digitalzibaldone.net/node/p1671_1,Sismondi,1084,1092,PER,NIL,11.03
 https://digitalzibaldone.net/node/p1671_1,Lusiade,1099,1106,WORK,NIL,78.39
 https://digitalzibaldone.net/node/p1671_1,Gerusalemme,1137,1148,WORK,Q1218,99.99
 https://digitalzibaldone.net/node/p1671_1,il Furioso,1321,1331,WORK,NIL,11.52
+https://digitalzibaldone.net/node/p1671_1,il Goffredo,1340,1351,WORK,Q552234,37.36
 https://digitalzibaldone.net/node/p1678_1,monti,383,388,PER,Q1286,75.3
 https://digitalzibaldone.net/node/p1678_1,Proposta,390,398,WORK,NIL,12.71
 https://digitalzibaldone.net/node/p1678_1,Crusca,637,643,WORK,NIL,41.64
@@ -77,9 +81,11 @@ https://digitalzibaldone.net/node/p1678_1,Crusca,691,697,WORK,NIL,49.32
 https://digitalzibaldone.net/node/p1678_1,Crusca,751,757,WORK,NIL,22.02
 https://digitalzibaldone.net/node/p1699_2,Veterinaria,1323,1334,WORK,Q170201,87.2
 https://digitalzibaldone.net/node/p1699_2,Cioni,1391,1396,PER,NIL,30.66
+https://digitalzibaldone.net/node/p1699_2,Lettera,1398,1405,WORK,Q133492,22.08
 https://digitalzibaldone.net/node/p1699_2,G. Capponi,1408,1418,PER,NIL,54.27
 https://digitalzibaldone.net/node/p1794_1,Coti re de' Paflagoni,230,251,PER,NIL,34.78
 https://digitalzibaldone.net/node/p1794_1,῾Eλληνικῶν ἱστοριῶν,335,354,WORK,Q1137656,6.61
+https://digitalzibaldone.net/node/p1822_1,Sallustio,605,614,WORK,Q7170,96.33
 https://digitalzibaldone.net/node/p1822_1,Dureau Delamalle,618,634,PER,NIL,31.81
 https://digitalzibaldone.net/node/p1831_1,mezzogiorno d'Europa,296,316,LOC,Q27509,89.38
 https://digitalzibaldone.net/node/p1858_1,Pittagora,279,288,PER,NIL,99.37
@@ -170,6 +176,7 @@ https://digitalzibaldone.net/node/p3235_2,Lips.,70,75,LOC,NIL,5.3
 https://digitalzibaldone.net/node/p3235_2,Ast.,300,304,PER,NIL,5.38
 https://digitalzibaldone.net/node/p3235_2,Astius,794,800,PER,NIL,13.87
 https://digitalzibaldone.net/node/p3235_2,Timeo,1453,1458,PER,Q15886004,98.91
+https://digitalzibaldone.net/node/p3235_2,Lessico Platonico,1466,1483,WORK,Q8096,40.22
 https://digitalzibaldone.net/node/p3235_2,Fabric.,1492,1499,PER,NIL,30.95
 https://digitalzibaldone.net/node/p3235_2,B. G.,1500,1505,WORK,NIL,16.3
 https://digitalzibaldone.net/node/p3283_2,Gloss.,754,760,WORK,NIL,34.78
@@ -197,6 +204,7 @@ https://digitalzibaldone.net/node/p3569_2,Forcellini,597,607,WORK,NIL,54.86
 https://digitalzibaldone.net/node/p3579_1,Cristo,920,926,PER,Q642420,95.67
 https://digitalzibaldone.net/node/p3593_1,Ugone,283,288,PER,NIL,0.4
 https://digitalzibaldone.net/node/p3593_1,Goffredo,291,299,PER,Q552234,61.99
+https://digitalzibaldone.net/node/p3593_1,Rinaldo,311,318,PER,Q727316,37.17
 https://digitalzibaldone.net/node/p3621_2,Forcell.,53,61,WORK,NIL,33.2
 https://digitalzibaldone.net/node/p3621_2,Forcellini,150,160,PER,NIL,48.79
 https://digitalzibaldone.net/node/p3636_1,Alberti,674,681,PER,Q182046,99.93
