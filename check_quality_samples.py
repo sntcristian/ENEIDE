@@ -31,7 +31,7 @@ for item in json_data:
 num_correct_annotations = annotations - (tot_wrong_annotations + tot_wrong_boundaries + tot_wrong_identifiers +
                                         tot_wrong_types + tot_partially_wrong_types + tot_partially_wrong_identifiers)
 
-num_all_labels = num_correct_annotations + tot_missing_annotations
+num_all_labels = annotations + tot_missing_annotations
 
 precision = num_correct_annotations/annotations
 recall = num_correct_annotations/num_all_labels
