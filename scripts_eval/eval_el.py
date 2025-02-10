@@ -4,6 +4,8 @@ def compute_match(annotation1, annotation2, match_type):
     start_pos1 = int(annotation1["start_pos"])
     end_pos1 = int(annotation1["end_pos"])
     wiki_id1 = annotation1["identifier"]
+    if not wiki_id1.startswith("Q"):
+        wiki_id1 = "NIL"
     start_pos2 = int(annotation2["start_pos"])
     end_pos2 = int(annotation2["end_pos"])
     wiki_id2 = annotation2["identifier"]
@@ -63,26 +65,10 @@ with open("../results/EL/DZ/elite/output.csv", "r", encoding="utf-8") as f3:
     model_result = list(model_result)
 f3.close()
 
-data_per = [row for row in data if row["type"]=="PER"]
-model_result_per = [row for row in model_result if row["type"]=="PER"]
-
-data_loc = [row for row in data if row["type"]=="LOC"]
-model_result_loc = [row for row in model_result if row["type"]=="LOC"]
-
-data_work = [row for row in data if row["type"]=="WORK"]
-model_result_work = [row for row in model_result if row["type"]=="WORK"]
 
 results_exact = eval_ner(data, model_result, "exact")
 results_relaxed = eval_ner(data, model_result, "relaxed")
 
-results_per_exact = eval_ner(data_per, model_result_per, "exact")
-results_per_relaxed = eval_ner(data_per, model_result_per, "relaxed")
-
-results_work_exact = eval_ner(data_work, model_result_work, "exact")
-results_work_relaxed = eval_ner(data_work, model_result_work, "relaxed")
-
-results_loc_exact = eval_ner(data_loc, model_result_loc, "exact")
-results_loc_relaxed = eval_ner(data_loc, model_result_loc, "relaxed")
 
 with open("../results/EL/DZ/elite/results.txt", "w") as output:
     output.write("Results with exact match for all classes:\n\n")
@@ -101,50 +87,4 @@ with open("../results/EL/DZ/elite/results.txt", "w") as output:
     output.write("Recall: " + str(results_relaxed[4]) + "\n")
     output.write("F1: " + str(results_relaxed[5]) + "\n\n")
 
-    output.write("Results with exact match for class Person:\n\n")
-    output.write("True Positives: " + str(results_per_exact[0]) + "\n")
-    output.write("False Positives: " + str(results_per_exact[1]) + "\n")
-    output.write("False Negatives: " + str(results_per_exact[2]) + "\n")
-    output.write("Precision: " + str(results_per_exact[3]) + "\n")
-    output.write("Recall: " + str(results_per_exact[4]) + "\n")
-    output.write("F1: " + str(results_per_exact[5]) + "\n\n")
-
-    output.write("Results with relaxed match for class Person:\n\n")
-    output.write("True Positives: " + str(results_per_relaxed[0]) + "\n")
-    output.write("False Positives: " + str(results_per_relaxed[1]) + "\n")
-    output.write("False Negatives: " + str(results_per_relaxed[2]) + "\n")
-    output.write("Precision: " + str(results_per_relaxed[3]) + "\n")
-    output.write("Recall: " + str(results_per_relaxed[4]) + "\n")
-    output.write("F1: " + str(results_per_relaxed[5]) + "\n\n")
-
-    output.write("Results with exact match for class Work:\n\n")
-    output.write("True Positives: " + str(results_work_exact[0]) + "\n")
-    output.write("False Positives: " + str(results_work_exact[1]) + "\n")
-    output.write("False Negatives: " + str(results_work_exact[2]) + "\n")
-    output.write("Precision: " + str(results_work_exact[3]) + "\n")
-    output.write("Recall: " + str(results_work_exact[4]) + "\n")
-    output.write("F1: " + str(results_work_exact[5]) + "\n\n")
-
-    output.write("Results with relaxed match for class Work:\n\n")
-    output.write("True Positives: " + str(results_work_relaxed[0]) + "\n")
-    output.write("False Positives: " + str(results_work_relaxed[1]) + "\n")
-    output.write("False Negatives: " + str(results_work_relaxed[2]) + "\n")
-    output.write("Precision: " + str(results_work_relaxed[3]) + "\n")
-    output.write("Recall: " + str(results_work_relaxed[4]) + "\n")
-    output.write("F1: " + str(results_work_relaxed[5]) + "\n\n")
-
-    output.write("Results with exact match for class Location:\n\n")
-    output.write("True Positives: " + str(results_loc_exact[0]) + "\n")
-    output.write("False Positives: " + str(results_loc_exact[1]) + "\n")
-    output.write("False Negatives: " + str(results_loc_exact[2]) + "\n")
-    output.write("Precision: " + str(results_loc_exact[3]) + "\n")
-    output.write("Recall: " + str(results_loc_exact[4]) + "\n")
-    output.write("F1: " + str(results_loc_exact[5]) + "\n\n")
-
-    output.write("Results with relaxed match for class Location:\n\n")
-    output.write("True Positives: " + str(results_loc_relaxed[0]) + "\n")
-    output.write("False Positives: " + str(results_loc_relaxed[1]) + "\n")
-    output.write("False Negatives: " + str(results_loc_relaxed[2]) + "\n")
-    output.write("Precision: " + str(results_loc_relaxed[3]) + "\n")
-    output.write("Recall: " + str(results_loc_relaxed[4]) + "\n")
-    output.write("F1: " + str(results_loc_relaxed[5]) + "\n\n")
+output.close()
