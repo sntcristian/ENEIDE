@@ -25,7 +25,7 @@ def compute_match(annotation1, annotation2, match_type):
         return None
 
 
-def eval_ner(data, model_result, match_type):
+def eval_nel(data, model_result, match_type):
     tp = []  # true positive
     fp = []  # false positive
     fn = []  # false negative
@@ -49,8 +49,8 @@ def eval_ner(data, model_result, match_type):
         if entity2 not in tp:
             fp.append(entity2)
 
-    precision = len(matches) / (len(matches) + len(fp))
-    recall = len(matches) / (len(matches) + len(fn))
+    precision = (len(matches) / (len(matches) + len(fp)))*100
+    recall = (len(matches) / (len(matches) + len(fn)))*100
     f1 = (2 * precision * recall) / (precision + recall)
     return [len(tp), len(fp), len(fn), precision, recall, f1]
 
@@ -60,17 +60,17 @@ with open("../DZ/v0.1/annotations_test.csv", "r", encoding="utf-8") as f2:
     data = list(data)
 f2.close()
 
-with open("../results/EL/DZ/elite/output.csv", "r", encoding="utf-8") as f3:
+with open("../results/EL/DZ/blink/output.csv", "r", encoding="utf-8") as f3:
     model_result = csv.DictReader(f3)
     model_result = list(model_result)
 f3.close()
 
 
-results_exact = eval_ner(data, model_result, "exact")
-results_relaxed = eval_ner(data, model_result, "relaxed")
+results_exact = eval_nel(data, model_result, "exact")
+results_relaxed = eval_nel(data, model_result, "relaxed")
 
 
-with open("../results/EL/DZ/elite/results.txt", "w") as output:
+with open("../results/EL/DZ/blink/results.txt", "w") as output:
     output.write("Results with exact match for all classes:\n\n")
     output.write("True Positives: " + str(results_exact[0]) + "\n")
     output.write("False Positives: " + str(results_exact[1]) + "\n")
@@ -88,3 +88,61 @@ with open("../results/EL/DZ/elite/results.txt", "w") as output:
     output.write("F1: " + str(results_relaxed[5]) + "\n\n")
 
 output.close()
+
+
+def eval_nil(data, model_result, match_type):
+    tp = []  # true positive
+    fp = []  # false positive
+    fn = []  # false negative
+    matches = []  # matched annotations
+    for entity1 in data:
+        id1 = entity1["doc_id"]
+        for entity2 in model_result:
+            id2 = entity2["doc_id"]
+            if id1==id2:
+                match_value = compute_match(entity1, entity2, match_type)
+                if match_value==True:
+                    matches.append(entity1)
+                    tp.append(entity2)
+                    break
+
+    for entity1 in data:
+        if entity1 not in matches:
+            fn.append(entity1)
+
+    for entity2 in model_result:
+        if entity2 not in tp:
+            fp.append(entity2)
+
+    precision = len(matches) / (len(matches) + len(fp))*100
+    recall = len(matches) / (len(matches) + len(fn))*100
+    f1 = 2 * (precision * recall) / (precision + recall)
+    return [len(tp), len(fp), len(fn), precision, recall, f1]
+
+# data_nil = [row for row in data if not row["identifier"].startswith("Q")]
+# predictions_nil = [row for row in model_result if row["identifier"] == "NIL"]
+#
+#
+# results_nil_exact = eval_nil(data_nil, predictions_nil, "exact")
+# results_nil_relaxed = eval_nel(data_nil, predictions_nil, "relaxed")
+#
+#
+# with open("../results/EL/DZ/blink/results_nil.txt", "w") as output:
+#     output.write("Results with exact match for all classes:\n\n")
+#     output.write("True Positives: " + str(results_nil_exact[0]) + "\n")
+#     output.write("False Positives: " + str(results_nil_exact[1]) + "\n")
+#     output.write("False Negatives: " + str(results_nil_exact[2]) + "\n")
+#     output.write("Precision: " + str(results_nil_exact[3]) + "\n")
+#     output.write("Recall: " + str(results_nil_exact[4]) + "\n")
+#     output.write("F1: " + str(results_nil_exact[5]) + "\n\n")
+#
+#     output.write("Results with relaxed match for all classes:\n\n")
+#     output.write("True Positives: " + str(results_nil_relaxed[0]) + "\n")
+#     output.write("False Positives: " + str(results_nil_relaxed[1]) + "\n")
+#     output.write("False Negatives: " + str(results_nil_relaxed[2]) + "\n")
+#     output.write("Precision: " + str(results_nil_relaxed[3]) + "\n")
+#     output.write("Recall: " + str(results_nil_relaxed[4]) + "\n")
+#     output.write("F1: " + str(results_nil_relaxed[5]) + "\n\n")
+#
+# output.close()
+
