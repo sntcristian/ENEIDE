@@ -23,7 +23,7 @@ def eval_ed(data, predictions):
 
 path_data = "../DZ/v0.1/"
 
-path_results = "../results/ED/DZ/elite_bugfix"
+path_results = "../results/ED/DZ/mgenre_impresso"
 
 with open(os.path.join(path_data, "annotations_test.csv"), "r", encoding="utf-8") as f1:
         data = list(csv.DictReader(f1, delimiter=","))
@@ -46,6 +46,7 @@ _,_,_,loc_accuracy = eval_ed(data_loc, predictions_loc)
 data_work = [row for row in data if row["type"]=="WORK"]
 predictions_work = [row for row in predictions if row["type"]=="WORK"]
 _,_,_,work_accuracy = eval_ed(data_work, predictions_work)
+
 
 with open(os.path.join(path_results, "result.txt"), "w") as output:
     output.write("True Positives: " + str(len(tp)) + "\n\n")
