@@ -29,7 +29,7 @@ document_142249.html,Democrazia Cristiana,173,193,ORG,Q815348,AMD,yes,train
 document_142249.html,partiti,77,84,ORG,Q7278,AMD,yes,train
 document_110003.html,S. Nicola,260,269,LOC,Q550514,NER,yes,dev
 document_110041.html,Fuci,1055,1059,ORG,Q3091708,AMD,no,dev
-document_110041.html,Dio,1596,1599,PER,Q190,NER,yes,dev
+document_110041.html,Dio,1596,1599,PER,Q825,NER,yes,dev
 document_110072.html,Presidente,3,13,PER,Q1255921,AMD,no,dev
 document_110072.html,Presidenza Centrale,398,417,ORG,,NER,no,dev
 document_110087.html,Repubblica sociale italiana,186,213,ORG,Q153660,AMD,yes,dev
@@ -352,119 +352,119 @@ document_141074.html,On,362,364,ORG,,NER,no,dev
 document_141082.html,Moro,29,33,PER,Q171834,AMD,yes,dev
 document_141082.html,ministro,3,11,PER,Q2514,AMD,no,dev
 document_141082.html,Farnesina,69,78,LOC,Q1423801,NER,yes,dev
-document_141111.html,Ella,73,77,PER,,NER,no,dev
-document_141111.html,Governo,185,192,ORG,,NER,no,dev
-document_141115.html,Commissione,55,66,ORG,Q3684787,AMD,no,dev
-document_141115.html,Commissione,358,369,ORG,Q3684787,AMD,no,dev
-document_141115.html,Camera,80,86,ORG,,NER,no,dev
-document_141115.html,Governo libico,168,182,ORG,,NER,no,dev
-document_141126.html,Commissione,169,180,ORG,Q3684787,AMD,no,dev
+document_141111.html,Ella,73,77,PER,Q6395370,NER,yes,dev
+document_141111.html,Governo italiano,185,201,ORG,Q3773971,NER,yes,dev
+document_141115.html,Commissione Esteri,55,73,ORG,Q110448080,AMD,yes,dev
+document_141115.html,Commissione,358,369,ORG,Q110448080,AMD,yes,dev
+document_141115.html,Camera,80,86,ORG,Q841424,NER,yes,dev
+document_141115.html,Governo libico,168,182,ORG,Q2054665,NER,yes,dev
+document_141126.html,Commissione,169,180,ORG,Q8880,AMD,yes,dev
 document_141126.html,Delegazione italiana,36,56,ORG,,NER,no,dev
-document_141126.html,Consiglio,95,104,ORG,,NER,no,dev
-document_141126.html,Governo,135,142,ORG,,NER,no,dev
-document_141126.html,Consiglio,360,369,ORG,,NER,no,dev
+document_141126.html,Consiglio,95,104,ORG,Q8886,NER,yes,dev
+document_141126.html,Governo,135,142,ORG,Q3773971,NER,yes,dev
+document_141126.html,Consiglio,360,369,ORG,Q8886,NER,yes,dev
 document_141129.html,Europe,413,419,LOC,Q46,AMD,no,dev
-document_141129.html,Parlamento,327,337,ORG,,NER,no,dev
+document_141129.html,Parlamento,327,337,ORG,Q1117578,NER,yes,dev
 document_141132.html,Paese,158,163,LOC,Q38,AMD,no,dev
-document_141132.html,Lei,21,24,PER,,NER,no,dev
-document_141132.html,Governo giapponese,31,49,ORG,,NER,no,dev
+document_141132.html,Lei,21,24,PER,Q403684,NER,yes,dev
+document_141132.html,Governo giapponese,31,49,ORG,Q529012,NER,yes,dev
 document_141138.html,Signori,61,68,PER,,NER,no,dev
 document_141150.html,Paese,264,269,LOC,Q38,AMD,no,dev
 document_141150.html,Presidente,217,227,PER,Q4003497,AMD,no,dev
-document_141150.html,Governo,150,157,ORG,,NER,no,dev
-document_141153.html,Governo italiano,75,91,ORG,,NER,no,dev
-document_141169.html,Ministro,36,44,PER,NIL,AMD,no,dev
+document_141150.html,Governo,150,157,ORG,Q3773971,NER,yes,dev
+document_141153.html,Governo italiano,75,91,ORG,Q3773971,NER,yes,dev
+document_141169.html,Ministro degli Affari Esteri italiano,36,73,PER,Q789842,AMD,yes,dev
 document_141196.html,continente,1016,1026,LOC,Q15,AMD,no,dev
 document_141196.html,continente,1341,1351,LOC,Q15,AMD,no,dev
-document_141199.html,Paese,214,219,LOC,Q38,AMD,no,dev
-document_141199.html,Ella,60,64,PER,,NER,no,dev
-document_141199.html,Governo sovietico,179,196,ORG,,NER,no,dev
-document_141199.html,Lei,237,240,PER,,NER,no,dev
+document_141199.html,Paese,214,219,LOC,Q15180,AMD,yes,dev
+document_141199.html,Ella,60,64,PER,Q184267,NER,yes,dev
+document_141199.html,Governo sovietico,179,196,ORG,Q2128,NER,yes,dev
+document_141199.html,Lei,237,240,PER,Q184267,NER,yes,dev
 document_141200.html,Signori,45,52,PER,,NER,no,dev
 document_141201.html,Ministre,44,52,PER,Q1884962,AMD,no,dev
-document_141203.html,Moro,165,169,PER,Q171834,AMD,no,dev
+document_141203.html,Moro,165,169,PER,Q171834,AMD,yes,dev
 document_141203.html,ministro,143,151,PER,Q2514,AMD,no,dev
-document_141203.html,Villa Madama,223,235,LOC,,NER,no,dev
-document_141210.html,Moro,30,34,PER,Q171834,AMD,no,dev
-document_141210.html,Moro,474,478,PER,Q171834,AMD,no,dev
+document_141203.html,Villa Madama,223,235,LOC,Q1267485,NER,yes,dev
+document_141210.html,Moro,30,34,PER,Q171834,AMD,yes,dev
+document_141210.html,Moro,474,478,PER,Q171834,AMD,yes,dev
 document_141210.html,ministro,3,11,PER,Q2514,AMD,no,dev
 document_141210.html,ministro,71,79,PER,Q2514,AMD,no,dev
-document_141210.html,Farnesina,58,67,ORG,,NER,no,dev
-document_141210.html,Manica,761,767,PER,,NER,no,dev
-document_141238.html,Aldo Moro,73,82,PER,Q171834,AMD,no,dev
-document_141238.html,San Paolo,324,333,LOC,Q174,AMD,no,dev
-document_141239.html,Moro,105,109,PER,Q171834,AMD,no,dev
+document_141210.html,Farnesina,58,67,ORG,Q1423801,NER,yes,dev
+document_141210.html,Manica,761,767,PER,Q34640,NER,yes,dev
+document_141238.html,Aldo Moro,73,82,PER,Q171834,AMD,yes,dev
+document_141238.html,San Paolo,324,333,LOC,NIL,AMD,yes,dev
+document_141239.html,Moro,105,109,PER,Q171834,AMD,yes,dev
 document_141239.html,alleanza,57,65,ORG,Q7184,AMD,no,dev
-document_141249.html,Aldo Moro,6,15,PER,Q171834,AMD,no,dev
-document_141249.html,Moro,1247,1251,PER,Q171834,AMD,no,dev
-document_141249.html,Paese,1567,1572,LOC,Q38,AMD,no,dev
-document_141249.html,Partiti,450,457,ORG,Q7278,AMD,no,dev
+document_141249.html,Aldo Moro,6,15,PER,Q171834,AMD,yes,dev
+document_141249.html,Moro,1247,1251,PER,Q171834,AMD,yes,dev
+document_141249.html,Paese,1567,1572,LOC,Q38,AMD,yes,dev
+document_141249.html,Partiti,450,457,ORG,Q7278,AMD,yes,dev
 document_141249.html,collega,1042,1049,PER,Q76297,AMD,no,dev
-document_141249.html,partiti,1061,1068,ORG,Q7278,AMD,no,dev
-document_141249.html,partito,931,938,ORG,Q815348,AMD,no,dev
-document_141249.html,Governo,1556,1563,ORG,,NER,no,dev
-document_142007.html,Moro,123,127,PER,Q171834,AMD,no,dev
+document_141249.html,partiti,1061,1068,ORG,Q7278,AMD,yes,dev
+document_141249.html,partito,931,938,ORG,Q815348,AMD,yes,dev
+document_141249.html,Governo,1556,1563,ORG,Q7188,NER,yes,dev
+document_142007.html,Moro,123,127,PER,Q171834,AMD,yes,dev
 document_142007.html,ministro,114,122,PER,Q2514,AMD,no,dev
 document_142013.html,collega,24,31,PER,Q76297,AMD,no,dev
-document_142013.html,paese,160,165,LOC,Q38,AMD,no,dev
-document_142013.html,Governo italiano,90,106,ORG,,NER,no,dev
+document_142013.html,paese,160,165,LOC,Q38,AMD,yes,dev
+document_142013.html,Governo italiano,90,106,ORG,Q3773971,NER,yes,dev
 document_142041.html,governo,161,168,ORG,,NER,no,dev
-document_142053.html,Moro,13,17,PER,Q171834,AMD,no,dev
+document_142053.html,Moro,13,17,PER,Q171834,AMD,yes,dev
 document_142053.html,ministro,4,12,PER,Q2514,AMD,no,dev
-document_142073.html,Senato,140,146,ORG,,NER,no,dev
-document_142073.html,Camera,153,159,ORG,,NER,no,dev
-document_142073.html,Governo,809,816,ORG,,NER,no,dev
-document_142083.html,Organizzazione,197,211,ORG,Q3091708,AMD,no,dev
-document_142083.html,Governo italiano,4,20,ORG,,NER,no,dev
-document_142100.html,Aldo Moro,393,402,PER,Q171834,AMD,no,dev
-document_142100.html,Europa,630,636,LOC,Q46,AMD,no,dev
-document_142100.html,Italia,552,558,LOC,Q38,AMD,no,dev
-document_142100.html,Paese,304,309,LOC,Q38,AMD,no,dev
+document_142073.html,Senato,140,146,ORG,Q633872,NER,yes,dev
+document_142073.html,Camera,153,159,ORG,Q841424,NER,yes,dev
+document_142073.html,Governo,809,816,ORG,Q3773901,NER,yes,dev
+document_142083.html,Organizzazione,197,211,ORG,Q1065,AMD,yes,dev
+document_142083.html,Governo italiano,4,20,ORG,Q3773971,NER,yes,dev
+document_142100.html,Aldo Moro,393,402,PER,Q171834,AMD,yes,dev
+document_142100.html,Europa,630,636,LOC,Q46,AMD,yes,dev
+document_142100.html,Italia,552,558,LOC,Q38,AMD,yes,dev
+document_142100.html,Paese,304,309,LOC,Q38,AMD,yes,dev
 document_142100.html,Paese,582,587,LOC,Q38,AMD,no,dev
-document_142100.html,democrazia cristiana,409,429,ORG,Q815348,AMD,no,dev
-document_142100.html,partiti,205,212,ORG,Q7278,AMD,no,dev
+document_142100.html,democrazia cristiana,409,429,ORG,Q815348,AMD,yes,dev
+document_142100.html,partiti,205,212,ORG,Q7278,AMD,yes,dev
 document_142100.html,presidente,368,378,PER,Q4003497,AMD,no,dev
 document_142100.html,Consiglio,383,392,ORG,,NER,no,dev
 document_142130.html,ministro,58,66,PER,Q2514,AMD,no,dev
 document_142130.html,ministro,102,110,PER,Q2514,AMD,no,dev
-document_142130.html,paese,234,239,LOC,Q38,AMD,no,dev
-document_142135.html,partiti,102,109,ORG,Q7278,AMD,no,dev
-document_142135.html,partito,1010,1017,ORG,Q815348,AMD,no,dev
+document_142130.html,paese,234,239,LOC,Q38,AMD,yes,dev
+document_142135.html,partiti,102,109,ORG,Q7278,AMD,yes,dev
+document_142135.html,partito,1010,1017,ORG,Q815348,AMD,yes,dev
 document_142135.html,Congresso,946,955,ORG,,NER,no,dev
 document_142151.html,Commissione,898,909,ORG,Q3684787,AMD,no,dev
-document_142151.html,Moro,128,132,PER,Q171834,AMD,no,dev
-document_142151.html,Moro,430,434,PER,Q171834,AMD,no,dev
-document_142151.html,Moro,550,554,PER,Q171834,AMD,no,dev
-document_142151.html,Moro,759,763,PER,Q171834,AMD,no,dev
-document_142152.html,Moro,164,168,PER,Q171834,AMD,no,dev
-document_142152.html,Moro,413,417,PER,Q171834,AMD,no,dev
-document_142152.html,Presidente,4,14,PER,Q4003497,AMD,no,dev
+document_142151.html,Moro,128,132,PER,Q171834,AMD,yes,dev
+document_142151.html,Moro,430,434,PER,Q171834,AMD,yes,dev
+document_142151.html,Moro,550,554,PER,Q171834,AMD,yes,dev
+document_142151.html,Moro,759,763,PER,Q171834,AMD,yes,dev
+document_142152.html,Moro,164,168,PER,Q171834,AMD,yes,dev
+document_142152.html,Moro,413,417,PER,Q171834,AMD,yes,dev
+document_142152.html,Presidente del Consiglio,4,28,PER,Q171834,AMD,yes,dev
 document_142152.html,Presidente,97,107,PER,Q4003497,AMD,no,dev
 document_142152.html,Consiglio,19,28,ORG,,NER,no,dev
-document_142160.html,Aldo Moro,33,42,PER,Q171834,AMD,no,dev
-document_142160.html,Paese,463,468,LOC,Q38,AMD,no,dev
+document_142160.html,Aldo Moro,33,42,PER,Q171834,AMD,yes,dev
+document_142160.html,Paese,463,468,LOC,Q38,AMD,yes,dev
 document_142160.html,Presidente,3,13,PER,Q4003497,AMD,no,dev
-document_142160.html,partiti,292,299,ORG,Q7278,AMD,no,dev
+document_142160.html,partiti,292,299,ORG,Q7278,AMD,yes,dev
 document_142160.html,Consiglio,18,27,ORG,,NER,no,dev
-document_142172.html,Partito,279,286,ORG,Q815348,AMD,no,dev
-document_142172.html,partiti,89,96,ORG,Q7278,AMD,no,dev
-document_142174.html,Paese,1268,1273,LOC,Q38,AMD,no,dev
-document_142174.html,Paese,1810,1815,LOC,Q38,AMD,no,dev
+document_142172.html,Partito,279,286,ORG,Q815348,AMD,yes,dev
+document_142172.html,partiti,89,96,ORG,Q7278,AMD,yes,dev
+document_142174.html,Paese,1268,1273,LOC,Q38,AMD,yes,dev
+document_142174.html,Paese,1810,1815,LOC,Q38,AMD,yes,dev
 document_142174.html,partito,33,40,ORG,Q815348,AMD,no,dev
 document_142174.html,partito,527,534,ORG,Q815348,AMD,no,dev
 document_142174.html,partito,903,910,ORG,Q815348,AMD,no,dev
 document_142174.html,partito,1305,1312,ORG,Q815348,AMD,no,dev
-document_142192.html,Corriere della Sera,44,63,ORG,,NER,no,dev
-document_142206.html,Paese,483,488,LOC,Q38,AMD,no,dev
+document_142192.html,Corriere della Sera,44,63,ORG,Q309135,NER,yes,dev
+document_142206.html,Paese,483,488,LOC,Q38,AMD,yes,dev
 document_110005.html,organizzazione,313,327,ORG,Q3682549,AMD,no,test
 document_110005.html,Convegno di Dottrina del Fascismo,3,36,ORG,,NER,no,test
-document_110032.html,Dio,535,538,PER,,NER,no,test
+document_110032.html,Dio,535,538,PER,Q825,NER,yes,test
 document_110047.html,Fuci,112,116,ORG,Q3091708,AMD,no,test
 document_110047.html,Presidenze Centrali,3,22,ORG,,NER,no,test
 document_110057.html,Universitari,71,83,ORG,Q3091708,AMD,no,test
 document_110057.html,Presidenze Centrali,156,175,ORG,,NER,no,test
 document_110063.html,Italia,173,179,LOC,Q38,AMD,no,test
-document_110079.html,Roma,41,45,LOC,Q220,AMD,no,test
+document_110079.html,Radio Roma,35,45,ORG,NIL,AMD,yes,test
 document_110088.html,collega,1099,1106,PER,Q76297,AMD,no,test
 document_110088.html,partito,329,336,ORG,Q815348,AMD,no,test
 document_110088.html,partito,506,513,ORG,Q815348,AMD,no,test
@@ -472,53 +472,53 @@ document_110088.html,S.S.,1578,1582,ORG,,NER,no,test
 document_110124.html,organizzazione,518,532,ORG,Q3682549,AMD,no,test
 document_110190.html,Bo,20,22,PER,Q3765297,AMD,no,test
 document_110190.html,collega,54,61,PER,Q76297,AMD,no,test
-document_110192.html,Roma,29,33,LOC,Q220,AMD,no,test
+document_110192.html,Osservatore Romano,17,35,ORG,Q746112,AMD,yes,test
 document_110234.html,Commissione,282,293,ORG,Q3684787,AMD,no,test
 document_110234.html,organizzazione,213,227,ORG,Q3682549,AMD,no,test
 document_110234.html,organizzazione,543,557,ORG,Q3682549,AMD,no,test
 document_110234.html,Consiglio Centrale,451,469,ORG,,NER,no,test
-document_121012.html,Moro,13,17,PER,Q171834,AMD,no,test
+document_121012.html,Moro,13,17,PER,Q171834,AMD,yes,test
 document_121012.html,Rileva[1,19,27,PER,,NER,no,test
-document_121021.html,Moro,13,17,PER,Q171834,AMD,no,test
-document_121029.html,Moro,13,17,PER,Q171834,AMD,no,test
-document_121060.html,Moro,13,17,PER,Q171834,AMD,no,test
-document_121060.html,partiti,114,121,ORG,Q7278,AMD,no,test
-document_121060.html,partiti,240,247,ORG,Q7278,AMD,no,test
-document_121060.html,partiti,420,427,ORG,Q7278,AMD,no,test
-document_121089.html,Moro,13,17,PER,Q171834,AMD,no,test
+document_121021.html,Moro,13,17,PER,Q171834,AMD,yes,test
+document_121029.html,Moro,13,17,PER,Q171834,AMD,yes,test
+document_121060.html,Moro,13,17,PER,Q171834,AMD,yes,test
+document_121060.html,partiti,114,121,ORG,Q7278,AMD,yes,test
+document_121060.html,partiti,240,247,ORG,Q7278,AMD,yes,test
+document_121060.html,partiti,420,427,ORG,Q7278,AMD,yes,test
+document_121089.html,Moro,13,17,PER,Q171834,AMD,yes,test
 document_121089.html,organizzazione,111,125,ORG,Q3682549,AMD,no,test
-document_121094.html,Moro,13,17,PER,Q171834,AMD,no,test
+document_121094.html,Moro,13,17,PER,Q171834,AMD,yes,test
 document_121094.html,Comitato di redazione,76,97,ORG,,NER,no,test
 document_121129.html,organizzazione,97,111,ORG,Q3682549,AMD,no,test
-document_121129.html,Stato,77,82,ORG,,NER,no,test
-document_121129.html,Stato,1084,1089,ORG,,NER,no,test
-document_121129.html,Stato,1214,1219,ORG,,NER,no,test
+document_121129.html,Stato,77,82,ORG,Q7275,NER,yes,test
+document_121129.html,Stato,1084,1089,ORG,Q7275,NER,yes,test
+document_121129.html,Stato,1214,1219,ORG,Q7275,NER,yes,test
 document_121149.html,comunità,396,404,ORG,Q52847,AMD,no,test
 document_121149.html,paese,353,358,LOC,Q38,AMD,no,test
-document_121159.html,Senato,314,320,ORG,,NER,no,test
-document_121229.html,Ministero degli esteri,189,211,ORG,,NER,no,test
-document_121229.html,Ministero,391,400,ORG,,NER,no,test
-document_121229.html,Ministero del tesoro,603,623,ORG,,NER,no,test
-document_121229.html,Camera,750,756,ORG,,NER,no,test
-document_121229.html,Ministero degli esteri,900,922,ORG,,NER,no,test
-document_122025.html,Assemblea,761,770,ORG,Q1053185,AMD,no,test
-document_122025.html,Governo,400,407,ORG,,NER,no,test
-document_122025.html,Governo,490,497,ORG,,NER,no,test
-document_122025.html,Governo,653,660,ORG,,NER,no,test
-document_122040.html,Governo,85,92,ORG,,NER,no,test
-document_122040.html,Camera,333,339,ORG,,NER,no,test
-document_122077.html,Aldo Moro,41,50,PER,Q171834,AMD,no,test
+document_121159.html,Senato,314,320,ORG,Q633872,NER,yes,test
+document_121229.html,Ministero degli esteri,189,211,ORG,Q789842,NER,yes,test
+document_121229.html,Ministero degli esteri,391,413,ORG,Q789842,NER,yes,test
+document_121229.html,Ministero del tesoro,603,623,ORG,Q1116000,NER,yes,test
+document_121229.html,Camera,750,756,ORG,Q841424,NER,yes,test
+document_121229.html,Ministero degli esteri,900,922,ORG,Q789842,NER,yes,test
+document_122025.html,Assemblea,761,770,ORG,Q841424,AMD,yes,test
+document_122025.html,Governo,400,407,ORG,Q3111999,NER,yes,test
+document_122025.html,Governo,490,497,ORG,Q3111999,NER,yes,test
+document_122025.html,Governo,653,660,ORG,Q3111999,NER,yes,test
+document_122040.html,Governo,85,92,ORG,Q3111999,NER,yes,test
+document_122040.html,Camera,333,339,ORG,Q841424,NER,yes,test
+document_122077.html,Aldo Moro,41,50,PER,Q171834,AMD,yes,test
 document_122077.html,presidente,58,68,PER,Q4003497,AMD,no,test
-document_122077.html,Parlamento,111,121,ORG,,NER,no,test
+document_122077.html,Parlamento,111,121,ORG,Q1117578,NER,yes,test
 document_131005.html,Segretario,567,577,PER,Q434786,AMD,no,test
-document_131005.html,coltivatori diretti,72,91,ORG,Q3682549,AMD,no,test
+document_131005.html,coltivatori diretti,72,91,ORG,Q3682549,AMD,yes,test
 document_131005.html,ministro,412,420,PER,Q2514,AMD,no,test
-document_131005.html,partito,975,982,ORG,Q815348,AMD,no,test
-document_131005.html,partito,1159,1166,ORG,Q815348,AMD,no,test
-document_131010.html,Paese,245,250,LOC,Q38,AMD,no,test
-document_131024.html,Partito,20,27,ORG,Q815348,AMD,no,test
-document_131024.html,Partito,435,442,ORG,Q815348,AMD,no,test
-document_131024.html,paese,207,212,LOC,Q38,AMD,no,test
+document_131005.html,partito,975,982,ORG,Q815348,AMD,yes,test
+document_131005.html,partito,1159,1166,ORG,Q815348,AMD,yes,test
+document_131010.html,Paese,245,250,LOC,Q38,AMD,yes,test
+document_131024.html,Partito,20,27,ORG,Q815348,AMD,yes,test
+document_131024.html,Partito,435,442,ORG,Q815348,AMD,yes,test
+document_131024.html,paese,207,212,LOC,Q38,AMD,yes,test
 document_131040.html,partito,939,946,ORG,Q815348,AMD,no,test
 document_131040.html,Consiglio Nazionale,32,51,ORG,,NER,no,test
 document_131040.html,Congresso,273,282,ORG,,NER,no,test
