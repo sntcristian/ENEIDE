@@ -1,9 +1,0 @@
-Results for NIL entities:
-
-True Positives: 30
-False Positives: 122
-False Negatives: 12
-Precision: 19.736842105263158
-Recall: 71.42857142857143
-F1: 30.927835051546392
-

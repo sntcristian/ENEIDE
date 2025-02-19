@@ -18,12 +18,12 @@ def eval_ed(data, predictions):
         else:
             fp.append(entity2)
             fn.append(entity1)
-    accuracy = len(tp) / (len(tp) + len(fp))
+    accuracy = (len(tp) / (len(tp) + len(fp)))*100
     return tp, fp, fn, accuracy
 
 path_data = "../DZ/v0.1/"
 
-path_results = "../results/ED/DZ/mgenre_impresso"
+path_results = "../results/DZ/blink_ed"
 
 with open(os.path.join(path_data, "annotations_test.csv"), "r", encoding="utf-8") as f1:
         data = list(csv.DictReader(f1, delimiter=","))
