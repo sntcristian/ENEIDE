@@ -883,4 +883,4 @@ document_142217.html,Stato,1638,1643,ORG,Q7275,NER,yes,test
 document_142237.html,Parlamento europeo,181,199,ORG,Q8889,NER,yes,test
 document_142240.html,Aldo Moro,0,9,PER,Q171834,AMD,yes,test
 document_142240.html,Partito,277,284,ORG,Q815348,AMD,yes,test
-document_142250.html,Governo,783,790,ORG,Q3773971,NER,yes,test
+document_142250.html,Governo Tambroni,783,799,ORG,Q3773955,NER,yes,test
