@@ -12,3 +12,5 @@ Accuracy for class Location: 84.61538461538461
 
 Accuracy for class Work: 18.34319526627219
 
+Macro-averaged Accuracy: 56.9610360611812
+

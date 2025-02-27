@@ -60,7 +60,7 @@ with open("../DZ/v0.1/annotations_test.csv", "r", encoding="utf-8") as f2:
     data = list(data)
 f2.close()
 
-with open("../results/DZ/blink_el/output.csv", "r", encoding="utf-8") as f3:
+with open("../results/DZ/elite_el/output.csv", "r", encoding="utf-8") as f3:
     model_result = csv.DictReader(f3)
     model_result = list(model_result)
 f3.close()

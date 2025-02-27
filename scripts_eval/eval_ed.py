@@ -47,7 +47,7 @@ data_work = [row for row in data if row["type"]=="WORK"]
 predictions_work = [row for row in predictions if row["type"]=="WORK"]
 _,_,_,work_accuracy = eval_ed(data_work, predictions_work)
 
-
+macro_accuracy = (per_accuracy + loc_accuracy + work_accuracy)/3
 with open(os.path.join(path_results, "result.txt"), "w") as output:
     output.write("True Positives: " + str(len(tp)) + "\n\n")
     output.write("False Positives: " + str(len(fp)) + "\n\n")
@@ -56,7 +56,7 @@ with open(os.path.join(path_results, "result.txt"), "w") as output:
     output.write("Accuracy for class Person: "+ str(per_accuracy) + "\n\n")
     output.write("Accuracy for class Location: " + str(loc_accuracy) + "\n\n")
     output.write("Accuracy for class Work: " + str(work_accuracy) + "\n\n")
-
+    output.write("Macro-averaged Accuracy: "+str(macro_accuracy)+"\n\n")
 
 
 p_keys = tp[0].keys()

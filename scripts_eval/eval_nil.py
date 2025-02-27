@@ -61,7 +61,7 @@ with open("../DZ/v0.1/annotations_test.csv", "r", encoding="utf-8") as f2:
     data = list(data)
 f2.close()
 
-with open("../../ELITE/DZ_results/ed_b50_n10/output.csv", "r", encoding="utf-8") as f3:
+with open("../results/DZ/elite_ed/output.csv", "r", encoding="utf-8") as f3:
     model_result = csv.DictReader(f3)
     model_result = list(model_result)
 f3.close()
@@ -71,7 +71,7 @@ result_nil = [row for row in model_result if not row["identifier"].startswith("Q
 
 results_exact = eval_nel(data_nil, result_nil, "exact")
 
-with open("../../ELITE/DZ_results/ed_b50_n10/results_nil.txt", "w") as output:
+with open("../results/DZ/elite_ed/results_nil.txt", "w") as output:
     output.write("Results for NIL entities:\n\n")
     output.write("True Positives: " + str(results_exact[0]) + "\n")
     output.write("False Positives: " + str(results_exact[1]) + "\n")
