@@ -70,7 +70,7 @@ with open("./AMD/v0.2/paragraphs_test.csv", "r", encoding="utf-8") as f1:
 
 paragraphs = [find_date(g, row) for row in paragraphs]
 
-with open("./AMD/v0.2/paragraphs_test2.csv", "w", encoding="utf-8") as f2:
+with open("./AMD/v0.2/paragraphs_test.csv", "w", encoding="utf-8") as f2:
     dict_writer = csv.DictWriter(f2, paragraphs[0].keys())
     dict_writer.writeheader()
     dict_writer.writerows(paragraphs)

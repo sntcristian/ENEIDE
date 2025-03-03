@@ -53,7 +53,14 @@ with open("./AMD/semi-auto/extra_annotations2.csv", "r", encoding="utf-8") as f2
     extra_annotations2 = list(dict_reader)
 f2.close()
 
-extra_annotations = extra_annotations1 + extra_annotations2
+
+with open("./AMD/semi-auto/extra_annotations3.csv", "r", encoding="utf-8") as f3:
+    dict_reader = csv.DictReader(f3)
+    extra_annotations3 = list(dict_reader)
+f3.close()
+
+extra_annotations = extra_annotations1 + extra_annotations2 + extra_annotations3
+
 
 with open("./AMD/semi-auto/surface_form_dict.json", "r", encoding="utf-8") as f1:
     surface_form_dict = json.load(f1)
@@ -66,7 +73,7 @@ new_annotations = []
 for row in paragraphs:
     doc_id = row["doc_id"]
     annotations1 = [row for row in annotations if row["doc_id"]==doc_id]
-    annotations2 = [row for row in extra_annotations2 if row["doc_id"]==doc_id]
+    annotations2 = [row for row in extra_annotations if row["doc_id"]==doc_id]
     valid_annotations = []
     for anno in annotations1:
         if anno["surface"] in valid_surface_forms:
@@ -78,12 +85,13 @@ for row in paragraphs:
             if anno["source"]=="AMD":
                 item = {"doc_id":doc_id, "start_pos": int(anno["start_pos"]), "end_pos": int(anno["end_pos"]),
                         "surface":anno["surface"], "type":anno["type"], "identifier":anno["identifier"]}
-                valid_annotations.append(anno)
+                valid_annotations.append(item)
             elif anno["source"]=="NER":
                 if any(x.isupper() for x in anno["surface"]) or anno["surface"] in valid_surface_forms:
                     item = {"doc_id": doc_id, "start_pos": int(anno["start_pos"]), "end_pos": int(anno["end_pos"]),
                             "surface": anno["surface"], "type": anno["type"], "identifier": anno["identifier"]}
-                    valid_annotations.append(anno)
+                    valid_annotations.append(item)
+
     valid_annotations = sorted(valid_annotations, key=lambda x: x["start_pos"])
     if len(valid_annotations)>0:
         new_paragraphs.append(row)

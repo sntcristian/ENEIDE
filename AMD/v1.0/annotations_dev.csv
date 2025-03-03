@@ -1,0 +1,605 @@
+doc_id,start_pos,end_pos,surface,type,identifier
+document_110024.html,3,7,Fuci,ORG,Q3091708
+document_110024.html,444,448,Fuci,ORG,Q3091708
+document_110024.html,534,538,Fuci,ORG,Q3091708
+document_110024.html,671,675,Fuci,ORG,Q3091708
+document_110024.html,817,821,Fuci,ORG,Q3091708
+document_110024.html,1002,1014,Associazione,ORG,Q3091708
+document_110037.html,48,67,Segretario di Stato,PER,Q918739
+document_110037.html,75,80,Padre,PER,Q2604
+document_110037.html,202,209,Madonna,PER,Q345
+document_110060.html,42,61,S. Tommaso d’Aquino,PER,Q9438
+document_110060.html,65,69,Fuci,ORG,Q3091708
+document_110060.html,90,94,Fuci,ORG,Q3091708
+document_110060.html,132,139,Dottore,PER,Q9438
+document_110060.html,146,152,Chiesa,ORG,Q34651
+document_110065.html,70,76,Italia,LOC,Q38
+document_110065.html,84,110,Associazioni Universitarie,ORG,Q3091708
+document_110065.html,114,130,Azione Cattolica,ORG,Q3318304
+document_110065.html,222,237,Sede Apostolica,ORG,Q159583
+document_110065.html,248,259,Padre Santo,PER,Q2604
+document_110065.html,515,521,Cristo,PER,Q302
+document_110065.html,582,588,Chiesa,ORG,Q34651
+document_110065.html,628,644,Azione Cattolica,ORG,Q3318304
+document_110065.html,687,703,Beatissimo Padre,PER,Q2604
+document_110065.html,709,721,Universitari,ORG,Q3091708
+document_110065.html,725,741,Azione Cattolica,ORG,Q3318304
+document_110065.html,985,995,Università,ORG,Q3918
+document_110065.html,996,1002,Italia,LOC,Q38
+document_110081.html,121,127,Italia,LOC,Q38
+document_110081.html,289,301,forze armate,ORG,Q8473
+document_110105.html,375,382,partiti,ORG,Q7278
+document_110125.html,69,75,Italia,LOC,Q38
+document_110125.html,194,201,Partiti,ORG,Q7278
+document_110125.html,332,338,Italia,LOC,Q38
+document_110130.html,199,207,capitale,LOC,Q220
+document_110130.html,316,320,Roma,LOC,Q220
+document_110130.html,627,633,Italia,LOC,Q38
+document_110162.html,194,201,partito,ORG,Q7278
+document_110162.html,302,308,Italia,LOC,Q38
+document_110174.html,88,108,democrazia cristiana,ORG,Q815348
+document_110174.html,112,125,Giuseppe Sala,PER,NIL
+document_110174.html,378,384,Chiesa,ORG,Q34651
+document_110193.html,77,92,Umberto Calosso,PER,Q4003345
+document_110194.html,37,42,paese,LOC,Q38
+document_110194.html,86,91,paese,LOC,Q38
+document_110205.html,30,40,Margadonna,PER,Q3276823
+document_110205.html,158,163,Parri,PER,Q471315
+document_110208.html,58,76,Movimento Laureati,ORG,Q3866579
+document_121020.html,13,17,Moro,PER,Q171834
+document_121020.html,75,85,Presidente,PER,Q4003498
+document_121020.html,123,134,Commissione,ORG,Q3684787
+document_121020.html,233,243,Presidente,PER,Q4003498
+document_121051.html,147,154,partito,ORG,Q815348
+document_121051.html,161,181,democrazia cristiana,ORG,Q815348
+document_121087.html,13,17,Moro,PER,Q171834
+document_121087.html,145,154,Cevolotto,PER,Q3848440
+document_121087.html,206,215,Togliatti,PER,Q310158
+document_121097.html,19,37,commissione dei 75,ORG,Q3684787
+document_121097.html,76,82,Chiesa,ORG,Q34651
+document_121097.html,111,115,Moro,PER,Q171834
+document_121135.html,244,249,Sullo,PER,Q3745884
+document_121142.html,67,83,Ferdinando Vegas,PER,Q21587924
+document_121154.html,9,17,Lippmann,PER,Q316568
+document_121154.html,115,120,Röpke,PER,Q62444
+document_121154.html,577,585,Lippmann,PER,Q316568
+document_121155.html,34,50,Adelchi Baratono,PER,Q3605170
+document_121155.html,194,201,partito,ORG,Q815348
+document_121168.html,85,94,Togliatti,PER,Q310158
+document_121168.html,390,400,Presidente,PER,Q4003497
+document_121168.html,409,418,Assemblea,ORG,Q1053185
+document_121174.html,10,20,Presidente,PER,Q4003497
+document_121174.html,182,187,Arata,PER,Q3770006
+document_121174.html,474,506,Corte di garanzia costituzionale,ORG,Q981005
+document_121174.html,585,590,Corte,ORG,Q981005
+document_121218.html,6,15,Aldo Moro,PER,Q171834
+document_121218.html,119,136,Fiera del Levante,ORG,Q3744601
+document_121235.html,29,35,Chiesa,ORG,Q34651
+document_121235.html,176,182,Chiesa,ORG,Q34651
+document_121235.html,643,649,Chiesa,ORG,Q34651
+document_122012.html,152,160,Polesine,LOC,Q1242205
+document_122012.html,298,303,Nenni,PER,Q539486
+document_122015.html,124,133,Jervolino,PER,Q3617176
+document_122015.html,137,153,Ruggero Lombardi,PER,Q104832781
+document_122015.html,215,224,Jervolino,PER,Q3617176
+document_122015.html,290,297,Governo,ORG,Q3773971
+document_122015.html,311,321,Parlamento,ORG,Q1117578
+document_122015.html,350,360,Parlamento,ORG,Q1117578
+document_122044.html,7,17,Presidente,PER,Q1241
+document_122044.html,111,127,Giuseppe Bettiol,PER,Q3770116
+document_122053.html,229,237,Ministro,PER,Q1240
+document_122063.html,45,64,Camera dei deputati,ORG,Q841424
+document_122063.html,90,113,Francesco Saverio Nitti,PER,Q367132
+document_122063.html,240,246,Camera,ORG,Q841424
+document_122063.html,256,276,Democrazia cristiana,ORG,Q815348
+document_122063.html,286,293,Colombo,PER,Q312058
+document_122063.html,334,341,Gronchi,PER,Q1241
+document_131013.html,310,317,Partito,ORG,Q815348
+document_131013.html,904,911,Partito,ORG,Q815348
+document_131013.html,1027,1047,Democrazia Cristiana,ORG,Q815348
+document_131034.html,6,10,Moro,PER,Q171834
+document_131034.html,394,401,Partito,ORG,Q815348
+document_131034.html,447,451,D.C.,ORG,Q815348
+document_131034.html,663,667,D.C.,ORG,Q815348
+document_131045.html,101,108,Governo,ORG,Q3773853
+document_131045.html,135,142,Fanfani,PER,Q273228
+document_131045.html,281,283,DC,ORG,Q815348
+document_131045.html,389,395,Camera,ORG,Q841424
+document_131045.html,430,437,Governo,ORG,Q3773853
+document_131045.html,438,445,Fanfani,PER,Q273228
+document_131045.html,1093,1098,Paese,LOC,Q38
+document_131057.html,392,412,Democrazia Cristiana,ORG,Q815348
+document_131058.html,45,49,Moro,PER,Q171834
+document_131058.html,264,281,Partito comunista,ORG,Q461886
+document_131111.html,176,184,Berloffa,PER,Q661117
+document_131111.html,754,758,Roma,LOC,Q220
+document_131111.html,1793,1800,Partito,ORG,Q815348
+document_131117.html,3,7,D.C.,ORG,Q815348
+document_131123.html,146,155,Venezuela,LOC,Q717
+document_131130.html,25,35,Presidente,PER,Q273228
+document_131130.html,220,227,Governo,ORG,Q3773854
+document_131130.html,281,301,democrazia cristiana,ORG,Q815348
+document_131130.html,315,324,Togliatti,PER,Q310158
+document_131130.html,428,435,Governo,ORG,Q3773854
+document_131130.html,538,555,partito comunista,ORG,Q461886
+document_131130.html,699,704,paese,LOC,Q38
+document_131145.html,87,106,Coltivatori diretti,ORG,Q3682549
+document_131145.html,278,289,Coltivatori,ORG,Q3682549
+document_131145.html,389,400,Coltivatori,ORG,Q3682549
+document_131145.html,743,762,Coltivatori Diretti,ORG,Q3682549
+document_131162.html,164,167,D.C,ORG,Q815348
+document_132006.html,25,40,Sommo Pontefice,PER,Q16975
+document_132006.html,44,54,Terrasanta,LOC,Q48175
+document_132006.html,277,282,paese,LOC,Q38
+document_132006.html,331,337,Chiesa,ORG,Q9592
+document_132006.html,476,482,Chiesa,ORG,Q9592
+document_132009.html,58,96,Confederazione dei Coltivatori Diretti,ORG,Q3682549
+document_132009.html,163,169,Bonomi,PER,Q3893797
+document_132022.html,2,6,Bari,LOC,Q3519
+document_132022.html,11,26,Teatro Piccinni,LOC,Q845517
+document_132022.html,60,64,Moro,PER,Q171834
+document_132022.html,118,120,Dc,ORG,Q815348
+document_132022.html,313,315,Dc,ORG,Q815348
+document_132022.html,328,332,Bari,LOC,Q3519
+document_132022.html,447,454,Partito,ORG,Q815348
+document_132022.html,744,746,Dc,ORG,Q815348
+document_132022.html,884,886,Dc,ORG,Q815348
+document_132022.html,1036,1041,Paese,LOC,Q38
+document_132036.html,3,9,Ancona,LOC,Q3415
+document_132036.html,43,52,Aldo Moro,PER,Q171834
+document_132036.html,114,116,Dc,ORG,Q815348
+document_132036.html,405,412,Partito,ORG,Q815348
+document_132036.html,527,532,Paese,LOC,Q38
+document_132040.html,43,47,Moro,PER,Q171834
+document_132040.html,89,91,Dc,ORG,Q815348
+document_132040.html,145,150,Rumor,PER,Q316288
+document_132040.html,308,310,Dc,ORG,Q815348
+document_132040.html,405,421,Capo dello Stato,PER,Q1240
+document_132040.html,686,692,Italia,LOC,Q38
+document_132044.html,3,10,Governo,ORG,Q3112299
+document_132044.html,154,163,Togliatti,PER,Q310158
+document_132044.html,332,337,paese,LOC,Q38
+document_132044.html,928,937,Togliatti,PER,Q310158
+document_132044.html,995,1002,Governo,ORG,Q3112299
+document_132048.html,3,10,Governo,ORG,Q3112299
+document_132048.html,66,76,Presidente,PER,Q3558039
+document_132048.html,83,102,Camera dei Deputati,ORG,Q841424
+document_132048.html,124,132,Pistelli,PER,Q3876321
+document_132061.html,166,173,Governo,ORG,Q3112299
+document_132061.html,298,317,Altare della Patria,LOC,Q506234
+document_132061.html,431,437,Italia,LOC,Q38
+document_132061.html,542,547,Paese,LOC,Q38
+document_132103.html,0,6,Italia,LOC,Q38
+document_132103.html,84,90,Italia,LOC,Q38
+document_132103.html,236,242,Italia,LOC,Q38
+document_132103.html,291,297,Italia,LOC,Q38
+document_132103.html,860,866,Italia,LOC,Q38
+document_132108.html,175,180,Togni,PER,Q3771530
+document_132124.html,39,49,Jugoslavia,LOC,Q36704
+document_132124.html,114,123,Stambolic,PER,Q115471
+document_132124.html,321,326,paese,LOC,Q83286
+document_132162.html,6,10,Moro,PER,Q171834
+document_132162.html,81,119,Organizzazione dei Coltivatori Diretti,ORG,Q3682549
+document_132162.html,262,268,Bonomi,PER,Q3893797
+document_132162.html,405,424,Coltivatori Diretti,ORG,Q3682549
+document_132177.html,7,14,sindaco,PER,Q47843459
+document_132181.html,65,84,Camera dei Deputati,ORG,Q841424
+document_132181.html,117,123,Senato,ORG,Q633872
+document_132181.html,474,481,Governo,ORG,Q3773971
+document_132181.html,558,568,Alto Adige,LOC,Q15124
+document_132184.html,33,42,Aldo Moro,PER,Q171834
+document_132184.html,116,118,Dc,ORG,Q815348
+document_132184.html,121,128,Bologna,LOC,Q1891
+document_132196.html,3,25,Consiglio dei Ministri,ORG,Q3687318
+document_132196.html,75,82,Governo,ORG,Q3773971
+document_132196.html,341,347,Italia,LOC,Q38
+document_132196.html,795,800,Paese,LOC,Q38
+document_132196.html,1019,1024,Paese,LOC,Q38
+document_132202.html,32,41,Aldo Moro,PER,Q171834
+document_132202.html,68,72,Bari,LOC,Q3519
+document_132202.html,147,153,Italia,LOC,Q38
+document_132202.html,553,558,Paese,LOC,Q38
+document_132202.html,1130,1134,Moro,PER,Q171834
+document_132222.html,54,61,Nilsson,PER,Q241035
+document_132222.html,180,186,Italia,LOC,Q38
+document_132224.html,46,60,vicepresidente,PER,Q209989
+document_132224.html,202,206,Roma,LOC,Q220
+document_132230.html,176,195,Consiglio nazionale,ORG,NIL
+document_132230.html,398,403,Paese,LOC,Q38
+document_132230.html,505,510,Rumor,PER,Q316288
+document_132230.html,685,694,Consiglio,ORG,NIL
+document_132230.html,773,783,Segretario,PER,Q316288
+document_132230.html,868,875,Partito,ORG,Q815348
+document_132234.html,366,372,Branca,PER,Q3561343
+document_132234.html,693,695,Dc,ORG,Q815348
+document_132258.html,33,42,Aldo Moro,PER,Q171834
+document_132258.html,55,67,Villadossola,LOC,Q23726
+document_132258.html,265,269,Moro,PER,Q171834
+document_132265.html,179,206,Presidente della Repubblica,PER,NIL
+document_132265.html,265,275,Parlamento,ORG,Q1117578
+document_132265.html,536,543,Governo,ORG,Q3773971
+document_132268.html,33,42,Aldo Moro,PER,Q171834
+document_132268.html,83,102,Coltivatori Diretti,ORG,Q3682549
+document_132268.html,183,195,Paolo Bonomi,PER,Q3893797
+document_132268.html,312,331,Coltivatori Diretti,ORG,Q3682549
+document_132268.html,588,602,organizzazione,ORG,Q3682549
+document_132268.html,721,726,Paese,LOC,Q38
+document_141011.html,69,94,partito popolare italiano,ORG,Q2717398
+document_141011.html,307,313,Italia,LOC,Q38
+document_141011.html,742,762,Democrazia Cristiana,ORG,Q815348
+document_141011.html,1098,1104,Italia,LOC,Q38
+document_141027.html,2,15,Caltanissetta,LOC,Q13680
+document_141027.html,23,32,Aldo Moro,PER,Q171834
+document_141027.html,62,82,Democrazia Cristiana,ORG,Q815348
+document_141027.html,123,134,Mezzogiorno,LOC,Q207989
+document_141027.html,137,143,Italia,LOC,Q38
+document_141027.html,819,824,paese,LOC,Q38
+document_141030.html,21,28,Colombo,PER,Q312058
+document_141030.html,88,107,impegno democratico,ORG,NIL
+document_141036.html,6,15,Aldo Moro,PER,Q171834
+document_141036.html,28,35,Sassari,LOC,Q13629
+document_141036.html,77,85,Sardegna,LOC,Q1462
+document_141036.html,247,258,Mezzogiorno,LOC,Q207989
+document_141036.html,261,267,Italia,LOC,Q38
+document_141036.html,1050,1055,Paese,LOC,Q38
+document_141058.html,7,17,Presidente,PER,Q273228
+document_141058.html,90,97,Giraudo,PER,Q3767386
+document_141060.html,15,34,Consiglio Nazionale,ORG,NIL
+document_141060.html,50,60,Segretario,PER,NIL
+document_141060.html,76,91,Arnaldo Forlani,PER,Q434786
+document_141061.html,121,124,Aja,LOC,Q36600
+document_141061.html,181,190,Bruxelles,LOC,Q239
+document_141061.html,200,211,Lussemburgo,LOC,Q32
+document_141061.html,252,268,Maurice Schumann,PER,Q282882
+document_141061.html,356,360,Moro,PER,Q171834
+document_141061.html,361,369,Schumann,PER,Q282882
+document_141061.html,498,506,Schumann,PER,Q282882
+document_141072.html,27,31,Ella,PER,Q307873
+document_141072.html,60,66,Italia,LOC,Q38
+document_141072.html,149,168,Governo sceriffiano,ORG,Q12208534
+document_141089.html,111,125,Robert Schuman,PER,Q15981
+document_141089.html,273,279,Europe,LOC,Q46
+document_141089.html,360,369,Continent,LOC,Q46
+document_141089.html,505,519,Robert Schuman,PER,Q15981
+document_141095.html,13,34,République Arabe Unie,LOC,Q170468
+document_141095.html,87,92,Cairo,LOC,Q85
+document_141095.html,267,275,Ministre,PER,Q1884962
+document_141099.html,30,39,Aldo Moro,PER,Q171834
+document_141099.html,52,59,Brescia,LOC,Q6221
+document_141108.html,53,59,Europa,LOC,Q46
+document_141108.html,68,74,Italia,LOC,Q38
+document_141108.html,201,214,Gran Bretagna,LOC,Q145
+document_141108.html,255,271,Comunità europea,ORG,Q52847
+document_141108.html,393,399,Italia,LOC,Q38
+document_141108.html,482,488,Europa,LOC,Q46
+document_141108.html,970,974,Moro,PER,Q171834
+document_141108.html,1049,1055,Europa,LOC,Q46
+document_141114.html,53,59,Camera,ORG,Q841424
+document_141114.html,82,89,Governo,ORG,Q3773971
+document_141114.html,163,168,Libia,LOC,Q1016
+document_141140.html,102,111,Indonesia,LOC,Q252
+document_141140.html,189,198,Indonesia,LOC,Q252
+document_141140.html,203,209,Italia,LOC,Q38
+document_141158.html,76,89,Nuova Zelanda,LOC,Q664
+document_141158.html,201,206,Paese,LOC,Q664
+document_141162.html,132,148,Governo italiano,ORG,Q3773971
+document_141162.html,392,398,Italia,LOC,Q38
+document_141171.html,22,27,Libia,LOC,Q1016
+document_141193.html,103,113,Bouteflika,PER,Q57308
+document_141193.html,173,180,Algérie,LOC,Q262
+document_141212.html,152,165,Nazioni Unite,ORG,Q1065
+document_141212.html,516,520,Asia,LOC,Q48
+document_141212.html,548,555,Oceania,LOC,Q538
+document_141224.html,25,35,Presidente,PER,Q13014
+document_141224.html,42,71,Repubblica Federale d’Austria,LOC,Q40
+document_141224.html,85,91,Italia,LOC,Q38
+document_141224.html,106,116,Presidente,PER,Q1238
+document_141224.html,123,142,Repubblica italiana,LOC,Q38
+document_141225.html,52,61,Consiglio,ORG,Q8896
+document_141225.html,178,186,Comunità,ORG,Q52847
+document_141226.html,38,42,Moro,PER,Q171834
+document_141226.html,130,140,continente,LOC,Q46
+document_141226.html,162,167,Mosca,LOC,Q649
+document_141226.html,176,184,Varsavia,LOC,Q270
+document_141226.html,219,226,Berlino,LOC,Q64
+document_141226.html,275,281,Europa,LOC,Q46
+document_141226.html,373,380,Berlino,LOC,Q64
+document_141253.html,6,15,Aldo Moro,PER,Q171834
+document_141253.html,28,33,Lecco,LOC,Q6237
+document_141253.html,104,114,Parlamento,ORG,Q1117578
+document_141253.html,220,240,Democrazia Cristiana,ORG,Q815348
+document_141269.html,78,86,Comunità,ORG,Q52847
+document_141269.html,294,302,Comunità,ORG,Q52847
+document_141283.html,0,9,Aldo Moro,PER,Q171834
+document_141283.html,83,90,partiti,ORG,Q7278
+document_141283.html,170,177,partiti,ORG,Q7278
+document_141283.html,425,432,partiti,ORG,Q7278
+document_141283.html,547,554,partiti,ORG,Q7278
+document_141283.html,621,641,Democrazia Cristiana,ORG,Q815348
+document_141283.html,749,754,Paese,LOC,Q38
+document_141293.html,6,15,Aldo Moro,PER,Q171834
+document_141293.html,45,51,Veneto,LOC,Q1243
+document_141293.html,58,81,Friuli – Venezia Giulia,LOC,NIL
+document_141299.html,42,52,Università,ORG,Q959524
+document_141299.html,164,170,Milano,LOC,Q490
+document_141299.html,358,368,Università,ORG,Q959524
+document_141302.html,141,160,Congresso Nazionale,ORG,NIL
+document_141302.html,167,187,Democrazia Cristiana,ORG,Q815348
+document_141302.html,377,384,Partito,ORG,Q815348
+document_142015.html,155,161,Europa,LOC,Q46
+document_142015.html,165,172,America,LOC,Q828
+document_142015.html,649,655,Europa,LOC,Q46
+document_142015.html,837,853,Governo italiano,ORG,Q3773971
+document_142015.html,916,922,Europa,LOC,Q46
+document_142015.html,968,982,America Latina,LOC,Q12585
+document_142035.html,302,307,Paese,LOC,Q142
+document_142035.html,352,356,Moro,PER,Q171834
+document_142035.html,492,499,Francia,LOC,Q142
+document_142035.html,502,508,Italia,LOC,Q38
+document_142035.html,672,686,unione europea,ORG,Q458
+document_142044.html,16,33,collega ungherese,PER,Q1241512
+document_142044.html,54,58,Moro,PER,Q171834
+document_142044.html,108,116,Ungheria,LOC,Q28
+document_142064.html,40,67,Presidente della Repubblica,PER,Q1235
+document_142067.html,41,44,Cee,ORG,Q52847
+document_142067.html,105,109,Moro,PER,Q171834
+document_142067.html,374,378,Moro,PER,Q171834
+document_142067.html,388,391,Cee,ORG,Q52847
+document_142067.html,587,590,Cee,ORG,Q52847
+document_142079.html,3,24,Signor Primo ministro,PER,Q23333
+document_142126.html,106,113,Sindaco,PER,Q3339912
+document_142126.html,263,276,città vecchia,LOC,Q3519
+document_142126.html,391,398,Governo,ORG,Q3773901
+document_142126.html,1244,1251,Governo,ORG,Q3773901
+document_142132.html,57,61,Moro,PER,Q171834
+document_142132.html,270,281,Rambouillet,LOC,Q191119
+document_142147.html,8,18,Presidente,PER,Q1233
+document_142147.html,545,552,Governo,ORG,Q3773902
+document_142162.html,33,42,Aldo Moro,PER,Q171834
+document_142162.html,55,60,Lucca,LOC,Q13373
+document_142162.html,62,68,Savona,LOC,Q13320
+document_142162.html,134,154,Democrazia Cristiana,ORG,Q815348
+document_142162.html,746,766,Democrazia Cristiana,ORG,Q815348
+document_142168.html,99,106,Colombo,PER,Q312058
+document_142168.html,350,357,Potenza,LOC,Q3543
+document_142168.html,436,441,città,LOC,Q3543
+document_142168.html,663,670,partito,ORG,Q815348
+document_142168.html,770,777,Colombo,PER,Q312058
+document_142168.html,1130,1144,Emilio Colombo,PER,Q312058
+document_142168.html,1511,1518,partito,ORG,Q815348
+document_142168.html,1568,1588,Democrazia Cristiana,ORG,Q815348
+document_142168.html,1650,1657,Colombo,PER,Q312058
+document_142168.html,1697,1702,Paese,LOC,Q38
+document_142218.html,3,23,Democrazia Cristiana,ORG,Q815348
+document_142218.html,439,459,Democrazia Cristiana,ORG,Q815348
+document_142218.html,705,710,paese,LOC,Q38
+document_142218.html,793,813,Democrazia Cristiana,ORG,Q815348
+document_142221.html,10,16,Camere,ORG,Q10553309
+document_142221.html,381,388,Kappler,PER,Q61861
+document_142222.html,24,28,D.C.,ORG,Q815348
+document_142222.html,206,213,partito,ORG,Q815348
+document_142242.html,292,306,America Latina,LOC,Q12585
+document_142242.html,354,361,Caracas,LOC,Q1533
+document_110087.html,5,11,Italia,LOC,Q38
+document_110087.html,130,136,Italia,LOC,Q38
+document_110087.html,186,213,Repubblica sociale italiana,ORG,Q153660
+document_110087.html,236,242,Italia,LOC,Q38
+document_110087.html,304,313,Mussolini,PER,Q23559
+document_110136.html,22,26,Papa,PER,Q2604
+document_110185.html,143,150,partiti,ORG,Q7278
+document_110185.html,282,288,Italia,LOC,Q38
+document_110202.html,52,66,uomo qualunque,ORG,Q2275157
+document_121001.html,59,65,Italia,LOC,Q38
+document_121001.html,178,183,paese,LOC,Q38
+document_121034.html,13,17,Moro,PER,Q171834
+document_121034.html,71,76,Basso,PER,Q3229281
+document_121081.html,25,31,Chiesa,ORG,Q34651
+document_121081.html,34,39,Stato,ORG,Q38
+document_121081.html,109,130,Assemblea costituente,ORG,Q1053185
+document_121104.html,188,194,Italia,LOC,Q38
+document_121219.html,53,70,Fiera del Levante,ORG,Q3744601
+document_121219.html,99,105,Puglia,LOC,Q1447
+document_121219.html,138,149,Mezzogiorno,LOC,Q207989
+document_121219.html,152,158,Italia,LOC,Q38
+document_121219.html,163,180,Fiera del Levante,ORG,Q3744601
+document_121219.html,509,514,Fiera,ORG,Q3744601
+document_121219.html,946,957,Mezzogiorno,LOC,Q207989
+document_121219.html,960,966,Italia,LOC,Q38
+document_121219.html,975,981,Puglia,LOC,Q1447
+document_131077.html,239,246,Partito,ORG,Q815348
+document_131077.html,339,341,DC,ORG,Q815348
+document_131077.html,507,514,Partito,ORG,Q815348
+document_131077.html,540,544,Moro,PER,Q171834
+document_131140.html,134,136,DC,ORG,Q815348
+document_131140.html,253,258,Paese,LOC,Q38
+document_131140.html,287,292,Paola,LOC,Q53928
+document_131140.html,392,394,DC,ORG,Q815348
+document_131140.html,566,568,DC,ORG,Q815348
+document_131142.html,3,9,Ancona,LOC,Q3415
+document_131142.html,29,48,teatro Metropolitan,LOC,NIL
+document_131142.html,79,99,Democrazia Cristiana,ORG,Q815348
+document_131142.html,257,263,Marche,LOC,Q1279
+document_131142.html,347,354,partito,ORG,Q815348
+document_131142.html,365,372,regione,LOC,Q1279
+document_131142.html,410,416,Marche,LOC,Q1279
+document_131142.html,497,514,Fernando Tambroni,PER,Q314004
+document_131142.html,547,567,Democrazia Cristiana,ORG,Q815348
+document_131142.html,573,578,Paese,LOC,Q38
+document_132128.html,92,121,Ministero degli Affari Esteri,ORG,Q789842
+document_132128.html,160,167,Fanfani,PER,Q273228
+document_132128.html,393,399,Italia,LOC,Q38
+document_132128.html,534,547,Nazioni Unite,ORG,Q1065
+document_132128.html,787,793,Italia,LOC,Q38
+document_132128.html,910,924,Organizzazione,ORG,Q1065
+document_132128.html,982,987,Paese,LOC,Q38
+document_132128.html,994,1007,Nazioni Unite,ORG,Q1065
+document_132172.html,122,125,Ice,ORG,Q3803780
+document_132172.html,159,168,Aldo Moro,PER,Q171834
+document_132172.html,228,236,Istituto,ORG,Q3803780
+document_132172.html,442,448,Tolloy,PER,Q16561152
+document_132172.html,471,474,Ice,ORG,Q3803780
+document_132172.html,481,487,Donati,PER,Q3618697
+document_132172.html,495,499,Moro,PER,Q171834
+document_132172.html,554,561,Governo,ORG,Q3112300
+document_132172.html,779,786,Governo,ORG,Q3112300
+document_132209.html,33,42,Aldo Moro,PER,Q171834
+document_132209.html,87,91,ENEL,ORG,Q651222
+document_132209.html,300,304,ENEL,ORG,Q651222
+document_132209.html,641,649,Di Cagno,PER,Q15711768
+document_132209.html,912,916,Ente,ORG,Q651222
+document_132236.html,33,42,Aldo Moro,PER,Q171834
+document_132236.html,207,215,Badaloni,PER,Q28030773
+document_132253.html,2,9,Vicenza,LOC,Q6537
+document_132253.html,110,119,Aldo Moro,PER,Q171834
+document_132253.html,184,188,Sala,PER,Q3765731
+document_132253.html,225,233,Breganze,PER,Q55979285
+document_132253.html,333,338,città,LOC,Q6537
+document_132292.html,5,9,Ella,PER,Q596724
+document_132292.html,809,813,CONI,ORG,Q1114833
+document_132292.html,950,955,Paese,LOC,Q38
+document_132292.html,1155,1160,Paese,LOC,Q38
+document_132300.html,203,207,Bari,LOC,Q3519
+document_132300.html,385,391,Puglia,LOC,Q1447
+document_132300.html,393,400,Lucania,LOC,Q1452
+document_132300.html,403,409,Molise,LOC,Q1443
+document_132300.html,448,470,Centrale delle Cantine,ORG,NIL
+document_132300.html,551,558,Governo,ORG,Q3112300
+document_141111.html,73,77,Ella,PER,Q6395370
+document_141111.html,185,201,Governo italiano,ORG,Q3773971
+document_141115.html,55,73,Commissione Esteri,ORG,Q110448080
+document_141115.html,80,86,Camera,ORG,Q841424
+document_141115.html,168,182,Governo libico,ORG,Q2054665
+document_141115.html,280,285,Libia,LOC,NIL
+document_141115.html,358,369,Commissione,ORG,Q110448080
+document_141115.html,442,448,Italia,LOC,NIL
+document_141138.html,7,26,Segretario Generale,PER,Q956836
+document_141150.html,127,136,Finlandia,LOC,Q33
+document_141150.html,139,145,Italia,LOC,Q38
+document_141150.html,150,157,Governo,ORG,Q3773971
+document_141150.html,228,236,Kekkonen,PER,Q179858
+document_141169.html,36,73,Ministro degli Affari Esteri italiano,PER,Q789842
+document_141169.html,83,91,Kinshasa,LOC,Q3838
+document_141169.html,175,181,Italia,LOC,Q38
+document_141169.html,187,219,Repubblica Democratica del Congo,LOC,Q974
+document_141203.html,56,62,Italia,LOC,Q38
+document_141203.html,67,107,ministro federale austriaco degli Esteri,PER,Q72856
+document_141203.html,165,169,Moro,PER,Q171834
+document_141203.html,223,235,Villa Madama,LOC,Q1267485
+document_141239.html,105,109,Moro,PER,Q171834
+document_141239.html,158,184,Comunità economica europea,ORG,Q52847
+document_141239.html,269,276,Turchia,LOC,Q43
+document_142073.html,8,18,Presidente,PER,Q1233
+document_142073.html,140,146,Senato,ORG,Q633872
+document_142073.html,153,159,Camera,ORG,Q841424
+document_142073.html,809,816,Governo,ORG,Q3773901
+document_142073.html,913,920,Rognoni,PER,Q1748746
+document_142073.html,943,953,De Martino,PER,Q1379919
+document_142073.html,962,969,Orlandi,PER,Q3746504
+document_142073.html,978,985,Biasini,PER,Q3049593
+document_142083.html,4,20,Governo italiano,ORG,Q3773971
+document_142083.html,85,91,Italia,LOC,Q38
+document_142083.html,96,115,segretario generale,PER,Q1260
+document_142083.html,122,135,Nazioni Unite,ORG,Q1065
+document_142083.html,197,211,Organizzazione,ORG,Q1065
+document_142135.html,102,109,partiti,ORG,Q7278
+document_142135.html,321,341,Democrazia Cristiana,ORG,Q815348
+document_142135.html,658,668,Zaccagnini,PER,Q817307
+document_142135.html,1010,1017,partito,ORG,Q815348
+document_142152.html,4,28,Presidente del Consiglio,PER,Q171834
+document_142152.html,108,113,Sadat,PER,Q42013
+document_142152.html,164,168,Moro,PER,Q171834
+document_142152.html,207,226,Presidente egiziano,PER,Q42013
+document_142152.html,287,300,Medio Oriente,LOC,Q7204
+document_142152.html,386,391,Sadat,PER,Q42013
+document_142152.html,413,417,Moro,PER,Q171834
+document_142152.html,599,606,Ginevra,LOC,Q71
+document_142160.html,33,42,Aldo Moro,PER,Q171834
+document_142160.html,55,62,Trieste,LOC,Q546
+document_142160.html,82,97,Vittorio Veneto,LOC,Q47578
+document_142160.html,151,171,Democrazia Cristiana,ORG,Q815348
+document_142160.html,292,299,partiti,ORG,Q7278
+document_142160.html,354,374,Democrazia Cristiana,ORG,Q815348
+document_142160.html,463,468,Paese,LOC,Q38
+document_142160.html,913,933,Democrazia Cristiana,ORG,Q815348
+document_110032.html,24,40,Tommaso d’Aquino,PER,Q9438
+document_110032.html,46,58,Universitari,ORG,Q3091708
+document_110032.html,62,78,Azione Cattolica,ORG,Q3318304
+document_110032.html,131,143,Associazione,ORG,Q3091708
+document_110032.html,188,199,San Tommaso,PER,Q9438
+document_110032.html,535,538,Dio,PER,Q825
+document_110032.html,602,608,Chiesa,ORG,Q34651
+document_110032.html,752,762,S. Tommaso,PER,Q9438
+document_110063.html,62,98,Università Cattolica del Sacro Cuore,ORG,Q229022
+document_110144.html,38,43,Padre,PER,Q2604
+document_110160.html,31,40,Sindacati,ORG,Q178790
+document_110160.html,85,91,Italia,LOC,Q38
+document_110160.html,188,197,Sindacati,ORG,Q178790
+document_110179.html,57,63,Italia,LOC,Q38
+document_110234.html,48,52,Roma,LOC,Q220
+document_110234.html,89,107,Laureati Cattolici,ORG,Q3866579
+document_110234.html,157,166,Movimento,ORG,Q3866579
+document_110234.html,339,345,A.C.I.,ORG,Q3318304
+document_110234.html,371,380,Movimento,ORG,Q3866579
+document_121159.html,87,94,Mortati,PER,Q3695539
+document_121159.html,115,123,Lucifero,PER,Q3938910
+document_121159.html,243,251,Lucifero,PER,Q3938910
+document_121159.html,314,320,Senato,ORG,Q633872
+document_122077.html,41,50,Aldo Moro,PER,Q171834
+document_122077.html,93,95,DC,ORG,Q815348
+document_122077.html,111,121,Parlamento,ORG,Q1117578
+document_122077.html,129,131,DC,ORG,Q815348
+document_122077.html,157,178,piazza San Ferdinando,LOC,NIL
+document_131072.html,49,73,Presidente del Consiglio,PER,Q273228
+document_131072.html,434,441,Morlino,PER,Q674952
+document_131148.html,132,152,Democrazia Cristiana,ORG,Q815348
+document_131148.html,235,240,Paese,LOC,Q38
+document_131148.html,343,363,Democrazia Cristiana,ORG,Q815348
+document_131148.html,503,523,Democrazia Cristiana,ORG,Q815348
+document_131148.html,610,630,Democrazia Cristiana,ORG,Q815348
+document_131148.html,677,682,Paese,LOC,Q38
+document_131148.html,825,830,Paese,LOC,Q38
+document_131148.html,1052,1057,Paese,LOC,Q38
+document_131148.html,1187,1192,Paese,LOC,Q38
+document_131170.html,168,175,Kennedy,PER,Q9696
+document_131170.html,238,243,Paese,LOC,Q30
+document_131170.html,445,452,Kennedy,PER,Q9696
+document_132026.html,255,268,Nazioni Unite,ORG,Q1065
+document_132026.html,650,658,alleanza,ORG,Q7184
+document_132026.html,905,913,alleanza,ORG,Q7184
+document_132118.html,135,153,Alleanza atlantica,ORG,Q7184
+document_132118.html,452,459,Governo,ORG,Q3112299
+document_132118.html,657,665,Alleanza,ORG,Q7184
+document_132122.html,0,4,Roma,LOC,Q220
+document_132122.html,69,76,Fanfani,PER,Q273228
+document_132174.html,32,41,Aldo Moro,PER,Q171834
+document_132174.html,178,188,Presidente,PER,Q596724
+document_132174.html,193,197,Coni,ORG,Q1114833
+document_132174.html,249,263,organizzazione,ORG,Q1114833
+document_132174.html,355,362,Governo,ORG,Q3773971
+document_132174.html,560,564,Moro,PER,Q171834
+document_132174.html,679,684,Paese,LOC,Q38
+document_132186.html,158,177,Camera di Commercio,ORG,Q1123526
+document_132186.html,181,185,Bari,LOC,Q3519
+document_141255.html,11,18,Trieste,LOC,Q546
+document_141255.html,33,40,Gorizia,LOC,Q6596
+document_141255.html,44,49,Udine,LOC,Q2790
+document_141255.html,80,89,Aldo Moro,PER,Q171834
+document_141255.html,130,136,Italia,LOC,Q38
+document_141255.html,266,271,Paese,LOC,Q38
+document_142026.html,44,50,Parigi,LOC,Q90
+document_142026.html,336,340,Cile,LOC,Q298
+document_142026.html,357,363,Grecia,LOC,Q41
+document_142026.html,441,445,URSS,LOC,Q15180
+document_142026.html,472,479,Oriente,LOC,NIL
+document_142029.html,6,20,Arabia Saudita,LOC,Q851
+document_142029.html,44,48,Moro,PER,Q171834
+document_142029.html,222,236,Arabia Saudita,LOC,Q851
+document_142029.html,797,803,Senato,ORG,Q633872
+document_142029.html,940,943,CEE,ORG,Q52847
+document_142205.html,218,228,Zaccagnini,PER,Q817307
+document_142250.html,70,78,Amendola,PER,Q939831
+document_142250.html,89,100,Petruccioli,PER,Q3680181
+document_142250.html,389,397,Amendola,PER,Q939831
+document_142250.html,438,449,Petruccioli,PER,Q3680181
+document_142250.html,632,640,Amendola,PER,Q939831
+document_142250.html,783,799,Governo Tambroni,ORG,Q3773955

@@ -650,238 +650,238 @@ document_141307.html,amministrazione italiana,1311,1335,ORG,NIL,NER,yes,train,,
 document_141307.html,amministrazione italiana,1597,1621,ORG,NIL,NER,yes,train,,
 document_141310.html,Aldo Moro,6,15,PER,Q171834,AMD,yes,train,,
 document_141310.html,Congresso,137,146,ORG,NIL,NER,yes,train,,
-document_141312.html,Aldo Moro,6,15,PER,Q171834,AMD,no,train,,
-document_141312.html,Paese,360,365,LOC,Q38,AMD,no,train,,
-document_141312.html,collega,1140,1147,PER,Q76297,AMD,no,train,,
-document_141312.html,partiti,419,426,ORG,Q7278,AMD,no,train,,
-document_141312.html,Congresso nazionale,58,77,ORG,,NER,no,train,,
-document_141313.html,Aldo Moro,6,15,PER,Q171834,AMD,no,train,,
-document_141313.html,Paese,889,894,LOC,Q38,AMD,no,train,,
-document_141317.html,Paese,359,364,LOC,Q38,AMD,no,train,,
-document_141317.html,Congresso Nazionale,33,52,ORG,,NER,no,train,,
-document_141320.html,Aldo Moro,6,15,PER,Q171834,AMD,no,train,,
-document_141321.html,collega,1172,1179,PER,Q76297,AMD,no,train,,
-document_141321.html,Unione Tipografica Editrice Torinese,149,185,ORG,,NER,no,train,,
-document_142002.html,partito,820,827,ORG,Q815348,AMD,no,train,,
-document_142002.html,La Discussione,16,30,ORG,,NER,no,train,,
-document_142002.html,Congresso,99,108,ORG,,NER,no,train,,
-document_142002.html,Governo,777,784,ORG,,NER,no,train,,
-document_142004.html,Aldo Moro,7,16,PER,Q171834,AMD,no,train,,
-document_142004.html,Paese,354,359,LOC,Q38,AMD,no,train,,
-document_142004.html,Paese,892,897,LOC,Q38,AMD,no,train,,
-document_142008.html,Moro,13,17,PER,Q171834,AMD,no,train,,
-document_142008.html,ministro,4,12,PER,Q2514,AMD,no,train,,
-document_142010.html,Presidente,8,18,PER,Q4003497,AMD,no,train,,
-document_142010.html,Governo,43,50,ORG,,NER,no,train,,
-document_142010.html,governo costituzionale,229,251,ORG,,NER,no,train,,
-document_142014.html,Certes,3,9,PER,,NER,no,train,,
-document_142015.html,comunità,762,770,ORG,Q52847,AMD,no,train,,
-document_142015.html,continente,269,279,LOC,Q15,AMD,no,train,,
-document_142015.html,Governo italiano,837,853,ORG,,NER,no,train,,
-document_142016.html,regione,758,765,LOC,Q1447,AMD,no,train,,
-document_142017.html,Ministre,13,21,PER,Q1884962,AMD,no,train,,
-document_142019.html,Commissione,389,400,ORG,Q3684787,AMD,no,train,,
-document_142019.html,Moro,1,5,PER,Q171834,AMD,no,train,,
-document_142021.html,Paese,127,132,LOC,Q38,AMD,no,train,,
-document_142021.html,collega,343,350,PER,Q76297,AMD,no,train,,
-document_142021.html,partiti,83,90,ORG,Q7278,AMD,no,train,,
-document_142022.html,Paese,299,304,LOC,Q38,AMD,no,train,,
-document_142022.html,Parlamento italiano,73,92,ORG,,NER,no,train,,
-document_142022.html,Governo,226,233,ORG,,NER,no,train,,
-document_142022.html,Parlamento,282,292,ORG,,NER,no,train,,
-document_142022.html,Parlamento,495,505,ORG,,NER,no,train,,
-document_142023.html,Moro,1,5,PER,Q171834,AMD,no,train,,
-document_142023.html,presidente,208,218,PER,Q4003497,AMD,no,train,,
-document_142024.html,Ministro,72,80,PER,NIL,AMD,no,train,,
-document_142024.html,regione,502,509,LOC,Q1447,AMD,no,train,,
-document_142024.html,governo italiano,260,276,ORG,,NER,no,train,,
-document_142027.html,paese,341,346,LOC,Q38,AMD,no,train,,
-document_142027.html,Parlamento,200,210,ORG,,NER,no,train,,
-document_142028.html,Moro,378,382,PER,Q171834,AMD,no,train,,
-document_142028.html,paese,50,55,LOC,Q38,AMD,no,train,,
-document_142030.html,Moro,558,562,PER,Q171834,AMD,no,train,,
-document_142030.html,paese,1000,1005,LOC,Q38,AMD,no,train,,
-document_142030.html,Senato,272,278,ORG,,NER,no,train,,
-document_142032.html,Presidente,87,97,PER,Q4003497,AMD,no,train,,
-document_142034.html,Comunità,2013,2021,ORG,Q52847,AMD,no,train,,
-document_142034.html,Paese,503,508,LOC,Q38,AMD,no,train,,
-document_142035.html,Moro,352,356,PER,Q171834,AMD,no,train,,
-document_142035.html,Paese,302,307,LOC,Q38,AMD,no,train,,
-document_142035.html,alleanza,625,633,ORG,Q7184,AMD,no,train,,
-document_142035.html,collega,574,581,PER,Q76297,AMD,no,train,,
-document_142035.html,unione europea,672,686,ORG,Q458,AMD,no,train,,
-document_142036.html,Moro,13,17,PER,Q171834,AMD,no,train,,
-document_142036.html,Moro,458,462,PER,Q171834,AMD,no,train,,
-document_142036.html,ministro,4,12,PER,Q2514,AMD,no,train,,
-document_142036.html,Parlamento britannico,744,765,ORG,,NER,no,train,,
-document_142040.html,Presidente,8,18,PER,Q4003497,AMD,no,train,,
-document_142040.html,Repubblica,107,117,LOC,Q1014,AMD,no,train,,
-document_142040.html,Repubblica,890,900,LOC,Q1014,AMD,no,train,,
-document_142040.html,paese,750,755,LOC,Q38,AMD,no,train,,
-document_142040.html,presidente,85,95,PER,Q4003497,AMD,no,train,,
-document_142040.html,presidente,873,883,PER,Q4003497,AMD,no,train,,
-document_142044.html,Moro,54,58,PER,Q171834,AMD,no,train,,
-document_142044.html,ministro,45,53,PER,Q2514,AMD,no,train,,
-document_142047.html,Moro,91,95,PER,Q171834,AMD,no,train,,
-document_142051.html,Paese,279,284,LOC,Q38,AMD,no,train,,
-document_142052.html,Moro,1,5,PER,Q171834,AMD,no,train,,
-document_142052.html,Moro,352,356,PER,Q171834,AMD,no,train,,
-document_142052.html,Moro,606,610,PER,Q171834,AMD,no,train,,
-document_142052.html,Conferenza sulla sicurezza,23,49,ORG,,NER,no,train,,
-document_142052.html,CSCE,79,83,ORG,,NER,no,train,,
-document_142054.html,Moro,1,5,PER,Q171834,AMD,no,train,,
-document_142054.html,Moro,416,420,PER,Q171834,AMD,no,train,,
-document_142054.html,ministro,171,179,PER,Q2514,AMD,no,train,,
-document_142054.html,Unione economica e monetaria,501,529,ORG,,NER,no,train,,
-document_142056.html,Partito,570,577,ORG,Q815348,AMD,no,train,,
-document_142056.html,Partito,741,748,ORG,Q815348,AMD,no,train,,
-document_142056.html,Partito,1099,1106,ORG,Q815348,AMD,no,train,,
-document_142056.html,Congresso,16,25,ORG,,NER,no,train,,
-document_142056.html,Congresso,520,529,ORG,,NER,no,train,,
-document_142058.html,Moro,1,5,PER,Q171834,AMD,no,train,,
-document_142060.html,comunità,89,97,ORG,Q52847,AMD,no,train,,
-document_142061.html,Assemblea,258,267,ORG,Q1053185,AMD,no,train,,
-document_142061.html,Assemblea,1102,1111,ORG,Q1053185,AMD,no,train,,
-document_142061.html,Costituente,125,136,ORG,Q1053185,AMD,no,train,,
-document_142061.html,Repubblica,1156,1166,LOC,Q1014,AMD,no,train,,
-document_142061.html,commissione,158,169,ORG,Q3684787,AMD,no,train,,
-document_142061.html,costituente,1112,1123,ORG,Q1053185,AMD,no,train,,
-document_142061.html,governo,702,709,ORG,,NER,no,train,,
-document_142064.html,governo,144,151,ORG,,NER,no,train,,
-document_142066.html,Moro,227,231,PER,Q171834,AMD,no,train,,
-document_142067.html,Moro,105,109,PER,Q171834,AMD,no,train,,
-document_142067.html,Moro,374,378,PER,Q171834,AMD,no,train,,
-document_142067.html,presidente,74,84,PER,Q4003497,AMD,no,train,,
-document_142069.html,Moro,1,5,PER,Q171834,AMD,no,train,,
-document_142069.html,Moro,244,248,PER,Q171834,AMD,no,train,,
-document_142069.html,partiti,216,223,ORG,Q7278,AMD,no,train,,
-document_142069.html,partiti,495,502,ORG,Q7278,AMD,no,train,,
-document_142069.html,partito,679,686,ORG,Q815348,AMD,no,train,,
-document_142069.html,governo monocolore,465,483,ORG,,NER,no,train,,
-document_142070.html,partiti,237,244,ORG,Q7278,AMD,no,train,,
-document_142070.html,governo,264,271,ORG,,NER,no,train,,
-document_142071.html,Governo,43,50,ORG,,NER,no,train,,
-document_142072.html,Assemblea,283,292,ORG,Q1053185,AMD,no,train,,
-document_142072.html,Presidente,381,391,PER,Q4003497,AMD,no,train,,
-document_142072.html,Repubblica,93,103,LOC,Q1014,AMD,no,train,,
-document_142072.html,Consiglio,396,405,ORG,,NER,no,train,,
-document_142076.html,Partiti,61,68,ORG,Q7278,AMD,no,train,,
-document_142076.html,Partiti,539,546,ORG,Q7278,AMD,no,train,,
-document_142076.html,Partiti,1023,1030,ORG,Q7278,AMD,no,train,,
-document_142076.html,Presidente,836,846,PER,Q4003497,AMD,no,train,,
-document_142076.html,Parlamento,44,54,ORG,,NER,no,train,,
-document_142076.html,Governo,172,179,ORG,,NER,no,train,,
-document_142076.html,Governo,603,610,ORG,,NER,no,train,,
-document_142076.html,Governo,748,755,ORG,,NER,no,train,,
-document_142076.html,Consiglio,851,860,ORG,,NER,no,train,,
-document_142080.html,Paese,281,286,LOC,Q38,AMD,no,train,,
-document_142080.html,Paese,357,362,LOC,Q38,AMD,no,train,,
-document_142087.html,Roma,133,137,LOC,Q220,AMD,no,train,,
-document_142091.html,Sua Maestà,36,46,PER,,NER,no,train,,
-document_142097.html,Assemblea,90,99,ORG,Q1053185,AMD,no,train,,
-document_142097.html,Assemblea,784,793,ORG,Q1053185,AMD,no,train,,
-document_142097.html,partito,242,249,ORG,Q815348,AMD,no,train,,
-document_142103.html,paese,453,458,LOC,Q38,AMD,no,train,,
-document_142103.html,partito,174,181,ORG,Q815348,AMD,no,train,,
-document_142103.html,partito,401,408,ORG,Q815348,AMD,no,train,,
-document_142109.html,Moro,31,35,PER,Q171834,AMD,no,train,,
-document_142111.html,governo finlandese,64,82,ORG,,NER,no,train,,
-document_142111.html,Conferenza,182,192,ORG,,NER,no,train,,
-document_142111.html,governo elvetico,232,248,ORG,,NER,no,train,,
-document_142115.html,Moro,21,25,PER,Q171834,AMD,no,train,,
-document_142115.html,Presidente,276,286,PER,Q4003497,AMD,no,train,,
-document_142115.html,governo italiano,47,63,ORG,,NER,no,train,,
-document_142115.html,Consiglio,291,300,ORG,,NER,no,train,,
-document_142117.html,Governo,50,57,ORG,,NER,no,train,,
-document_142118.html,Consiglio europeo,37,54,ORG,Q8886,AMD,no,train,,
-document_142118.html,Moro,1,5,PER,Q171834,AMD,no,train,,
-document_142118.html,paese,296,301,LOC,Q38,AMD,no,train,,
-document_142118.html,presidente,13,23,PER,Q4003497,AMD,no,train,,
-document_142120.html,presidente,275,285,PER,Q4003497,AMD,no,train,,
-document_142120.html,Consiglio,290,299,ORG,,NER,no,train,,
-document_142123.html,Governo,46,53,ORG,,NER,no,train,,
-document_142123.html,Parlamento,271,281,ORG,,NER,no,train,,
-document_142123.html,Governo,897,904,ORG,,NER,no,train,,
-document_142123.html,Parlamento,1248,1258,ORG,,NER,no,train,,
-document_142126.html,città,263,268,LOC,Q3519,AMD,no,train,,
-document_142126.html,Governo,391,398,ORG,,NER,no,train,,
-document_142126.html,Governo,1244,1251,ORG,,NER,no,train,,
-document_142128.html,organizzazione,534,548,ORG,Q3682549,AMD,no,train,,
-document_142128.html,presidente,127,137,PER,Q4003497,AMD,no,train,,
-document_142128.html,governo,332,339,ORG,,NER,no,train,,
-document_142129.html,governo italiano,136,152,ORG,,NER,no,train,,
-document_142131.html,Europa,40,46,LOC,Q46,AMD,no,train,,
-document_142131.html,Est-Ovest,391,400,LOC,,NER,no,train,,
-document_142132.html,Moro,57,61,PER,Q171834,AMD,no,train,,
-document_142133.html,Moro,167,171,PER,Q171834,AMD,no,train,,
-document_142133.html,presidente,133,143,PER,Q4003497,AMD,no,train,,
-document_142136.html,Parlamento europeo,29,47,ORG,,NER,no,train,,
-document_142137.html,Sottufficiali,12,25,ORG,,NER,no,train,,
-document_142137.html,Allievi Ufficiali,27,44,ORG,,NER,no,train,,
-document_142137.html,Marina,46,52,ORG,,NER,no,train,,
-document_142137.html,Accademia Navale,151,167,ORG,,NER,no,train,,
-document_142142.html,Paese,294,299,LOC,Q38,AMD,no,train,,
-document_142142.html,comunità,626,634,ORG,Q52847,AMD,no,train,,
-document_142145.html,partito,1043,1050,ORG,Q815348,AMD,no,train,,
-document_142146.html,partito,509,516,ORG,Q815348,AMD,no,train,,
-document_142146.html,Governo,53,60,ORG,,NER,no,train,,
-document_142147.html,Governo,545,552,ORG,,NER,no,train,,
-document_142148.html,Senato,82,88,ORG,,NER,no,train,,
-document_142148.html,Senato,425,431,ORG,,NER,no,train,,
-document_142150.html,Paese,754,759,LOC,Q38,AMD,no,train,,
-document_142150.html,partiti,641,648,ORG,Q7278,AMD,no,train,,
-document_142154.html,Governo,80,87,ORG,,NER,no,train,,
-document_142154.html,Parlamento,107,117,ORG,,NER,no,train,,
-document_142154.html,amministrazione,591,606,ORG,,NER,no,train,,
-document_142155.html,Governo,249,256,ORG,,NER,no,train,,
-document_142156.html,Paese,228,233,LOC,Q38,AMD,no,train,,
-document_142156.html,regione,194,201,LOC,Q1447,AMD,no,train,,
-document_142158.html,Governo,571,578,ORG,,NER,no,train,,
-document_142159.html,paese,549,554,LOC,Q38,AMD,no,train,,
-document_142159.html,Parlamento,780,790,ORG,,NER,no,train,,
-document_142161.html,Aldo Moro,33,42,PER,Q171834,AMD,no,train,,
-document_142161.html,Paese,430,435,LOC,Q38,AMD,no,train,,
-document_142161.html,Paese,1030,1035,LOC,Q38,AMD,no,train,,
-document_142161.html,Partito,370,377,ORG,Q815348,AMD,no,train,,
-document_142161.html,Presidente,3,13,PER,Q4003497,AMD,no,train,,
-document_142161.html,Consiglio,18,27,ORG,,NER,no,train,,
-document_142161.html,Governo monocolore,819,837,ORG,,NER,no,train,,
-document_142161.html,Parlamento,1131,1141,ORG,,NER,no,train,,
-document_142161.html,Governo,1326,1333,ORG,,NER,no,train,,
-document_142162.html,Aldo Moro,33,42,PER,Q171834,AMD,no,train,,
-document_142162.html,Presidente,3,13,PER,Q4003497,AMD,no,train,,
-document_142162.html,partito,892,899,ORG,Q815348,AMD,no,train,,
-document_142162.html,Consiglio,18,27,ORG,,NER,no,train,,
-document_142163.html,Aldo Moro,33,42,PER,Q171834,AMD,no,train,,
-document_142163.html,Presidente,3,13,PER,Q4003497,AMD,no,train,,
-document_142163.html,Consiglio,18,27,ORG,,NER,no,train,,
-document_142163.html,Magistratura,200,212,ORG,,NER,no,train,,
-document_142167.html,Sindacati,535,544,ORG,Q178790,AMD,no,train,,
-document_142167.html,Parlamento,518,528,ORG,,NER,no,train,,
-document_142168.html,Ministro,1105,1113,PER,NIL,AMD,no,train,,
-document_142168.html,Ministro,1661,1669,PER,NIL,AMD,no,train,,
-document_142168.html,Paese,1697,1702,LOC,Q38,AMD,no,train,,
-document_142168.html,città,436,441,LOC,Q3519,AMD,no,train,,
-document_142168.html,partito,663,670,ORG,Q815348,AMD,no,train,,
-document_142168.html,partito,1511,1518,ORG,Q815348,AMD,no,train,,
-document_142168.html,partito,1554,1561,ORG,Q815348,AMD,no,train,,
-document_142168.html,presidente,759,769,PER,Q4003497,AMD,no,train,,
-document_142171.html,Movimento,86,95,ORG,Q3866579,AMD,no,train,,
-document_142171.html,presidente,71,81,PER,Q4003497,AMD,no,train,,
-document_142171.html,Governo italiano,175,191,ORG,,NER,no,train,,
-document_142171.html,Parlamento europeo,533,551,ORG,,NER,no,train,,
-document_142178.html,partiti,13,20,ORG,Q7278,AMD,no,train,,
-document_142190.html,La Stampa,59,68,ORG,,NER,no,train,,
-document_142191.html,Aldo Moro,12,21,PER,Q171834,AMD,no,train,,
-document_142191.html,Consiglio dei ministri,441,463,ORG,,NER,no,train,,
-document_142191.html,Parlamento europeo,565,583,ORG,,NER,no,train,,
-document_142191.html,Stati nazionali,1148,1163,ORG,,NER,no,train,,
-document_142200.html,Commissione,45,56,ORG,Q3684787,AMD,no,train,,
-document_142200.html,Commissione,328,339,ORG,Q3684787,AMD,no,train,,
-document_142200.html,presidente,28,38,PER,Q4003497,AMD,no,train,,
-document_142201.html,Onorevoli Deputati,42,60,PER,,NER,no,train,,
-document_142203.html,Moro,31,35,PER,Q171834,AMD,no,train,,
-document_142203.html,ministro,146,154,PER,Q2514,AMD,no,train,,
-document_142203.html,palazzo Chigi,54,67,LOC,,NER,no,train,,
-document_142204.html,Presidente,659,669,PER,Q4003497,AMD,no,train,,
-document_142204.html,ministro,691,699,PER,Q2514,AMD,no,train,,
+document_141312.html,Aldo Moro,6,15,PER,Q171834,AMD,yes,train
+document_141312.html,Paese,360,365,LOC,Q38,AMD,yes,train
+document_141312.html,collega,1140,1147,PER,Q76297,AMD,no,train
+document_141312.html,partiti,419,426,ORG,Q7278,AMD,yes,train
+document_141312.html,Congresso nazionale,58,77,ORG,,NER,no,train
+document_141313.html,Aldo Moro,6,15,PER,Q171834,AMD,yes,train
+document_141313.html,Paese,889,894,LOC,Q38,AMD,yes,train
+document_141317.html,Paese,359,364,LOC,Q38,AMD,yes,train
+document_141317.html,Congresso Nazionale,33,52,ORG,,NER,no,train
+document_141320.html,Aldo Moro,6,15,PER,Q171834,AMD,yes,train
+document_141321.html,collega,1172,1179,PER,Q76297,AMD,no,train
+document_141321.html,Unione Tipografica Editrice Torinese,149,185,ORG,Q4002388,NER,yes,train
+document_142002.html,partito,820,827,ORG,Q815348,AMD,yes,train
+document_142002.html,La Discussione,16,30,ORG,Q3208294,NER,yes,train
+document_142002.html,Congresso,99,108,ORG,,NER,no,train
+document_142002.html,Governo,777,784,ORG,Q3111863,NER,yes,train
+document_142004.html,Aldo Moro,7,16,PER,Q171834,AMD,yes,train
+document_142004.html,Paese,354,359,LOC,Q38,AMD,yes,train
+document_142004.html,Paese,892,897,LOC,Q38,AMD,yes,train
+document_142008.html,Moro,13,17,PER,Q171834,AMD,yes,train
+document_142008.html,ministro,4,12,PER,Q2514,AMD,no,train
+document_142010.html,Presidente,8,18,PER,Q1233,AMD,yes,train
+document_142010.html,Governo,43,50,ORG,Q3112434,NER,yes,train
+document_142010.html,governo costituzionale,229,251,ORG,,NER,no,train
+document_142014.html,Certes,3,9,PER,,NER,no,train
+document_142015.html,comunità,762,770,ORG,Q52847,AMD,no,train
+document_142015.html,continente,269,279,LOC,Q15,AMD,no,train
+document_142015.html,Governo italiano,837,853,ORG,Q3773971,NER,yes,train
+document_142016.html,regione,758,765,LOC,Q1447,AMD,no,train
+document_142017.html,Ministre,13,21,PER,Q171834,AMD,yes,train
+document_142019.html,Commissione,389,400,ORG,Q8880,AMD,yes,train
+document_142019.html,Moro,1,5,PER,Q171834,AMD,yes,train
+document_142021.html,Paese,127,132,LOC,Q38,AMD,yes,train
+document_142021.html,collega,343,350,PER,Q76297,AMD,no,train
+document_142021.html,partiti,83,90,ORG,Q7278,AMD,yes,train
+document_142022.html,Paese,299,304,LOC,Q38,AMD,yes,train
+document_142022.html,Parlamento italiano,73,92,ORG,Q1117578,NER,yes,train
+document_142022.html,Governo,226,233,ORG,Q3112434,NER,yes,train
+document_142022.html,Parlamento,282,292,ORG,Q1117578,NER,yes,train
+document_142022.html,Parlamento,495,505,ORG,Q1117578,NER,yes,train
+document_142023.html,Moro,1,5,PER,Q171834,AMD,yes,train
+document_142023.html,presidente,208,218,PER,Q4003497,AMD,no,train
+document_142024.html,Ministro italiano,72,89,PER,Q171834,AMD,yes,train
+document_142024.html,regione,502,509,LOC,Q1447,AMD,no,train
+document_142024.html,governo italiano,260,276,ORG,Q3112434,NER,yes,train
+document_142027.html,paese,341,346,LOC,Q38,AMD,yes,train
+document_142027.html,Parlamento,200,210,ORG,Q1117578,NER,yes,train
+document_142028.html,Moro,378,382,PER,Q171834,AMD,yes,train
+document_142028.html,paese,50,55,LOC,Q817,AMD,yes,train
+document_142030.html,Moro,558,562,PER,Q171834,AMD,no,train
+document_142030.html,paese,1000,1005,LOC,Q38,AMD,yes,train
+document_142030.html,Senato,272,278,ORG,Q633872,NER,yes,train
+document_142032.html,Presidente,87,97,PER,Q4003497,AMD,no,train
+document_142034.html,Comunità,2013,2021,ORG,Q52847,AMD,yes,train
+document_142034.html,Paese,503,508,LOC,Q38,AMD,yes,train
+document_142035.html,Moro,352,356,PER,Q171834,AMD,yes,train
+document_142035.html,Paese,302,307,LOC,Q142,AMD,yes,train
+document_142035.html,alleanza,625,633,ORG,Q7184,AMD,no,train
+document_142035.html,collega,574,581,PER,Q76297,AMD,no,train
+document_142035.html,unione europea,672,686,ORG,Q458,AMD,yes,train
+document_142036.html,Moro,13,17,PER,Q171834,AMD,yes,train
+document_142036.html,Moro,458,462,PER,Q171834,AMD,yes,train
+document_142036.html,ministro,4,12,PER,Q2514,AMD,no,train
+document_142036.html,Parlamento britannico,744,765,ORG,Q11010,NER,yes,train
+document_142040.html,Presidente,8,18,PER,Q4003497,AMD,no,train
+document_142040.html,Repubblica,107,117,LOC,Q1014,AMD,no,train
+document_142040.html,Repubblica,890,900,LOC,Q1014,AMD,no,train
+document_142040.html,paese,750,755,LOC,Q40,AMD,yes,train
+document_142040.html,presidente,85,95,PER,Q4003497,AMD,no,train
+document_142040.html,presidente,873,883,PER,Q4003497,AMD,no,train
+document_142044.html,Moro,54,58,PER,Q171834,AMD,yes,train
+document_142044.html,ministro,45,53,PER,Q2514,AMD,no,train
+document_142047.html,Moro,91,95,PER,Q171834,AMD,yes,train
+document_142051.html,Paese,279,284,LOC,Q233,AMD,yes,train
+document_142052.html,Moro,1,5,PER,Q171834,AMD,yes,train
+document_142052.html,Moro,352,356,PER,Q171834,AMD,yes,train
+document_142052.html,Moro,606,610,PER,Q171834,AMD,yes,train
+document_142052.html,Conferenza sulla sicurezza,23,49,ORG,Q81299,NER,no,train
+document_142052.html,CSCE,79,83,ORG,Q81299,NER,yes,train
+document_142054.html,Moro,1,5,PER,Q171834,AMD,yes,train
+document_142054.html,Moro,416,420,PER,Q171834,AMD,yes,train
+document_142054.html,ministro,171,179,PER,Q2514,AMD,no,train
+document_142054.html,Unione economica e monetaria,501,529,ORG,Q212141,NER,yes,train
+document_142056.html,Partito,570,577,ORG,Q815348,AMD,yes,train
+document_142056.html,Partito,741,748,ORG,Q815348,AMD,yes,train
+document_142056.html,Partito,1099,1106,ORG,Q815348,AMD,yes,train
+document_142056.html,Congresso,16,25,ORG,,NER,no,train
+document_142056.html,Congresso,520,529,ORG,,NER,no,train
+document_142058.html,Moro,1,5,PER,Q171834,AMD,yes,train
+document_142060.html,comunità,89,97,ORG,Q52847,AMD,no,train
+document_142061.html,Assemblea,258,267,ORG,Q1053185,AMD,no,train
+document_142061.html,Assemblea costituente,1102,1123,ORG,Q1053185,AMD,yes,train
+document_142061.html,Costituente,125,136,ORG,Q1053185,AMD,yes,train
+document_142061.html,Repubblica italiana,1156,1175,LOC,Q1014,AMD,Q38,train
+document_142061.html,commissione,158,169,ORG,Q3684787,AMD,no,train
+document_142061.html,costituente,1112,1123,ORG,Q1053185,AMD,no,train
+document_142061.html,governo,702,709,ORG,,NER,no,train
+document_142064.html,governo,144,151,ORG,Q3773901,NER,yes,train
+document_142066.html,Moro,227,231,PER,Q171834,AMD,yes,train
+document_142067.html,Moro,105,109,PER,Q171834,AMD,yes,train
+document_142067.html,Moro,374,378,PER,Q171834,AMD,yes,train
+document_142067.html,presidente,74,84,PER,Q4003497,AMD,no,train
+document_142069.html,Moro,1,5,PER,Q171834,AMD,yes,train
+document_142069.html,Moro,244,248,PER,Q171834,AMD,yes,train
+document_142069.html,partiti,216,223,ORG,Q7278,AMD,no,train
+document_142069.html,partiti,495,502,ORG,Q7278,AMD,no,train
+document_142069.html,partito,679,686,ORG,Q815348,AMD,no,train
+document_142069.html,governo monocolore,465,483,ORG,,NER,no,train
+document_142070.html,partiti,237,244,ORG,Q7278,AMD,no,train
+document_142070.html,governo,264,271,ORG,,NER,no,train
+document_142071.html,Governo,43,50,ORG,Q3773901NER,yes,train
+document_142072.html,Assemblea,283,292,ORG,Q841424,AMD,yes,train
+document_142072.html,Presidente del Consiglio,381,405,PER,Q171834,AMD,yes,train
+document_142072.html,Senato della Repubblica,80,103,LOC,Q633872,AMD,yes,train
+document_142072.html,Consiglio,396,405,ORG,,NER,no,train
+document_142076.html,Partiti,61,68,ORG,Q7278,AMD,yes,train
+document_142076.html,Partiti,539,546,ORG,Q7278,AMD,yes,train
+document_142076.html,Partiti,1023,1030,ORG,Q7278,AMD,yes,train
+document_142076.html,Presidente,836,846,PER,Q4003497,AMD,no,train
+document_142076.html,Parlamento,44,54,ORG,Q1117578,NER,yes,train
+document_142076.html,Governo,172,179,ORG,Q3773901,NER,yes,train
+document_142076.html,Governo,603,610,ORG,Q3773901,NER,yes,train
+document_142076.html,Governo,748,755,ORG,Q3773901,NER,yes,train
+document_142076.html,Consiglio,851,860,ORG,,NER,no,train
+document_142080.html,Paese,281,286,LOC,Q40,AMD,yes,train
+document_142080.html,Paese,357,362,LOC,Q40,AMD,yes,train
+document_142087.html,Roma,133,137,LOC,Q220,AMD,yes,train
+document_142091.html,Sua Maestà,36,46,PER,,NER,no,train
+document_142097.html,Assemblea,90,99,ORG,Q1053185,AMD,no,train
+document_142097.html,Assemblea,784,793,ORG,Q1053185,AMD,no,train
+document_142097.html,partito,242,249,ORG,Q815348,AMD,no,train
+document_142103.html,paese,453,458,LOC,Q38,AMD,yes,train
+document_142103.html,partito,174,181,ORG,Q815348,AMD,no,train
+document_142103.html,partito,401,408,ORG,Q815348,AMD,no,train
+document_142109.html,Moro,31,35,PER,Q171834,AMD,yes,train
+document_142111.html,governo finlandese,64,82,ORG,Q2366737,NER,yes,train
+document_142111.html,Conferenza,182,192,ORG,Q318161,NER,yes,train
+document_142111.html,governo elvetico,232,248,ORG,Q30917,NER,yes,train
+document_142115.html,Moro,21,25,PER,Q171834,AMD,yes,train
+document_142115.html,Presidente del Consiglio,276,300,PER,Q171834,AMD,yes,train
+document_142115.html,governo italiano,47,63,ORG,Q3773971,NER,yes,train
+document_142115.html,Consiglio,291,300,ORG,,NER,no,train
+document_142117.html,Governo,50,57,ORG,Q3773901,NER,yes,train
+document_142118.html,Consiglio europeo,37,54,ORG,Q8886,AMD,yes,train
+document_142118.html,Moro,1,5,PER,Q171834,AMD,yes,train
+document_142118.html,paese,296,301,LOC,Q38,AMD,no,train
+document_142118.html,presidente,13,23,PER,Q4003497,AMD,no,train
+document_142120.html,presidente del Consiglio,275,299,PER,Q171834,AMD,yes,train
+document_142120.html,Consiglio,290,299,ORG,,NER,no,train
+document_142123.html,Governo,46,53,ORG,Q3773901,NER,yes,train
+document_142123.html,Parlamento,271,281,ORG,Q1117578,NER,yes,train
+document_142123.html,Governo,897,904,ORG,Q3773901,NER,yes,train
+document_142123.html,Parlamento,1248,1258,ORG,Q1117578,NER,yes,train
+document_142126.html,città vecchia,263,276,LOC,Q3519,AMD,yes,train
+document_142126.html,Governo,391,398,ORG,Q3773901,NER,yes,train
+document_142126.html,Governo,1244,1251,ORG,Q3773901,NER,yes,train
+document_142128.html,organizzazione,534,548,ORG,Q3682549,AMD,no,train
+document_142128.html,presidente,127,137,PER,Q4003497,AMD,no,train
+document_142128.html,governo,332,339,ORG,Q3773901,NER,yes,train
+document_142129.html,governo italiano,136,152,ORG,Q3773971,NER,yes,train
+document_142131.html,Europa,40,46,LOC,Q46,AMD,no,train
+document_142131.html,Est-Ovest,391,400,LOC,Q4162564,NER,yes,train
+document_142132.html,Moro,57,61,PER,Q171834,AMD,yes,train
+document_142133.html,Moro,167,171,PER,Q171834,AMD,yes,train
+document_142133.html,presidente,133,143,PER,Q4003497,AMD,no,train
+document_142136.html,Parlamento europeo,29,47,ORG,Q8889,NER,yes,train
+document_142137.html,Sottufficiali,12,25,ORG,,NER,no,train
+document_142137.html,Allievi Ufficiali,27,44,ORG,,NER,no,train
+document_142137.html,Marina,46,52,ORG,,NER,no,train
+document_142137.html,Accademia Navale,151,167,ORG,Q497499,NER,yes,train
+document_142142.html,Paese,294,299,LOC,Q38,AMD,yes,train
+document_142142.html,comunità,626,634,ORG,Q52847,AMD,no,train
+document_142145.html,partito,1043,1050,ORG,Q815348,AMD,no,train
+document_142146.html,partito,509,516,ORG,Q815348,AMD,yes,train
+document_142146.html,Governo,53,60,ORG,Q3773902,NER,yes,train
+document_142147.html,Governo,545,552,ORG,Q3773902,NER,yes,train
+document_142148.html,Senato,82,88,ORG,Q633872,NER,yes,train
+document_142148.html,Senato,425,431,ORG,Q633872,NER,yes,train
+document_142150.html,Paese,754,759,LOC,Q38,AMD,yes,train
+document_142150.html,partiti,641,648,ORG,Q7278,AMD,yes,train
+document_142154.html,Governo,80,87,ORG,Q3773902,NER,yes,train
+document_142154.html,Parlamento,107,117,ORG,Q1117578,NER,yes,train
+document_142154.html,amministrazione,591,606,ORG,,NER,no,train
+document_142155.html,Governo,249,256,ORG,Q3773902,NER,yes,train
+document_142156.html,Paese,228,233,LOC,Q38,AMD,yes,train
+document_142156.html,regione,194,201,LOC,Q1447,AMD,no,train
+document_142158.html,Governo,571,578,ORG,Q3773971,NER,yes,train
+document_142159.html,paese,549,554,LOC,Q38,AMD,yes,train
+document_142159.html,Parlamento,780,790,ORG,Q1117578,NER,yes,train
+document_142161.html,Aldo Moro,33,42,PER,Q171834,AMD,yes,train
+document_142161.html,Paese,430,435,LOC,Q38,AMD,yes,train
+document_142161.html,Paese,1030,1035,LOC,Q38,AMD,yes,train
+document_142161.html,Partito,370,377,ORG,Q815348,AMD,yes,train
+document_142161.html,Presidente,3,13,PER,Q4003497,AMD,no,train
+document_142161.html,Consiglio,18,27,ORG,,NER,no,train
+document_142161.html,Governo monocolore,819,837,ORG,Q3773902,NER,yes,train
+document_142161.html,Parlamento,1131,1141,ORG,Q1117578,NER,yes,train
+document_142161.html,Governo,1326,1333,ORG,Q3773902,NER,yes,train
+document_142162.html,Aldo Moro,33,42,PER,Q171834,AMD,yes,train
+document_142162.html,Presidente,3,13,PER,Q4003497,AMD,no,train
+document_142162.html,partito,892,899,ORG,Q815348,AMD,no,train
+document_142162.html,Consiglio,18,27,ORG,,NER,no,train
+document_142163.html,Aldo Moro,33,42,PER,Q171834,AMD,yes,train
+document_142163.html,Presidente,3,13,PER,Q4003497,AMD,no,train
+document_142163.html,Consiglio,18,27,ORG,,NER,no,train
+document_142163.html,Magistratura,200,212,ORG,Q6303109,NER,yes,train
+document_142167.html,Sindacati,535,544,ORG,Q178790,AMD,yes,train
+document_142167.html,Parlamento,518,528,ORG,Q1117578,NER,yes,train
+document_142168.html,Ministro,1105,1113,PER,NIL,AMD,no,train
+document_142168.html,Ministro,1661,1669,PER,NIL,AMD,no,train
+document_142168.html,Paese,1697,1702,LOC,Q38,AMD,yes,train
+document_142168.html,città,436,441,LOC,Q3543,AMD,yes,train
+document_142168.html,partito,663,670,ORG,Q815348,AMD,yes,train
+document_142168.html,partito,1511,1518,ORG,Q815348,AMD,yes,train
+document_142168.html,partito,1554,1561,ORG,Q815348,AMD,no,train
+document_142168.html,presidente,759,769,PER,Q4003497,AMD,no,train
+document_142171.html,Movimento federalista europeo,86,115,ORG,Q1061826,AMD,yes,train
+document_142171.html,presidente,71,81,PER,Q4003497,AMD,no,train
+document_142171.html,Governo italiano,175,191,ORG,Q3773971,NER,yes,train
+document_142171.html,Parlamento europeo,533,551,ORG,Q8889,NER,yes,train
+document_142178.html,partiti,13,20,ORG,Q7278,AMD,yes,train
+document_142190.html,La Stampa,59,68,ORG,Q923353,NER,yes,train
+document_142191.html,Aldo Moro,12,21,PER,Q171834,AMD,yes,train
+document_142191.html,Consiglio dei ministri,441,463,ORG,Q3687318,NER,yes,train
+document_142191.html,Parlamento europeo,565,583,ORG,Q8889,NER,yes,train
+document_142191.html,Stati nazionali,1148,1163,ORG,Q179671,NER,yes,train
+document_142200.html,Commissione,45,56,ORG,Q2986700,AMD,yes,train
+document_142200.html,Commissione,328,339,ORG,Q2986700,AMD,yes,train
+document_142200.html,presidente,28,38,PER,Q4003497,AMD,no,train
+document_142201.html,Onorevoli Deputati,42,60,PER,,NER,no,train
+document_142203.html,Moro,31,35,PER,Q171834,AMD,yes,train
+document_142203.html,ministro,146,154,PER,Q2514,AMD,no,train
+document_142203.html,palazzo Chigi,54,67,LOC,Q2047548,NER,yes,train
+document_142204.html,Presidente,659,669,PER,Q4003497,AMD,no,train
+document_142204.html,ministro,691,699,PER,Q2514,AMD,no,train
