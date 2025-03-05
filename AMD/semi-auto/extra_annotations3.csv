@@ -96,7 +96,7 @@ document_122004.html,Ministero,1510,1519,ORG,Q3858490,NER,yes,dev
 document_122007.html,Camera,497,503,ORG,Q841424,NER,yes,dev
 document_122007.html,Governo,526,533,ORG,Q3773971,NER,yes,dev
 document_122007.html,Camera,729,735,ORG,Q841424,NER,yes,dev
-document_122009.html,Assemblea,472,481,ORG,NIL,AMD,yes,dev
+document_122009.html,Assemblea,472,481,ORG,Q1117578,AMD,yes,dev
 document_122009.html,Commissione,204,215,ORG,Q110448096,AMD,yes,dev
 document_122009.html,Commissione,407,418,ORG,Q110448096,AMD,yes,dev
 document_122009.html,paese,1187,1192,LOC,Q38,AMD,yes,dev
@@ -188,7 +188,7 @@ document_132029.html,Regione,466,473,LOC,Q1250,AMD,yes,dev
 document_132029.html,presidente,3,13,PER,Q4003497,AMD,no,dev
 document_132029.html,regione,101,108,LOC,Q1447,AMD,no,dev
 document_132029.html,Consiglio,18,27,ORG,Q3773971,NER,yes,dev
-document_132041.html,Assemblea,1214,1223,ORG,Q841424,AMD,no,dev
+document_132041.html,Assemblea,1214,1223,ORG,Q1117578,AMD,yes,dev
 document_132041.html,Presidente,1796,1806,PER,Q796897,AMD,yes,dev
 document_132041.html,partiti,1041,1048,ORG,Q7278,AMD,yes,dev
 document_132041.html,partiti,1595,1602,ORG,Q7278,AMD,yes,dev
@@ -230,7 +230,7 @@ document_132117.html,Sindaco,169,176,PER,Q3830081,AMD,yes,dev
 document_132117.html,città,193,198,LOC,Q2044,AMD,yes,dev
 document_132117.html,presidente,3,13,PER,Q4003497,AMD,no,dev
 document_132117.html,Consiglio on,18,30,ORG,,NER,no,dev
-document_132127.html,Assemblea,132,141,ORG,Q841424,AMD,yes,dev
+document_132127.html,Assemblea,132,141,ORG,Q1117578,AMD,yes,dev
 document_132127.html,Collega,295,302,PER,Q3723216,AMD,yes,dev
 document_132127.html,partito,631,638,ORG,Q815348,AMD,yes,dev
 document_132127.html,Governo,11,18,ORG,Q3112299,NER,yes,dev
@@ -501,7 +501,7 @@ document_121229.html,Ministero degli esteri,391,413,ORG,Q789842,NER,yes,test
 document_121229.html,Ministero del tesoro,603,623,ORG,Q1116000,NER,yes,test
 document_121229.html,Camera,750,756,ORG,Q841424,NER,yes,test
 document_121229.html,Ministero degli esteri,900,922,ORG,Q789842,NER,yes,test
-document_122025.html,Assemblea,761,770,ORG,Q841424,AMD,yes,test
+document_122025.html,Assemblea,761,770,ORG,Q1117578,AMD,yes,test
 document_122025.html,Governo,400,407,ORG,Q3111999,NER,yes,test
 document_122025.html,Governo,490,497,ORG,Q3111999,NER,yes,test
 document_122025.html,Governo,653,660,ORG,Q3111999,NER,yes,test
@@ -571,10 +571,10 @@ document_131168.html,Governo,137,144,ORG,Q3112298,NER,yes,test
 document_131170.html,Paese,238,243,LOC,Q30,AMD,yes,test
 document_131170.html,Presidente,157,167,PER,Q4003497,AMD,no,test
 document_131170.html,Presidente,434,444,PER,Q4003497,AMD,no,test
-document_132001.html,Assemblea,126,135,ORG,Q841424,AMD,no,test
+document_132001.html,Assemblea,126,135,ORG,Q1117578,AMD,yes,test
 document_132001.html,Presidente,152,162,PER,Q4003497,AMD,no,test
 document_132001.html,Governo,11,18,ORG,Q3112298,NER,yes,test
-document_132003.html,Assemblea,139,148,ORG,Q1053185,AMD,no,test
+document_132003.html,Assemblea,139,148,ORG,Q1117578,AMD,yes,test
 document_132003.html,Governo,297,304,ORG,Q3112298,NER,yes,test
 document_132003.html,Governo,753,760,ORG,Q3112298,NER,yes,test
 document_132008.html,Occidente,1318,1327,LOC,Q160381,AMD,yes,test
@@ -729,7 +729,7 @@ document_132194.html,Pogdora,1125,1132,LOC,Q3861278,NER,yes,test
 document_132194.html,Patria italiana,1392,1407,ORG,Q38,NER,yes,test
 document_132194.html,Sabotino,1791,1799,LOC,Q3861947,NER,yes,test
 document_132197.html,Ministero,326,335,ORG,Q1575872,NER,yes,test
-document_132251.html,Assemblea,120,129,ORG,Q841424,AMD,yes,test
+document_132251.html,Assemblea,120,129,ORG,Q1117578,AMD,yes,test
 document_132254.html,Fiera del levante,123,140,ORG,Q3744601,AMD,yes,test
 document_132254.html,Ella,93,97,PER,Q1238,NER,yes,test
 document_132264.html,Partito,716,723,ORG,Q815348,AMD,yes,test
@@ -842,7 +842,7 @@ document_142005.html,ministro,4,12,PER,Q2514,AMD,no,test
 document_142005.html,ministro,162,170,PER,Q2514,AMD,no,test
 document_142005.html,presidente,371,381,PER,Q4003497,AMD,no,test
 document_142005.html,Camera,420,426,ORG,,NER,no,test
-document_142011.html,Assemblea,150,159,ORG,Q841424,AMD,yes,test
+document_142011.html,Assemblea,150,159,ORG,Q1117578,AMD,yes,test
 document_142011.html,Governo,12,19,ORG,Q3112434,NER,yes,test
 document_142029.html,Moro,44,48,PER,Q171834,AMD,yes,test
 document_142029.html,Sullo,709,714,PER,Q3745884,AMD,no,test

@@ -1,4 +1,6 @@
 import csv
+import os
+
 
 def compute_match(annotation1, annotation2, match_type):
     start_pos1 = int(annotation1["start_pos"])
@@ -56,12 +58,14 @@ def eval_nel(data, model_result, match_type):
     return [len(tp), len(fp), len(fn), precision, recall, f1]
 
 
-with open("../DZ/v0.1/annotations_test.csv", "r", encoding="utf-8") as f2:
+with open("../AMD/v0.3/annotations_test.csv", "r", encoding="utf-8") as f2:
     data = csv.DictReader(f2)
     data = list(data)
 f2.close()
 
-with open("../results/DZ/elite_ed/output.csv", "r", encoding="utf-8") as f3:
+result_path = "../../experiments_5_03_2025/mgenre_impresso_ed"
+
+with open(os.path.join(result_path, "output.csv"), "r", encoding="utf-8") as f3:
     model_result = csv.DictReader(f3)
     model_result = list(model_result)
 f3.close()
@@ -71,7 +75,7 @@ result_nil = [row for row in model_result if not row["identifier"].startswith("Q
 
 results_exact = eval_nel(data_nil, result_nil, "exact")
 
-with open("../results/DZ/elite_ed/results_nil.txt", "w") as output:
+with open(os.path.join(result_path, "result_nil.txt"), "w") as output:
     output.write("Results for NIL entities:\n\n")
     output.write("True Positives: " + str(results_exact[0]) + "\n")
     output.write("False Positives: " + str(results_exact[1]) + "\n")

@@ -3892,7 +3892,7 @@
     "V.E": {
         "identifier": "Q343514",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "Varsavia": {
         "identifier": "Q270",
@@ -3977,7 +3977,7 @@
     "Vostra Eccellenza": {
         "identifier": "Q2356230",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "Washington": {
         "identifier": "Q61",
@@ -4017,7 +4017,7 @@
     "alleanza": {
         "identifier": "Q7184",
         "type": "ORG",
-        "valid": "yes"
+        "valid": "no"
     },
     "amici dell’onorevole Moro": {
         "identifier": "NIL",
@@ -4027,7 +4027,7 @@
     "capitale": {
         "identifier": "Q220",
         "type": "LOC",
-        "valid": "yes"
+        "valid": "no"
     },
     "capitale d’Italia": {
         "identifier": "Q220",
@@ -4042,22 +4042,22 @@
     "città": {
         "identifier": "Q3519",
         "type": "LOC",
-        "valid": "yes"
+        "valid": "no"
     },
     "collega": {
         "identifier": "Q76297",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "collega egiziano": {
         "identifier": "Q6084719",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "collega ungherese": {
         "identifier": "Q1241512",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "coltivatori diretti": {
         "identifier": "Q3682549",
@@ -4067,27 +4067,27 @@
     "commissione": {
         "identifier": "Q3684787",
         "type": "ORG",
-        "valid": "yes"
+        "valid": "no"
     },
     "commissione dei 75": {
         "identifier": "Q3684787",
         "type": "ORG",
-        "valid": "yes"
+        "valid": "no"
     },
     "commissione dei settantacinque": {
         "identifier": "Q3684787",
         "type": "ORG",
-        "valid": "yes"
+        "valid": "no"
     },
     "comunità": {
         "identifier": "Q52847",
         "type": "ORG",
-        "valid": "yes"
+        "valid": "no"
     },
     "conferenza per la pace": {
         "identifier": "Q322943",
         "type": "ORG",
-        "valid": "yes"
+        "valid": "no"
     },
     "consiglio politico europeo": {
         "identifier": "Q8908",
@@ -4097,17 +4097,17 @@
     "continente": {
         "identifier": "Q15",
         "type": "LOC",
-        "valid": "yes"
+        "valid": "no"
     },
     "continente americano": {
         "identifier": "Q828",
         "type": "LOC",
-        "valid": "yes"
+        "valid": "no"
     },
     "costituente": {
         "identifier": "Q1053185",
         "type": "ORG",
-        "valid": "yes"
+        "valid": "no"
     },
     "d.c.": {
         "identifier": "Q815348",
@@ -4132,17 +4132,17 @@
     "esercito": {
         "identifier": "Q37726",
         "type": "ORG",
-        "valid": "yes"
+        "valid": "no"
     },
     "federazione unitaria sindacale": {
         "identifier": "Q3740897",
         "type": "ORG",
-        "valid": "yes"
+        "valid": "no"
     },
     "forze armate": {
         "identifier": "Q8473",
         "type": "ORG",
-        "valid": "yes"
+        "valid": "no"
     },
     "governatore della Banca d’Italia": {
         "identifier": "Q1056557",
@@ -4152,7 +4152,7 @@
     "impegno democratico": {
         "identifier": "NIL",
         "type": "ORG",
-        "valid": "yes"
+        "valid": "no"
     },
     "lei": {
         "identifier": "Q2496",
@@ -4162,12 +4162,12 @@
     "ministro": {
         "identifier": "Q2514",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "ministro degli esteri": {
         "identifier": "Q1240",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "ministro federale austriaco degli Esteri": {
         "identifier": "Q72856",
@@ -4177,7 +4177,7 @@
     "organizzazione": {
         "identifier": "Q3682549",
         "type": "ORG",
-        "valid": "yes"
+        "valid": "no"
     },
     "organizzazione delle Nazioni unite": {
         "identifier": "Q1065",
@@ -4192,27 +4192,27 @@
     "paese": {
         "identifier": "Q38",
         "type": "LOC",
-        "valid": "yes"
+        "valid": "no"
     },
     "paesi latinoamericani": {
         "identifier": "NIL",
         "type": "LOC",
-        "valid": "yes"
+        "valid": "no"
     },
     "papa": {
         "identifier": "Q2604",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "partiti": {
         "identifier": "Q7278",
         "type": "ORG",
-        "valid": "yes"
+        "valid": "no"
     },
     "partito": {
         "identifier": "Q815348",
         "type": "ORG",
-        "valid": "yes"
+        "valid": "no"
     },
     "partito comunista": {
         "identifier": "Q461886",
@@ -4262,22 +4262,22 @@
     "portavoce italiano": {
         "identifier": "Q2895926",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "presidente": {
         "identifier": "Q4003497",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "presidente del consiglio": {
         "identifier": "Q50005",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "presidente della sottocommissione": {
         "identifier": "Q4003498",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "re Feisal": {
         "identifier": "Q217167",
@@ -4292,7 +4292,7 @@
     "regione": {
         "identifier": "Q1447",
         "type": "LOC",
-        "valid": "yes"
+        "valid": "no"
     },
     "relatore": {
         "identifier": "Q65496139",
@@ -4307,12 +4307,12 @@
     "segretario del partito fascista repubblicano": {
         "identifier": "Q742284",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "segretario generale": {
         "identifier": "Q1260",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "signora Frei": {
         "identifier": "Q5695438",
@@ -4327,7 +4327,7 @@
     "sindaco": {
         "identifier": "Q3749537",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "socialdemocratico": {
         "identifier": "Q665335",
@@ -4352,11 +4352,11 @@
     "vicepresidente": {
         "identifier": "Q209989",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     },
     "vostra eccellenza": {
         "identifier": "Q208301",
         "type": "PER",
-        "valid": "yes"
+        "valid": "no"
     }
 }

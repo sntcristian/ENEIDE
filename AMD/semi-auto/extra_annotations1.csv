@@ -89,7 +89,7 @@ document_110104.html,Federazione,160,171,ORG,Q3091708,AMD,yes,train
 document_110104.html,Universitari,172,184,ORG,Q3091708,AMD,yes,train
 document_110120.html,Nazioni Unite,458,471,ORG,Q1065,AMD,yes,train
 document_110120.html,comunità,635,643,ORG,Q52847,AMD,no,train
-document_110123.html,Governo,561,568,ORG,NIL,NER,no,train
+document_110123.html,Governo,561,568,ORG,Q6063,NER,yes,train
 document_110127.html,città,25,30,LOC,Q220,AMD,yes,train
 document_110134.html,capitale,1099,1107,LOC,Q220,AMD,yes,train
 document_110134.html,organizzazione,713,727,ORG,Q3682549,AMD,no,train
@@ -627,7 +627,7 @@ document_132014.html,Paese,129,134,LOC,Q38,AMD,yes,train
 document_132014.html,Governo,324,331,ORG,Q3112299,NER,yes,train
 document_132014.html,Governo,710,717,ORG,Q3112299,NER,yes,train
 document_132014.html,Governo,831,838,ORG,Q3112299,NER,yes,train
-document_132017.html,Governo italiano,116,132,ORG,NIL,NER,no,train
+document_132017.html,Governo italiano,116,132,ORG,Q3773971,NER,yes,train
 document_132020.html,Aldo Moro,121,130,PER,Q171834,AMD,yes,train
 document_132020.html,presidente,92,102,PER,Q4003497,AMD,no,train
 document_132020.html,Consiglio on,107,119,ORG,NIL,NER,no,train
@@ -652,7 +652,7 @@ document_132031.html,Africa,278,284,LOC,Q15,AMD,no,train
 document_132031.html,Continent,373,382,LOC,Q46,AMD,no,train
 document_132031.html,Organizzazione,550,564,ORG,Q191703,AMD,yes,train
 document_132031.html,organizzazione,338,352,ORG,Q3682549,AMD,no,train
-document_132031.html,Governo italiano,478,494,ORG,NIL,NER,no,train
+document_132031.html,Governo italiano,478,494,ORG,Q3773971,NER,yes,train
 document_132036.html,Aldo Moro,43,52,PER,Q171834,AMD,yes,train
 document_132036.html,comunità,478,486,ORG,Q52847,AMD,no,train
 document_132036.html,presidente,14,24,PER,Q4003497,AMD,no,train
@@ -702,7 +702,7 @@ document_132055.html,organizzazione,357,371,ORG,Q3682549,AMD,no,train
 document_132055.html,VII Stati Generali,34,52,ORG,NIL,NER,no,train
 document_132055.html,Congresso,131,140,ORG,NIL,NER,no,train
 document_132055.html,Urbe,583,587,LOC,Q220,NER,yes,train
-document_132055.html,Governo italiano,1368,1384,ORG,NIL,NER,no,train
+document_132055.html,Governo italiano,1368,1384,ORG,Q3773971,NER,yes,train
 document_132055.html,Congresso,1602,1611,ORG,NIL,NER,no,train
 document_132056.html,Capo,1107,1111,PER,Q2604,AMD,no,train
 document_132056.html,Presidente,864,874,PER,Q4003497,AMD,no,train
@@ -767,7 +767,7 @@ document_132088.html,Occidente,1210,1219,LOC,Q160381,AMD,yes,train
 document_132089.html,alleanza,309,317,ORG,Q7184,AMD,no,train
 document_132089.html,ministro,171,179,PER,Q2514,AMD,no,train
 document_132089.html,presidente,71,81,PER,Q4003497,AMD,no,train
-document_132089.html,Governo,13,20,ORG,NIL,NER,no,train
+document_132089.html,Governo,13,20,ORG,Q48525,NER,yes,train
 document_132089.html,Governo,203,210,ORG,Q3112299,NER,yes,train
 document_132090.html,organizzazione,213,227,ORG,Q3682549,AMD,no,train
 document_132090.html,organizzazione,539,553,ORG,Q3682549,AMD,no,train
@@ -783,11 +783,11 @@ document_132093.html,avv,663,666,PER,NIL,NER,no,train
 document_132093.html,Governo,908,915,ORG,Q3112299,NER,yes,train
 document_132093.html,Governo,1096,1103,ORG,Q3112299,NER,yes,train
 document_132094.html,Lei,40,43,PER,Q5662804,NER,no,train
-document_132094.html,Governo italiano,133,149,ORG,NIL,NER,no,train
+document_132094.html,Governo italiano,133,149,ORG,Q3773971,NER,yes,train
 document_132095.html,città,203,208,LOC,Q220,AMD,yes,train
 document_132095.html,città,335,340,LOC,Q220,AMD,no,train
 document_132095.html,paese,437,442,LOC,Q145,AMD,yes,train
-document_132095.html,Governo italiano,64,80,ORG,NIL,NER,no,train
+document_132095.html,Governo italiano,64,80,ORG,Q3773971,NER,yes,train
 document_132096.html,Aldo Moro,32,41,PER,Q171834,AMD,yes,train
 document_132096.html,Moro,294,298,PER,Q171834,AMD,yes,train
 document_132096.html,coltivatori diretti,613,632,ORG,Q3682549,AMD,yes,train
@@ -871,8 +871,8 @@ document_132125.html,Accademia,475,484,ORG,NIL,NER,no,train
 document_132130.html,Roma,131,135,LOC,Q220,AMD,yes,train
 document_132130.html,Roma,869,873,LOC,Q220,AMD,yes,train
 document_132130.html,Signori,12,19,PER,NIL,NER,no,train
-document_132130.html,Governo italiano,96,112,ORG,NIL,NER,no,train
-document_132130.html,Governo italiano,1016,1032,ORG,NIL,NER,no,train
+document_132130.html,Governo italiano,96,112,ORG,Q3773971,NER,yes,train
+document_132130.html,Governo italiano,1016,1032,ORG,Q3773971,NER,yes,train
 document_132130.html,Cattedra di S. Pietro,1485,1506,LOC,NIL,NER,no,train
 document_132133.html,Amministrazione Provinciale,99,126,ORG,NIL,NER,no,train
 document_132136.html,Presidente,1024,1034,PER,Q4003497,AMD,no,train

@@ -1,0 +1,216 @@
+doc_id,surface,start_pos,end_pos,type,identifier,score
+document_110065.html,Associazioni Universitarie,84,110,ORG,NIL,21.02
+document_110065.html,Padre Santo,248,259,PER,NIL,5.54
+document_110065.html,Cristo,515,521,PER,Q642420,79.98
+document_110065.html,Chiesa,582,588,ORG,Q9592,99.6
+document_110065.html,Beatissimo Padre,687,703,PER,Q163900,60.26
+document_110065.html,Universitari,709,721,ORG,NIL,3.42
+document_110092.html,Comitati di liberazione,88,111,ORG,NIL,98.15
+document_110092.html,America,278,285,LOC,Q828,99.12
+document_110199.html,FUCI,509,513,ORG,NIL,97.94
+document_110199.html,Movimento,620,629,ORG,NIL,3.58
+document_110205.html,Margadonna,30,40,PER,NIL,27.17
+document_110205.html,Parri,158,163,PER,NIL,20.61
+document_110220.html,Laureati Cattolici,130,148,ORG,NIL,4.09
+document_110220.html,Laureati,523,531,ORG,NIL,1.54
+document_110220.html,Laureati Cattolici,631,649,ORG,Q1841,15.42
+document_110220.html,Movimento,834,843,ORG,NIL,22.06
+document_110220.html,Laureati,912,920,ORG,NIL,0.04
+document_121003.html,partito socialista italiano,79,106,ORG,Q665335,75.56
+document_121020.html,Presidente,75,85,PER,Q171834,51.64
+document_121020.html,Commissione,123,134,ORG,Q2986700,33.64
+document_121020.html,Presidente,233,243,PER,Q171834,67.35
+document_121024.html,Basso,158,163,PER,Q309938,82.44
+document_121024.html,Marchesi,169,177,PER,NIL,29.41
+document_121043.html,Marchesi,84,92,PER,NIL,19.07
+document_121087.html,Cevolotto,145,154,PER,NIL,15.26
+document_121088.html,Cevolotto,198,207,PER,NIL,12.79
+document_121097.html,Chiesa,76,82,ORG,Q9592,75.19
+document_121109.html,Assemblea costituente,35,56,ORG,NIL,98.25
+document_121170.html,Commissione,58,69,ORG,Q2986700,57.3
+document_121170.html,Targetti,189,197,PER,NIL,27.21
+document_121186.html,Assemblea costituente,100,121,ORG,NIL,98.93
+document_121186.html,Corte costituzionale,174,194,ORG,NIL,95.95
+document_121186.html,Condorelli,353,363,PER,NIL,18.06
+document_122018.html,Parlamento,207,217,ORG,NIL,35.23
+document_122034.html,Corte Costituzionale,349,369,ORG,NIL,96.11
+document_122034.html,Assemblea,407,416,ORG,NIL,80.84
+document_122034.html,Parlamento,955,965,ORG,NIL,79.98
+document_122034.html,Parlamento,1181,1191,ORG,NIL,67.07
+document_122044.html,Presidente,7,17,PER,Q3770116,60.75
+document_122067.html,Mattei,68,74,PER,NIL,2.66
+document_131034.html,Partito,394,401,ORG,Q47729,99.77
+document_131111.html,Berloffa,176,184,PER,NIL,34.68
+document_131111.html,Partito,1793,1800,ORG,Q47729,86.93
+document_131117.html,D.C.,3,7,ORG,NIL,5.63
+document_131126.html,Partito,980,987,ORG,Q47729,96.8
+document_131128.html,Alleanza,925,933,ORG,NIL,72.6
+document_131130.html,Presidente,25,35,PER,Q310158,22.22
+document_131130.html,Governo,220,227,ORG,NIL,20.32
+document_131130.html,Governo,428,435,ORG,NIL,52.75
+document_132006.html,Sommo Pontefice,25,40,PER,Q19546,98.82
+document_132006.html,Chiesa,331,337,ORG,Q34651,66.34
+document_132006.html,Chiesa,476,482,ORG,Q34651,56.74
+document_132028.html,Governo,135,142,ORG,Q7188,28.54
+document_132065.html,Carandini,311,320,PER,Q2846314,35.7
+document_132108.html,Togni,175,180,PER,NIL,22.86
+document_132109.html,Asahi,50,55,ORG,NIL,32.47
+document_132124.html,Stambolic,114,123,PER,NIL,62.52
+document_132165.html,Governo,406,413,ORG,Q7188,25.21
+document_132165.html,Mezzogiorno,1147,1158,LOC,Q132710289,98.51
+document_132179.html,Parlamento italiano,444,463,ORG,NIL,97.87
+document_132179.html,Governo,611,618,ORG,Q7188,48.31
+document_132179.html,Governo,748,755,ORG,Q7188,44.59
+document_132179.html,Parlamento,769,779,ORG,NIL,71.94
+document_132179.html,Almirante,819,828,PER,NIL,3.75
+document_132179.html,Governo,875,882,ORG,Q7188,38.23
+document_132183.html,Arcivescovo,128,139,PER,Q171834,80.79
+document_132183.html,Menna,342,347,PER,NIL,19.06
+document_132198.html,Bargellini,77,87,PER,NIL,68.35
+document_132198.html,Governo,178,185,ORG,Q3112298,38.39
+document_132230.html,Consiglio nazionale,176,195,ORG,Q676078,83.49
+document_132230.html,Consiglio,685,694,ORG,Q48220862,1.85
+document_132230.html,Segretario,773,783,PER,NIL,4.7
+document_132230.html,Partito,868,875,ORG,Q47729,91.98
+document_132257.html,Provincia,251,260,ORG,Q15091,83.5
+document_132274.html,Tremelloni,77,87,PER,NIL,76.87
+document_132289.html,Governo,203,210,ORG,NIL,26.28
+document_132289.html,Andrea Torrente,435,450,PER,NIL,88.12
+document_141002.html,Stefano Brun,103,115,PER,NIL,99.96
+document_141002.html,Unione italiana delle Camere di Commercio,218,259,ORG,NIL,62.07
+document_141002.html,Presidente,279,289,PER,NIL,27.83
+document_141002.html,Stagni,319,325,PER,NIL,38.55
+document_141002.html,Stefano Brun,405,417,PER,NIL,99.97
+document_141027.html,Mezzogiorno,123,134,LOC,Q132710289,99.89
+document_141031.html,Taviani,19,26,PER,Q351697,57.25
+document_141031.html,Gaspari,82,89,PER,NIL,42.59
+document_141036.html,Mezzogiorno,247,258,LOC,Q132710289,99.86
+document_141061.html,Aja,121,124,LOC,Q15,68.62
+document_141061.html,Bruxelles,181,190,LOC,Q9005,82.0
+document_141061.html,Lussemburgo,200,211,LOC,Q1842,68.37
+document_141095.html,Ministre,267,275,PER,Q3385971,9.82
+document_141104.html,Commissione,79,90,ORG,Q8880,85.8
+document_141104.html,Comunità,470,478,ORG,Q458,70.16
+document_141225.html,Comunità,178,186,ORG,Q458,62.64
+document_141267.html,Governatore Generale,7,27,PER,Q53844829,18.1
+document_141267.html,Primo Ministro,40,54,PER,NIL,15.56
+document_141269.html,Comunità,78,86,ORG,Q15180,24.93
+document_141269.html,Comunità,294,302,ORG,NIL,4.98
+document_141270.html,Repubblica Federale Tedesca,47,74,LOC,Q183,98.35
+document_141271.html,Lussemburgo,58,69,LOC,Q1842,87.9
+document_141271.html,NATO,207,211,ORG,NIL,99.9
+document_141271.html,MEC,358,361,ORG,Q6866855,10.35
+document_141271.html,Comunità,461,469,ORG,Q458,77.14
+document_141276.html,Governo maltese,111,126,ORG,Q233,86.53
+document_141276.html,Bemporad,466,474,PER,NIL,25.92
+document_141276.html,Cariglia,480,488,PER,NIL,31.05
+document_141276.html,Governo maltese,542,557,ORG,Q233,53.83
+document_141276.html,Repubblica federale tedesca,975,1002,LOC,Q183,97.96
+document_141302.html,Partito,377,384,ORG,Q47729,93.71
+document_142010.html,Presidente,8,18,PER,NIL,29.77
+document_142010.html,Governo,43,50,ORG,Q298,67.82
+document_142022.html,Presidente,10,20,PER,Q332711,41.27
+document_142022.html,Parlamento italiano,73,92,ORG,NIL,92.67
+document_142022.html,Governo,226,233,ORG,Q3773971,25.97
+document_142022.html,Parlamento,282,292,ORG,Q35749,65.73
+document_142022.html,Paese,299,304,LOC,Q172579,37.91
+document_142022.html,Parlamento,495,505,ORG,Q35749,68.43
+document_142035.html,Paese,302,307,LOC,Q38,97.18
+document_142036.html,Gran Bretagna,345,358,LOC,Q23666,99.95
+document_142036.html,Comunità,377,385,ORG,NIL,62.07
+document_142036.html,Gran Bretagna,428,441,LOC,Q23666,99.93
+document_142036.html,Comunità,496,504,ORG,NIL,61.41
+document_142047.html,OUA,769,772,ORG,NIL,62.12
+document_142061.html,Costituente,125,136,ORG,NIL,96.98
+document_142061.html,Assemblea costituente,1102,1123,ORG,NIL,99.08
+document_142061.html,Repubblica italiana,1156,1175,LOC,Q38,96.96
+document_142079.html,Signor Primo ministro,3,24,PER,Q14212,37.2
+document_142087.html,Primo Ministro,8,22,PER,Q14212,89.64
+document_142120.html,Mezzogiorno,84,95,LOC,Q132710289,99.61
+document_142145.html,Cappi,372,377,PER,NIL,29.85
+document_142145.html,Piccioni,386,394,PER,NIL,79.49
+document_142145.html,Gonella,403,410,PER,NIL,27.01
+document_142145.html,Cingolani,419,428,PER,NIL,15.41
+document_142145.html,Merlin,437,443,PER,NIL,10.55
+document_142145.html,Tupini,452,458,PER,NIL,21.0
+document_142145.html,Colombo,583,590,PER,NIL,32.6
+document_142145.html,Marcora,780,787,PER,NIL,17.68
+document_142145.html,Morlino,797,804,PER,NIL,32.46
+document_142145.html,Gullotti,831,839,PER,NIL,43.45
+document_142145.html,Bisaglia,849,857,PER,NIL,25.53
+document_142196.html,Presidente,7,17,PER,NIL,13.09
+document_142196.html,Tremaglia,200,209,PER,NIL,49.92
+document_142196.html,Presidente della Commissione esteri,391,426,PER,NIL,34.97
+document_142221.html,Camere,10,16,ORG,NIL,36.61
+document_142222.html,D.C.,24,28,ORG,NIL,7.9
+document_110106.html,A.C.I.,143,149,ORG,NIL,60.63
+document_110106.html,Associazioni,292,304,ORG,NIL,31.23
+document_110106.html,Fuci,388,392,ORG,NIL,0.39
+document_121034.html,Basso,71,76,PER,Q309938,93.31
+document_121239.html,Società per l’organizzazione internazionale,39,82,ORG,NIL,98.89
+document_122004.html,Commissione,149,160,ORG,Q2986700,92.06
+document_122004.html,Ministro,335,343,PER,Q1575872,4.0
+document_122004.html,Ministero,504,513,ORG,Q1575872,29.27
+document_122004.html,Ministro,828,836,PER,Q1575872,23.28
+document_122004.html,Ministro,1422,1430,PER,NIL,15.51
+document_122004.html,Marchesi,1454,1462,PER,NIL,26.76
+document_122004.html,Ministero,1510,1519,ORG,Q1575872,15.03
+document_122004.html,Ministro,1606,1614,PER,NIL,43.85
+document_122033.html,Covelli,246,253,PER,NIL,66.4
+document_131120.html,Teatro Nuovo,118,130,ORG,NIL,86.22
+document_132117.html,Sindaco,169,176,PER,Q171834,75.02
+document_132172.html,Ice,122,125,ORG,NIL,1.19
+document_132172.html,Istituto,228,236,ORG,NIL,0.55
+document_132172.html,Tolloy,442,448,PER,NIL,78.64
+document_132172.html,Ice,471,474,ORG,NIL,0.79
+document_132172.html,Donati,481,487,PER,Q2094666,40.25
+document_132172.html,Governo,554,561,ORG,Q3112298,46.75
+document_132172.html,Governo,779,786,ORG,Q3112299,25.22
+document_132296.html,Stato,1021,1026,ORG,NIL,32.54
+document_132296.html,Regione,1114,1121,LOC,Q1222,98.59
+document_132296.html,Consiglio regionale,1182,1201,ORG,Q3687386,57.16
+document_141009.html,PCI,101,104,ORG,Q1428001,51.2
+document_141046.html,Comunità,45,53,ORG,NIL,16.22
+document_141046.html,Jugoslavia,62,72,LOC,Q83286,75.84
+document_141046.html,Governo,234,241,ORG,Q15180,37.71
+document_141203.html,ministro federale austriaco degli Esteri,67,107,PER,NIL,5.51
+document_141249.html,Partiti,450,457,ORG,Q47729,98.75
+document_142053.html,Bruxelles,84,93,LOC,Q9005,75.8
+document_142073.html,Presidente,8,18,PER,Q187336,28.47
+document_142073.html,Governo,809,816,ORG,Q7188,41.85
+document_142073.html,Rognoni,913,920,PER,Q51287109,44.73
+document_142073.html,De Martino,943,953,PER,NIL,59.48
+document_142073.html,Orlandi,962,969,PER,Q20090004,47.99
+document_142073.html,Biasini,978,985,PER,NIL,28.26
+document_142116.html,Primo Ministro,76,90,PER,Q14212,27.62
+document_110032.html,Universitari,46,58,ORG,Q499911,36.55
+document_110032.html,Associazione,131,143,ORG,Q48204,81.46
+document_110032.html,Dio,535,538,PER,Q190,81.78
+document_110032.html,Chiesa,602,608,ORG,Q9592,47.16
+document_110032.html,S. Tommaso,752,762,PER,NIL,82.73
+document_110034.html,Gioventù di Azione Cattolica,161,189,ORG,Q3318304,81.56
+document_110047.html,Associazioni,179,191,ORG,Q3627327,78.4
+document_110144.html,Padre,38,43,PER,Q186350,86.84
+document_121012.html,Lombardi,45,53,PER,NIL,36.09
+document_121021.html,La Pira,334,341,PER,NIL,49.34
+document_121021.html,Basso,363,368,PER,Q309938,74.86
+document_131072.html,Presidente del Consiglio,49,73,PER,Q187336,33.84
+document_131072.html,Morlino,434,441,PER,Q25126063,41.99
+document_131092.html,Partito,79,86,ORG,Q47729,50.31
+document_131092.html,Partito,628,635,ORG,Q47729,53.8
+document_131092.html,Partito,1004,1011,ORG,Q47729,90.61
+document_131092.html,D.C.,1573,1577,ORG,NIL,19.05
+document_132086.html,Nato,137,141,ORG,NIL,99.89
+document_132115.html,Badaloni,39,47,PER,NIL,27.01
+document_132115.html,AIMC,237,241,ORG,NIL,6.08
+document_132173.html,Battisti,357,365,PER,NIL,95.49
+document_132173.html,Battisti,407,415,PER,NIL,99.03
+document_132194.html,Pogdora,1125,1132,LOC,NIL,68.79
+document_132264.html,Partito,716,723,ORG,Q47729,99.3
+document_141172.html,Governo indonesiano,206,225,ORG,Q252,94.14
+document_141245.html,Ripamonti,513,522,PER,NIL,33.24
+document_141245.html,Pedini,558,564,PER,NIL,37.78
+document_141245.html,Picardi,598,605,PER,NIL,36.84
+document_141245.html,Gaja,674,678,PER,NIL,25.15
+document_141245.html,Cairo,833,838,LOC,NIL,91.41
+document_142149.html,Wilson,19,25,PER,NIL,99.95

@@ -66,6 +66,7 @@ with open("./AMD/semi-auto/surface_form_dict.json", "r", encoding="utf-8") as f1
     surface_form_dict = json.load(f1)
 
 valid_surface_forms = set([key for key in surface_form_dict.keys() if surface_form_dict[key]["valid"]=="yes"])
+invalid_surface_forms = set([key for key in surface_form_dict.keys() if surface_form_dict[key]["valid"]=="no"])
 
 new_paragraphs = []
 new_annotations = []
@@ -83,11 +84,12 @@ for row in paragraphs:
     for anno in annotations2:
         if anno["valid"]!="no":
             if anno["source"]=="AMD":
-                item = {"doc_id":doc_id, "start_pos": int(anno["start_pos"]), "end_pos": int(anno["end_pos"]),
-                        "surface":anno["surface"], "type":anno["type"], "identifier":anno["identifier"]}
-                valid_annotations.append(item)
+                if anno["surface"] in valid_surface_forms:
+                    item = {"doc_id":doc_id, "start_pos": int(anno["start_pos"]), "end_pos": int(anno["end_pos"]),
+                            "surface":anno["surface"], "type":anno["type"], "identifier":anno["identifier"]}
+                    valid_annotations.append(item)
             elif anno["source"]=="NER":
-                if any(x.isupper() for x in anno["surface"]) or anno["surface"] in valid_surface_forms:
+                if any(x.isupper() for x in anno["surface"]) and not anno["surface"] in invalid_surface_forms:
                     item = {"doc_id": doc_id, "start_pos": int(anno["start_pos"]), "end_pos": int(anno["end_pos"]),
                             "surface": anno["surface"], "type": anno["type"], "identifier": anno["identifier"]}
                     valid_annotations.append(item)
@@ -122,9 +124,9 @@ dev_df = dev_df.sort_values(by="doc_id", ascending=True)
 test_df = test_df.sort_values(by='doc_id', ascending=True)
 
 # Salvataggio dei dati su file
-train_df.to_csv("./AMD/v0.2/paragraphs_train.csv", index=False, encoding="utf-8")
-dev_df.to_csv("./AMD/v0.2/paragraphs_dev.csv", index=False, encoding="utf-8")
-test_df.to_csv("./AMD/v0.2/paragraphs_test.csv", index=False, encoding="utf-8")
+train_df.to_csv("./AMD/v0.3/paragraphs_train.csv", index=False, encoding="utf-8")
+dev_df.to_csv("./AMD/v0.3/paragraphs_dev.csv", index=False, encoding="utf-8")
+test_df.to_csv("./AMD/v0.3/paragraphs_test.csv", index=False, encoding="utf-8")
 
 
 
@@ -133,19 +135,19 @@ dev_annotations = [ann for ann in new_annotations if ann["doc_id"] in dev_df["do
 test_annotations = [ann for ann in new_annotations if ann["doc_id"] in test_df["doc_id"].values]
 
 keys = new_annotations[0].keys()
-with open("./AMD/v0.2/annotations_train.csv", "w", encoding="utf-8") as f:
+with open("./AMD/v0.3/annotations_train.csv", "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, keys)
     dict_writer.writeheader()
     dict_writer.writerows(train_annotations)
 f.close()
 
-with open("./AMD/v0.2/annotations_dev.csv", "w", encoding="utf-8") as f:
+with open("./AMD/v0.3/annotations_dev.csv", "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, keys)
     dict_writer.writeheader()
     dict_writer.writerows(dev_annotations)
 f.close()
 
-with open("./AMD/v0.2/annotations_test.csv", "w", encoding="utf-8") as f:
+with open("./AMD/v0.3/annotations_test.csv", "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, keys)
     dict_writer.writeheader()
     dict_writer.writerows(test_annotations)

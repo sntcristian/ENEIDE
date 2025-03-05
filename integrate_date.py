@@ -64,13 +64,13 @@ def find_date(g, row):
     return new_row
 
 
-with open("./AMD/v0.2/paragraphs_test.csv", "r", encoding="utf-8") as f1:
+with open("./AMD/v0.3/paragraphs_test.csv", "r", encoding="utf-8") as f1:
     dict_reader = csv.DictReader(f1)
     paragraphs = list(dict_reader)
 
 paragraphs = [find_date(g, row) for row in paragraphs]
 
-with open("./AMD/v0.2/paragraphs_test.csv", "w", encoding="utf-8") as f2:
+with open("./AMD/v0.3/paragraphs_test.csv", "w", encoding="utf-8") as f2:
     dict_writer = csv.DictWriter(f2, paragraphs[0].keys())
     dict_writer.writeheader()
     dict_writer.writerows(paragraphs)
