@@ -1,14 +1,18 @@
 import os
 import glob
 from bs4 import BeautifulSoup
+import csv
 import statistics
 import re
-import json
+import pandas as pd
+from sklearn.model_selection import train_test_split
 
 output = []
 all_paragraphs = []
 
-directory = './data_moro'
+raw_data_directory = '../AMD/raw_html'
+output_path = "../AMD/v0.1"
+
 
 
 class2type_dict = {
@@ -20,7 +24,6 @@ class2type_dict = {
 
 length_counts = {}
 mention_counts = {}
-
 
 def get_date(soup_element):
     max_date = 0
@@ -38,7 +41,7 @@ def get_date(soup_element):
     return max_date
 
 
-for filepath in glob.glob(os.path.join(directory, '*.html')):
+for filepath in glob.glob(os.path.join(raw_data_directory, '*.html')):
     # Estrae il nome del file dal percorso
     file_name = os.path.basename(filepath)
 
@@ -119,7 +122,8 @@ documents_not_outliers = {
     if file not in outliers
 }
 
-
+if not os.path.exists(output_path):
+    os.makedirs(output_path)
 
 all_paragraphs = [par for par in all_paragraphs if par["doc_id"] in documents_not_outliers]
 output = [annotation for annotation in output if annotation["doc_id"] in documents_not_outliers]
@@ -128,52 +132,61 @@ output = [annotation for annotation in output if annotation["doc_id"] in documen
 print(len(all_paragraphs))
 print(len(output))
 
-surface_to_type_dict = dict()
-surface_to_id_dict = dict()
+paragraphs_df = pd.DataFrame(all_paragraphs)
 
+# Rimuoviamo le righe con valori NaN in 'publication_date' per il campionamento stratificato
+paragraphs_df = paragraphs_df.dropna(subset=['publication_date'])
 
-for anno in output:
-    surface_form = anno["surface"]
-    if surface_form in surface_to_id_dict:
-        if anno["identifier"] in surface_to_id_dict[surface_form]:
-            surface_to_id_dict[surface_form][anno["identifier"]]+=1
-        else:
-            surface_to_id_dict[surface_form][anno["identifier"]] = 1
-    else:
-        surface_to_id_dict[surface_form] = {anno["identifier"]: 1}
+# Divisione in training e testing con stratificazione su 'publication_date'
+train_df, test_df = train_test_split(
+    paragraphs_df,
+    test_size=0.3,
+    stratify=paragraphs_df['publication_date'],
+    random_state=42
+)
 
-    if surface_form in surface_to_type_dict:
-        if anno["type"] in surface_to_type_dict[surface_form]:
-            surface_to_type_dict[surface_form][anno["type"]]+=1
-        else:
-            surface_to_type_dict[surface_form][anno["type"]] = 1
-    else:
-        surface_to_type_dict[surface_form] = {anno["type"]: 1}
+dev_df, test_df = train_test_split(
+    test_df,
+    test_size=0.5,
+    random_state=42
+)
 
-
-output_dict = dict()
-for key, value in surface_to_id_dict.items():
-    max_freq_id = 0
-    max_id = ""
-    max_freq_type = 0
-    max_type = ""
-    for q_id in value.keys():
-        if value[q_id]>max_freq_id:
-            max_freq_id = value[q_id]
-            max_id = q_id
-    for _type in surface_to_type_dict[key]:
-        if surface_to_type_dict[key][_type] > max_freq_type:
-            max_freq_type = surface_to_type_dict[key][_type]
-            max_type = _type
-
-    output_dict[key]={"type":max_type, "identifier":max_id, "valid":"no"}
-
-with open("AMD/semi-auto/surface_form_dict.json", "w", encoding="utf-8") as out_f:
-    json.dump(output_dict, out_f, indent=4, sort_keys=True, ensure_ascii=False)
+train_df = train_df.sort_values(by='doc_id', ascending=True)
+dev_df = dev_df.sort_values(by="doc_id", ascending=True)
+test_df = test_df.sort_values(by='doc_id', ascending=True)
 
 
 
+# Salvataggio dei dati su file
+train_df.to_csv(os.path.join(output_path, "paragraphs_train.csv"), index=False, encoding="utf-8")
+dev_df.to_csv(os.path.join(output_path, "paragraphs_dev.csv"), index=False, encoding="utf-8")
+test_df.to_csv(os.path.join(output_path, "paragraphs_test.csv"), index=False, encoding="utf-8")
 
+
+
+train_annotations = [ann for ann in output if ann["doc_id"] in train_df["doc_id"].values]
+dev_annotations = [ann for ann in output if ann["doc_id"] in dev_df["doc_id"].values]
+test_annotations = [ann for ann in output if ann["doc_id"] in test_df["doc_id"].values]
+
+keys = output[0].keys()
+
+with open(os.path.join(output_path, "annotations_train.csv"), "w", encoding="utf-8") as f:
+    dict_writer = csv.DictWriter(f, keys)
+    dict_writer.writeheader()
+    dict_writer.writerows(train_annotations)
+f.close()
+
+with open(os.path.join(output_path, "annotations_dev.csv"), "w", encoding="utf-8") as f:
+    dict_writer = csv.DictWriter(f, keys)
+    dict_writer.writeheader()
+    dict_writer.writerows(dev_annotations)
+f.close()
+
+with open(os.path.join(output_path, "annotations_test.csv"), "w", encoding="utf-8") as f:
+    dict_writer = csv.DictWriter(f, keys)
+    dict_writer.writeheader()
+    dict_writer.writerows(test_annotations)
+f.close()
 
 
 

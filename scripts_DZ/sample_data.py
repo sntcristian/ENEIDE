@@ -3,21 +3,21 @@ import pandas as pd
 import re
 import statistics
 from sklearn.model_selection import train_test_split
+import os
 
 
-
-with open("data_zibaldone/all_paragraphs.csv", "r", encoding="utf-8") as f:
+with open("./paragraphs.csv", "r", encoding="utf-8") as f:
     all_paragraphs = csv.DictReader(f)
     all_paragraphs = list(all_paragraphs)
 f.close()
 
 
-with open("data_zibaldone/all_annotations.csv", "r", encoding="utf-8") as f:
+with open("./annotations.csv", "r", encoding="utf-8") as f:
     all_annotations = csv.DictReader(f)
     all_annotations = list(all_annotations)
 f.close()
 
-
+dataset_path = "../DZ/v0.1/"
 
 length_counts = dict()
 filtered_paragraphs = []
@@ -108,10 +108,12 @@ train_df = train_df.sort_values(by='doc_id', ascending=True)
 dev_df = dev_df.sort_values(by="doc_id", ascending=True)
 test_df = test_df.sort_values(by='doc_id', ascending=True)
 
+if not os.path.exists(dataset_path):
+    os.makedirs(dataset_path)
 
-train_df.to_csv("./DZ/v0.1/paragraphs_train.csv", index=False, encoding="utf-8")
-dev_df.to_csv("./DZ/v0.1/paragraphs_dev.csv", index=False, encoding="utf-8")
-test_df.to_csv("./DZ/v0.1/paragraphs_test.csv", index=False, encoding="utf-8")
+train_df.to_csv(os.path.join(dataset_path, "paragraphs_train.csv"), index=False, encoding="utf-8")
+dev_df.to_csv(os.path.join(dataset_path, "paragraphs_dev.csv"), index=False, encoding="utf-8")
+test_df.to_csv(os.path.join(dataset_path, "paragraphs_test.csv"), index=False, encoding="utf-8")
 
 
 
@@ -120,19 +122,19 @@ dev_annotations = [ann for ann in filtered_annotations if ann["doc_id"] in dev_d
 test_annotations = [ann for ann in filtered_annotations if ann["doc_id"] in test_df["doc_id"].values]
 
 keys = filtered_annotations[0].keys()
-with open("./DZ/v0.1/annotations_train.csv", "w", encoding="utf-8") as f:
+with open(os.path.join(dataset_path, "annotations_train.csv"), "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, keys)
     dict_writer.writeheader()
     dict_writer.writerows(train_annotations)
 f.close()
 
-with open("./DZ/v0.1/annotations_dev.csv", "w", encoding="utf-8") as f:
+with open(os.path.join(dataset_path, "annotations_dev.csv"), "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, keys)
     dict_writer.writeheader()
     dict_writer.writerows(dev_annotations)
 f.close()
 
-with open("./DZ/v0.1/annotations_test.csv", "w", encoding="utf-8") as f:
+with open(os.path.join(dataset_path, "annotations_test.csv"), "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, keys)
     dict_writer.writeheader()
     dict_writer.writerows(test_annotations)

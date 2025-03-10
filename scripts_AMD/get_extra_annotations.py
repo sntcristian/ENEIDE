@@ -4,17 +4,17 @@ import stanza
 import re
 from tqdm import tqdm
 
-with open("AMD/v0.1/paragraphs_test.csv", "r", encoding="utf-8") as f:
+with open("../AMD/v0.1/paragraphs_test.csv", "r", encoding="utf-8") as f:
     data = csv.DictReader(f)
     text_data = list(data)
 f.close()
 
-with open("AMD/v0.1/annotations_test.csv", "r", encoding="utf-8") as f:
+with open("../AMD/v0.1/annotations_test.csv", "r", encoding="utf-8") as f:
     data = csv.DictReader(f)
     annotations_data = list(data)
 f.close()
 
-with open("AMD/semi-auto/surface_form_dict.json", "r", encoding="utf-8") as f:
+with open("../AMD/v0.1/surface_form_dict.json", "r", encoding="utf-8") as f:
     surface_form_dict = json.load(f)
 f.close()
 
@@ -67,7 +67,7 @@ for row in text_data:
     pbar.update(1)
 pbar.close()
 
-with open("../../AMD/semi-auto/annotations_test.csv", "w", encoding="utf-8") as f:
+with open("../AMD/v0.1/manual_annotations.csv", "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, extra_annotations[0].keys())
     dict_writer.writeheader()
     dict_writer.writerows(extra_annotations)
