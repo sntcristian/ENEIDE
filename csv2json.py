@@ -5,11 +5,12 @@ from tqdm import tqdm
 import os
 
 # Load the uploaded CSV files
-paragraphs_train = pd.read_csv('./AMD/v0.3/paragraphs_train.csv')
-annotations_train = pd.read_csv('./AMD/v0.3/annotations_train.csv')
-paragraphs_dev = pd.read_csv('./AMD/v0.3/paragraphs_dev.csv')
-annotations_dev = pd.read_csv('./AMD/v0.3/annotations_dev.csv')
-
+paragraphs_train = pd.read_csv('./AMD/v0.1/paragraphs_train.csv')
+annotations_train = pd.read_csv('./AMD/v0.1/annotations_train.csv')
+paragraphs_dev = pd.read_csv('./AMD/v0.1/paragraphs_dev.csv')
+annotations_dev = pd.read_csv('./AMD/v0.1/annotations_dev.csv')
+paragraphs_test = pd.read_csv('./AMD/v0.1/paragraphs_test.csv')
+annotations_test = pd.read_csv('./AMD/v0.1/annotations_test.csv')
 
 
 # Load Spacy model for tokenization
@@ -72,11 +73,11 @@ for _, row in paragraphs_train.iterrows():
 pbar.close()
 print(len(result_train))
 
-if not os.path.exists("./AMD/v0.3/json_data"):
-    os.makedirs("./AMD/v0.3/json_data")
+if not os.path.exists("./AMD/v0.1/json_data"):
+    os.makedirs("./AMD/v0.1/json_data")
 
 
-output_path = os.path.join('./AMD/v0.3/json_data', 'train.json')
+output_path = os.path.join('./AMD/v0.1/json_data', 'train.json')
 with open(output_path, 'w', encoding="utf-8") as f:
     json.dump(result_train, f, ensure_ascii=False)
 
@@ -93,9 +94,30 @@ for _, row in paragraphs_dev.iterrows():
     if processed_data != None:
         result_dev.append(processed_data)
     pbar.update(1)
+pbar.close()
 
 print(len(result_dev))
 
-output_path = os.path.join('./AMD/v0.3/json_data', 'dev.json')
+output_path = os.path.join('./AMD/v0.1/json_data', 'dev.json')
 with open(output_path, 'w', encoding="utf-8") as f:
-    json.dump(result_train, f, ensure_ascii=False)
+    json.dump(result_dev, f, ensure_ascii=False)
+
+
+pbar = tqdm(total=len(paragraphs_test))
+
+result_test = []
+for _, row in paragraphs_test.iterrows():
+    paragraph_id = row['doc_id']
+    text = row['text']
+    annotations = annotations_test[annotations_dev['doc_id'] == paragraph_id]
+    processed_data = process_document(paragraph_id, text, annotations)
+    if processed_data != None:
+        result_test.append(processed_data)
+    pbar.update(1)
+pbar.close()
+
+print(len(result_test))
+
+output_path = os.path.join('./AMD/v0.1/json_data', 'test.json')
+with open(output_path, 'w', encoding="utf-8") as f:
+    json.dump(result_test, f, ensure_ascii=False)
