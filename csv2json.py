@@ -109,7 +109,7 @@ result_test = []
 for _, row in paragraphs_test.iterrows():
     paragraph_id = row['doc_id']
     text = row['text']
-    annotations = annotations_test[annotations_dev['doc_id'] == paragraph_id]
+    annotations = annotations_test[annotations_test['doc_id'] == paragraph_id]
     processed_data = process_document(paragraph_id, text, annotations)
     if processed_data != None:
         result_test.append(processed_data)
