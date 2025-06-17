@@ -26,7 +26,7 @@ This dataset enables the evaluation of EL systems on humanistic documents rich i
 - Multi-domain content
 - Historical variations in entity surface forms
 - Indirect entity references
-- NIL (Not-in-Link) entities for entities not covered by Wikidata
+- NIL entities for entities not covered by Wikidata
 
 ## Dataset Statistics
 
