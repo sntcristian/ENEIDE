@@ -25,9 +25,11 @@ def eval_ed(data, predictions):
     accuracy = (len(tp) / (len(tp) + len(fp)))*100
     return tp, fp, fn, accuracy
 
-path_data = "../../my_zenodo/ENEIDE/AMD/v1.0"
+path_data = "../data/DZ/v1.0/annotations_test"
 
-path_results = "./results/elite_amd_ed"
+path_results = "./results/DZ/ED/delicate_dz"
+
+dataset_name = "DZ"
 
 with open(os.path.join(path_data, "annotations_test.csv"), "r", encoding="utf-8") as f1:
         data = list(csv.DictReader(f1, delimiter=","))
@@ -46,21 +48,40 @@ data_loc = [row for row in data if row["type"]=="LOC"]
 predictions_loc = [row for row in predictions if row["type"]=="LOC"]
 _,_,_,loc_accuracy = eval_ed(data_loc, predictions_loc)
 
+if dataset_name=="DZ":
 
-data_org = [row for row in data if row["type"]=="ORG"]
-predictions_org = [row for row in predictions if row["type"]=="ORG"]
-_,_,_,org_accuracy = eval_ed(data_org, predictions_org)
+    data_work = [row for row in data if row["type"]=="WORK"]
+    predictions_work = [row for row in predictions if row["type"]=="WORK"]
+    _,_,_,work_accuracy = eval_ed(data_work, predictions_work)
 
-macro_accuracy = (per_accuracy + loc_accuracy + org_accuracy)/3
-with open(os.path.join(path_results, "result.txt"), "w") as output:
-    output.write("True Positives: " + str(len(tp)) + "\n\n")
-    output.write("False Positives: " + str(len(fp)) + "\n\n")
-    output.write("False Negatives: " + str(len(fn)) + "\n\n")
-    output.write("Accuracy: " + str(accuracy) + "\n\n")
-    output.write("Accuracy for class Person: "+ str(per_accuracy) + "\n\n")
-    output.write("Accuracy for class Location: " + str(loc_accuracy) + "\n\n")
-    output.write("Accuracy for class Organization: " + str(org_accuracy) + "\n\n")
-    output.write("Macro-averaged Accuracy: "+str(macro_accuracy)+"\n\n")
+    macro_accuracy = (per_accuracy + loc_accuracy + work_accuracy)/3
+
+    with open(os.path.join(path_results, "result.txt"), "w") as output:
+        output.write("True Positives: " + str(len(tp)) + "\n\n")
+        output.write("False Positives: " + str(len(fp)) + "\n\n")
+        output.write("False Negatives: " + str(len(fn)) + "\n\n")
+        output.write("Accuracy: " + str(accuracy) + "\n\n")
+        output.write("Accuracy for class Person: " + str(per_accuracy) + "\n\n")
+        output.write("Accuracy for class Location: " + str(loc_accuracy) + "\n\n")
+        output.write("Accuracy for class Work: " + str(work_accuracy) + "\n\n")
+        output.write("Macro-averaged Accuracy: " + str(macro_accuracy) + "\n\n")
+
+elif dataset_name=="AMD":
+    data_org = [row for row in data if row["type"] == "ORG"]
+    predictions_org = [row for row in predictions if row["type"] == "ORG"]
+    _, _, _, org_accuracy = eval_ed(data_org, predictions_org)
+
+    macro_accuracy = (per_accuracy + loc_accuracy + org_accuracy) / 3
+    with open(os.path.join(path_results, "result.txt"), "w") as output:
+        output.write("True Positives: " + str(len(tp)) + "\n\n")
+        output.write("False Positives: " + str(len(fp)) + "\n\n")
+        output.write("False Negatives: " + str(len(fn)) + "\n\n")
+        output.write("Accuracy: " + str(accuracy) + "\n\n")
+        output.write("Accuracy for class Person: " + str(per_accuracy) + "\n\n")
+        output.write("Accuracy for class Location: " + str(loc_accuracy) + "\n\n")
+        output.write("Accuracy for class Organization: " + str(org_accuracy) + "\n\n")
+        output.write("Macro-averaged Accuracy: " + str(macro_accuracy) + "\n\n")
+
 
 
 p_keys = tp[0].keys()

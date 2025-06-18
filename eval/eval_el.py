@@ -1,6 +1,11 @@
 import csv
 import os
 
+
+result_path = "./results/AMD/EL/delicate_all"
+annotations_path = "../data/AMD/v1.0/annotations_test.csv"
+
+
 def compute_match(annotation1, annotation2, match_type):
     start_pos1 = int(annotation1["start_pos"])
     end_pos1 = int(annotation1["end_pos"])
@@ -55,8 +60,6 @@ def eval_nel(data, model_result, match_type):
     f1 = (2 * precision * recall) / (precision + recall)
     return [len(tp), len(fp), len(fn), precision, recall, f1]
 
-result_path = "./results/elite_amd_all_el"
-annotations_path = "../../my_zenodo/ENEIDE/AMD/v1.0/annotations_test.csv"
 
 
 with open(annotations_path, "r", encoding="utf-8") as f2:
