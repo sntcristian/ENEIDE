@@ -14,8 +14,8 @@ This dataset enables the evaluation of EL systems on humanistic documents rich i
 ## Dataset Features
 
 ### Sources
-- **Digital Zibaldone**: 4,500+ pages of intellectual reflections on literature, history, philosophy and philology
-- **Aldo Moro Digitale**: Political, legal, and journalistic texts from a prominent Italian politician
+- **Digital Zibaldone**: Texts on literature, history, philosophy and philology
+- **Aldo Moro Digitale**: Political, legal, and journalistic texts from a prominent Italian politician of the 20th century
 
 ### Entity Types
 - **DZ**: Person (`PER`), Location (`LOC`), Literary Work (`WORK`)
@@ -31,10 +31,10 @@ This dataset enables the evaluation of EL systems on humanistic documents rich i
 ## Dataset Statistics
 
 ### Overall Distribution
-| Dataset | Documents | Annotations | Unique Entities | NIL Entities | Overlap (train+dev vs test) |
-|---------|-----------|-------------|----------------|--------------|---------------------------|
-| DZ      | 1,050     | 4,279       | 623            | 298          | 93.19%                    |
-| AMD     | 1,062     | 4,027       | 583            | 86           | 75.38%                    |
+| Dataset | Documents | Annotations |  NIL Entities | Overlap (train+dev vs test) |
+|---------|-----------|-------------|--------------|---------------------------|
+| DZ      | 1,050     | 4,279       | 298          | 93.19%                    |
+| AMD     | 1,062     | 4,027       | 86           | 75.38%                    |
 
 ### Split Distribution (Train/Dev/Test: 70/15/15)
 | Dataset | Train Docs | Dev Docs | Test Docs | Train Annotations | Dev Annotations | Test Annotations |
@@ -98,14 +98,13 @@ Contains information about the text documents:
 | Column | Description |
 |--------|-------------|
 | `doc_id` | Unique document identifier |
-| `title` | Document title |
 | `text` | Full text content |
 | `publication_date` | Publication date (YYYY-MM-DD format) |
 
 **Example:**
 ```csv
-doc_id,title,text,publication_date
-document_110001.html,Saluto,"Miei cari aspiranti, chiamato dalla fiducia di mons. Arcivescovo[1] ...",1932-07-01
+doc_id,text,publication_date
+https://digitalzibaldone.net/node/p1010_1,"Della lingua volgare latina antica v. Andrès, Dell'Orig. d'ogni letteratura ec. Parte 1. c. 11. [...]",1821-01-01
 ```
 
 ### Annotations CSV (`annotations_*.csv`)
@@ -123,7 +122,7 @@ Contains named entity annotations:
 **Example:**
 ```csv
 doc_id,start_pos,end_pos,surface,type,identifier
-document_110001.html,53,64,Arcivescovo,PER,Q34634425
+https://digitalzibaldone.net/node/p1010_1,Andrès,38,44,PER,Q2758559
 ```
 
 ## Usage
