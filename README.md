@@ -42,15 +42,6 @@ This dataset enables the evaluation of EL systems on humanistic documents rich i
 | DZ      | 735        | 157      | 158       | 2,935             | 727             | 617              |
 | AMD     | 743        | 159      | 160       | 2,766             | 604             | 657              |
 
-## Data Quality
-
-Quality assessment conducted by domain experts on 100 samples per dataset:
-
-| Metric    | DZ    | AMD   |
-|-----------|-------|-------|
-| Precision | 96.8% | 91.6% |
-| Recall    | 94.4% | 70.6% |
-| F1-Score  | 95.6% | 79.8% |
 
 ## Data Curation Process
 
