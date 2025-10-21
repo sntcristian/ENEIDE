@@ -56,20 +56,14 @@ To improve annotation coverage, a multi-step enhancement pipeline was implemente
 
 ```
 ENEIDE/
-├── data/
-│   ├── DZ/v1.0/
-│   │   ├── v1.0/
-│   │   ├── assessment/
-│   │   └── README.md
-│   └── AMD/
-│       ├── v1.0/
-│       ├── assessment/
-│       └── README.md
-├── eval/
-│   ├── eval_ed.py
-│   ├── eval_el.py
-│   ├── eval_ner.py
-│   └── results/
+├── ENEIDE-data/
+    │   ├── v1.0/
+    │   │   ├── AMD/
+    │   │   ├── DZ/
+    │   │   ├── quality_assessment/
+├── results/
+│   ├── EL/
+│   ├── NER/
 ├── src/
 │   ├── scripts_DZ/
 │   ├── scripts_AMD/
