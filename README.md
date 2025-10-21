@@ -124,12 +124,12 @@ https://digitalzibaldone.net/node/p1010_1,Andrès,38,44,PER,Q2758559
 import pandas as pd
 
 # Load DZ training data
-dz_paragraphs_train = pd.read_csv('data/DZ/v1.0/paragraphs_train.csv')
-dz_annotations_train = pd.read_csv('data/DZ//v1.0/annotations_train.csv')
+dz_paragraphs_train = pd.read_csv('ENEIDE-data/v1.0/DZ/paragraphs_train.csv')
+dz_annotations_train = pd.read_csv('ENEIDE-data/v1.0/DZ/annotations_train.csv')
 
 # Load AMD training data
-amd_paragraphs_train = pd.read_csv('data/AMD/v1.0/paragraphs_train.csv')
-amd_annotations_train = pd.read_csv('data/AMD/v1.0/annotations_train.csv')
+amd_paragraphs_train = pd.read_csv('ENEIDE-data/v1.0/AMD/paragraphs_train.csv')
+amd_annotations_train = pd.read_csv('ENEIDE-data/v1.0/AMD/annotations_train.csv')
 
 # Example: Get all annotations for a specific document
 doc_id = 'document_110001.html'
@@ -148,14 +148,10 @@ TO BE UPDATED
 
 ## License
 
-This dataset is released under MIT License. Please refer to the LICENSE file for more details.
+This source code is released under MIT License. The ENEIDE dataset is released under a CC-BY-NC-SA 4.0 license.
 
 ## Acknowledgments
 
 - [Digital Zibaldone](https://digitalzibaldone.net/) project for providing the TEI/XML-encoded edition of Leopardi's work
 - [Aldo Moro Digitale](https://aldomorodigitale.unibo.it/) project for the RDFa-encoded corpus of Aldo Moro's works
 
-
-## Dataset Availability
-
-The ENEIDE dataset will be made fully available upon acceptance.

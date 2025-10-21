@@ -1,0 +1,124 @@
+doc_id,surface_form,start_pos,end_pos,type
+document_110034.html,Gioventù di Azione Cattolica,161,189,ORG
+document_110047.html,Azione Fucina,105,118,ORG
+document_110065.html,Padre Santo,248,259,PER
+document_110065.html,Azione Cattolica,628,644,ORG
+document_110065.html,Università Italiane,985,1004,ORG
+document_110088.html,Pio XII,1583,1590,ORG
+document_110090.html,Roos,38,42,PER
+document_110092.html,Sforza,50,56,PER
+document_110092.html,Congresso Nazionale dei Comitati di liberazione,64,111,ORG
+document_110106.html,Luigi Lavitrano,30,45,PER
+document_110106.html,Palermo,65,72,LOC
+document_110139.html,Tunisia,172,179,LOC
+document_110139.html,Italia,302,308,ORG
+document_110143.html,Italia,27,33,LOC
+document_110167.html,Germania,64,72,ORG
+document_121034.html,Basso,71,76,PER
+document_121087.html,Cevolotto,145,154,PER
+document_121087.html,Togliatti,206,215,PER
+document_121093.html,onorevole Moro,3,17,PER
+document_121093.html,Nobile,208,214,ORG
+document_121093.html,tutela,693,699,ORG
+document_121093.html,costituzione,801,813,ORG
+document_121109.html,progetto di costituzione,83,107,LOC
+document_121142.html,Ferdinando Vegas,67,83,PER
+document_121142.html,scuola libera,119,132,ORG
+document_121238.html,Maria Montessori,167,183,PER
+document_122018.html,Maria Montessori,78,94,PER
+document_122044.html,Giuseppe Bettiol,111,127,PER
+document_131006.html,Amici democristiani della Sicilia,0,33,PER
+document_131006.html,cittadini di Palermo,35,55,PER
+document_131092.html,Napoli,198,204,LOC
+document_131106.html,Roma,133,137,LOC
+document_131106.html,Napoli,139,145,LOC
+document_131106.html,Bari,147,151,LOC
+document_131106.html,Pisa,153,157,LOC
+document_131106.html,Foggia,159,165,LOC
+document_131111.html,Direzione,4,13,ORG
+document_131111.html,Commissione per la Conferenza Nazionale Organizzativa,449,502,ORG
+document_131111.html,Segretari Regionali,1189,1208,ORG
+document_131111.html,esperti,1222,1229,ORG
+document_131119.html,Aldo Moro,89,98,PER
+document_131120.html,Teatro Nuovo,118,130,LOC
+document_131120.html,DC,191,193,ORG
+document_131126.html,DC,534,536,ORG
+document_132006.html,Terrasanta,44,54,LOC
+document_132028.html,Rai,39,42,ORG
+document_132047.html,Malta,164,169,LOC
+document_132073.html,Aldo Moro,32,41,PER
+document_132073.html,convegno regionale dei giovani democratici cristiani,78,130,LOC
+document_132086.html,Roma,14,18,LOC
+document_132086.html,Nato,137,141,ORG
+document_132117.html,Aldo Moro,32,41,PER
+document_132117.html,Firenze,57,64,LOC
+document_132124.html,Stambolic,114,123,PER
+document_132172.html,Aldo Moro,159,168,PER
+document_132173.html,Cesare Battisti,64,79,PER
+document_132173.html,Trento,99,105,LOC
+document_132183.html,Aldo Moro,32,41,PER
+document_132183.html,Salerno,299,306,LOC
+document_132198.html,Aldo Moro,44,53,PER
+document_132198.html,Firenze,216,223,LOC
+document_132232.html,Codogno,19,26,LOC
+document_132257.html,Aldo Moro,41,50,PER
+document_132257.html,Giovanni Giraudo,171,187,PER
+document_132257.html,Cuneo,346,351,LOC
+document_132289.html,Massimo Pilotti,387,402,PER
+document_132289.html,Gaetano Azzariti,410,426,PER
+document_132289.html,Andrea Torrente,435,450,PER
+document_141002.html,Unione italiana delle Camere di Commercio,218,259,ORG
+document_141031.html,Taviani,19,26,PER
+document_141031.html,Gaspari,82,89,PER
+document_141036.html,Aldo Moro,6,15,PER
+document_141036.html,Sassari,28,35,LOC
+document_141046.html,Jugoslavia,62,72,ORG
+document_141099.html,Aldo Moro,30,39,PER
+document_141099.html,Brescia,52,59,LOC
+document_141104.html,Commissione,79,90,ORG
+document_141104.html,Comitato dei Rappresentanti Permanenti,293,331,ORG
+document_141155.html,Israele,46,53,LOC
+document_141155.html,Knesset,180,187,ORG
+document_141193.html,Bouteflika,103,113,PER
+document_141203.html,Villa Madama,223,235,LOC
+document_141206.html,Comunità Economica Europea,103,129,ORG
+document_141206.html,Turchia,138,145,ORG
+document_141225.html,Parlamento Europeo,15,33,ORG
+document_141226.html,Mosca,162,167,LOC
+document_141245.html,Mohamed Abdal Marzaban,120,142,ORG
+document_141245.html,Farnesina,178,187,LOC
+document_141245.html,Ripamonti,513,522,PER
+document_141245.html,Pedini,558,564,PER
+document_141245.html,Picardi,598,605,PER
+document_141245.html,Gaja,674,678,PER
+document_141259.html,Aldo Moro,39,48,PER
+document_141259.html,Cassino,52,59,LOC
+document_141259.html,pace,196,200,ORG
+document_141269.html,Comunità dei Dieci,294,312,ORG
+document_141270.html,Willy Brandt,132,144,ORG
+document_141271.html,Lussemburgo,58,69,LOC
+document_141302.html,Provincia,69,78,LOC
+document_141302.html,Gruppo,89,95,ORG
+document_142035.html,Francia,492,499,ORG
+document_142047.html,Africa,58,64,LOC
+document_142051.html,Malta,160,165,LOC
+document_142053.html,Varsavia,47,55,LOC
+document_142061.html,Togliatti,32,41,PER
+document_142079.html,Signor Primo ministro,3,24,PER
+document_142087.html,Signor Primo Ministro,1,22,PER
+document_142087.html,Roma,133,137,LOC
+document_142087.html,Canadà,385,391,ORG
+document_142116.html,Primo Ministro greco,76,96,PER
+document_142116.html,Roma,125,129,LOC
+document_142128.html,governo,332,339,ORG
+document_142128.html,Badioli,472,479,PER
+document_142160.html,Aldo Moro,33,42,PER
+document_142160.html,Vittorio Veneto,82,97,LOC
+document_142186.html,Stati Uniti,56,67,LOC
+document_142196.html,Signor Presidente,0,17,PER
+document_142196.html,onorevoli colleghi,22,40,PER
+document_142196.html,Tremaglia,200,209,PER
+document_142196.html,Presidente,391,401,PER
+document_142196.html,della Commissione esteri,402,426,PER
+document_142209.html,Parlando adAndria,0,17,LOC
+document_142222.html,D.C.,24,28,ORG

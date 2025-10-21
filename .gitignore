@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+./ENEIDE-data/
+./ENEIDE-data/
+
 # C extensions
 *.so
 
@@ -26,7 +29,6 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-data/AMD/v1.0
-data/DZ/v1.0
+
 extra/
 src/utils/mhercl_to_csv.py

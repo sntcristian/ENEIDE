@@ -42,7 +42,8 @@ tag2type = {
     "court decision",
     "war",
     "conference",
-    "law"
+    "law",
+    "opera"
   ]
 }
 
@@ -81,7 +82,9 @@ def convert_json_to_csv(json_file_path, sentences_csv_path, annotations_csv_path
         sentences_data.append({
             'doc_id': doc_id,
             'text': sentence,
-            "publication_date":"1950"
+            "publication_date":"1900",
+            "lang":"en",
+            "genre":"music_periodicals"
         })
 
         for entity in entities:
@@ -158,9 +161,9 @@ def convert_json_to_csv(json_file_path, sentences_csv_path, annotations_csv_path
 # Example usage
 if __name__ == "__main__":
     # Basic usage
-    json_file = "../KE-MHISTO/Datasets/MHERCL_ITA.json"  # Your input JSON file
-    sentences_output = "./data/MHERCL-ITA/paragraphs_test.csv"
-    annotations_output = "./data/MHERCL-ITA/annotations_test.csv"
+    json_file = "../KE-MHISTO/Datasets/MHERCL_EN.json"  # Your input JSON file
+    sentences_output = "./test_data/MHERCL_EN/paragraphs_test.csv"
+    annotations_output = "./data/MHERCL_EN/annotations_test.csv"
 
     # Use the basic version
     convert_json_to_csv(json_file, sentences_output, annotations_output)
