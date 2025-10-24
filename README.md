@@ -135,11 +135,6 @@ print(f"Annotations: {len(doc_annotations)} entities found")
 ```
 
 
-
-## Citation
-
-TO BE UPDATED
-
 ## License
 
 This source code is released under MIT License. The ENEIDE dataset is released under a CC-BY-NC-SA 4.0 license.
