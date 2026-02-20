@@ -5,6 +5,7 @@ __pycache__/
 
 ./ENEIDE-data/
 ./ENEIDE-data/
+./extra
 
 # C extensions
 *.so
