@@ -34,7 +34,7 @@ Precision: 0.6047430830039525
 Recall: 0.4811320754716981
 F1: 0.5359019264448337
 
-Results with exact match for class Organization:
+Results with exact match for class Work:
 
 True Positives: 35
 False Positives: 191
@@ -43,7 +43,7 @@ Precision: 0.15486725663716813
 Recall: 0.20710059171597633
 F1: 0.17721518987341775
 
-Results with relaxed match for class Organization:
+Results with relaxed match for class Work:
 
 True Positives: 63
 False Positives: 163
